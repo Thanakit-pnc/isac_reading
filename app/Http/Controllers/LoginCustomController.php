@@ -45,6 +45,8 @@ class LoginCustomController extends Controller
             Auth::guard('student')->login($student);
 
             return redirect('/home');
+        } else {
+            return back()->with('status', 'Username or password do not match');
         }
 
     }

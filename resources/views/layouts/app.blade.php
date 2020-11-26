@@ -1,13 +1,13 @@
 <?php 
 
     if(empty(Auth::guard('student')->user()->crm_std_id)) {
-        $imgURL = "assets/images/users/icon-man.png";
+        $imgURL = "public/assets/images/users/icon-man.png";
     } else {
         $crm_id = DB::connection('crm')->table('enquiry')->where('enquiry_id', Auth::guard('student')->user()->crm_std_id)->get();
         if($crm_id[0]->gender == 'm') {
-            $imgURL = "assets/images/users/icon-man.png";
+            $imgURL = "public/assets/images/users/icon-man.png";
         } else {
-            $imgURL = "assets/images/users/icon-girl.png";
+            $imgURL = "public/assets/images/users/icon-girl.png";
         }
     }
 
@@ -20,12 +20,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <!-- App favicon -->
-        <link rel="shortcut icon" href="{{ asset('assets/images/favicon.ico') }}">
+        <link rel="shortcut icon" href="{{ asset('public/assets/images/favicon.ico') }}">
 
         <!-- App css -->
-        <link href="{{ asset('assets/css/bootstrap.min.css') }}" rel="stylesheet" type="text/css" />
-        <link href="{{ asset('assets/css/icons.min.css') }}" rel="stylesheet" type="text/css" />
-        <link href="{{ asset('assets/css/app.min.css') }}" rel="stylesheet" type="text/css" />
+        <link href="{{ asset('public/assets/css/bootstrap.min.css') }}" rel="stylesheet" type="text/css" />
+        <link href="{{ asset('public/assets/css/icons.min.css') }}" rel="stylesheet" type="text/css" />
+        <link href="{{ asset('public/assets/css/app.min.css') }}" rel="stylesheet" type="text/css" />
 
         <style>
             @media(min-width: 991px) {
@@ -136,10 +136,10 @@
         <div class="rightbar-overlay"></div>
 
         <!-- Vendor js -->
-        <script src="{{ asset('assets/js/vendor.min.js') }}"></script>
+        <script src="{{ asset('public/assets/js/vendor.min.js') }}"></script>
         @yield('javascript')
         <!-- App js -->
-        <script src="{{ asset('assets/js/app.min.js') }}"></script>
+        <script src="{{ asset('public/assets/js/app.min.js') }}"></script>
         
     </body>
 </html>

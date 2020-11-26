@@ -6,12 +6,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <!-- App favicon -->
-        <link rel="shortcut icon" href="assets/images/favicon.ico">
+        <link rel="shortcut icon" href="{{ asset('public/assets/images/favicon.ico') }}">
 
         <!-- App css -->
-        <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-        <link href="assets/css/icons.min.css" rel="stylesheet" type="text/css" />
-        <link href="assets/css/app.min.css" rel="stylesheet" type="text/css" />
+        <link href="{{ asset('public/assets/css/bootstrap.min.css') }}" rel="stylesheet" type="text/css" />
+        <link href="{{ asset('public/assets/css/icons.min.css') }}" rel="stylesheet" type="text/css" />
+        <link href="{{ asset('public/assets/css/app.min.css') }}" rel="stylesheet" type="text/css" />
 
     </head>
 
@@ -27,6 +27,15 @@
                                     <h3 class="d-flex justify-content-center align-items-center"><i class="mdi mdi-book-open-page-variant mdi-48px text-primary mr-2"></i> iSAC Reading</h3>
                                     <p class="text-muted mt-3">Enter your username and password to access iSAC Reading.</p>
                                 </div>
+
+                                @if(session()->has('status'))
+                                <div class="alert alert-danger alert-dismissible bg-danger text-white border-0 fade show" role="alert">
+                                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                        <span aria-hidden="true">×</span>
+                                    </button>
+                                    {{ session()->get('status') }}
+                                </div>
+                                @endif
 
                                 <form action="{{ route('login') }}" method="POST" novalidate>
                                     {{ csrf_field() }}
@@ -70,10 +79,10 @@
         </footer>
 
         <!-- Vendor js -->
-        <script src="assets/js/vendor.min.js"></script>
+        <script src="{{ asset('public/assets/js/vendor.min.js') }}"></script>
 
         <!-- App js -->
-        <script src="assets/js/app.min.js"></script>
+        <script src="{{ asset('public/assets/js/app.min.js') }}"></script>
         
     </body>
 </html>
