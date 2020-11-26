@@ -15,6 +15,7 @@
 
 @section('content')
 <div class="row justify-content-center mt-3">
+<h1 class="display-1">Test Pull Updated</h1>
     <div class="col-md-4 mb-3 mb-lg-0">
         <a href="javascript: void(0);" class="hover-scale" id="general-english">
             <div class="widget-simple text-center card-box border-top border-primary border-2">
