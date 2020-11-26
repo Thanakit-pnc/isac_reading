@@ -22,6 +22,8 @@
         <!-- App favicon -->
         <link rel="shortcut icon" href="{{ asset('public/assets/images/favicon.ico') }}">
 
+        <!-- Custom box css -->
+        <link href="{{ asset('public/assets/libs/custombox/custombox.min.css') }}" rel="stylesheet">
         <!-- App css -->
         <link href="{{ asset('public/assets/css/bootstrap.min.css') }}" rel="stylesheet" type="text/css" />
         <link href="{{ asset('public/assets/css/icons.min.css') }}" rel="stylesheet" type="text/css" />
@@ -137,6 +139,8 @@
 
         <!-- Vendor js -->
         <script src="{{ asset('public/assets/js/vendor.min.js') }}"></script>
+        <!-- Modal-Effect -->
+        <script src="{{ asset('public/assets/libs/custombox/custombox.min.js') }}"></script>
         @yield('javascript')
         <!-- App js -->
         <script src="{{ asset('public/assets/js/app.min.js') }}"></script>

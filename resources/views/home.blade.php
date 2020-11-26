@@ -46,6 +46,7 @@
         </div>
     </div>
 </div>
+
 @endsection
 
 @section('javascript')

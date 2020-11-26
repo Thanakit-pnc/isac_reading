@@ -30,3 +30,4 @@ Route::middleware(['auth:student'])->group(function () {
     });
     Route::get('pdf/{level?}/{file?}', 'HomeController@pdf');
 });
+
