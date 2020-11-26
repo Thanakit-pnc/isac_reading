@@ -30,6 +30,7 @@
 </div>
 
 <div class="row">
+<a href="{{ asset('public/assets/pdf/L2/the-haunted-house.pdf') }}" class="btn btn-dark">PDF</a>
     <div class="col-md-12">
         <div class="row justify-content-center">
             <div class="col-lg-4">
