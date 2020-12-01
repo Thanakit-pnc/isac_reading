@@ -30,7 +30,7 @@
 </head>
 <body>
     <div class="responsive-wrapper">
-        <iframe src="{{ asset($pdf['url']) }}" type="application/pdf"></iframe>
+        <iframe src="{{ asset($pdf['url']) }}" type="application/pdf" frameborder="0"></iframe>
     </div>
 </body>
 </html>

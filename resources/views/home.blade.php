@@ -40,13 +40,28 @@
         </a>
 
         <div id="ielts-topics-content" style="display: none;">
-            <div class="d-flex flex-column text-center">
-                <h1>Coming Soon</h1>
+            <div class="d-flex flex-column text-center font-16">
+                <a href="{{ url('GE/L1') }}" data-toggle="modal" data-target="ielts-topic" data-title="an-environmental-disaster" class="btn btn-success mb-2">An environmental disaster</a>
+                <a href="{{ url('GE/L2') }}" data-toggle="modal" data-target="ielts-topic" data-title="an-environmental-disaster" class="btn btn-success mb-2">Body piercing</a>
             </div>
         </div>
     </div>
 </div>
 
+<div class="modal fade ielts-topic" tabindex="-1" role="dialog" aria-labelledby="myCenterModalLabel" aria-hidden="true" style="display: none;">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-body text-center pt-2">
+                <h3 class="mt-0">Select Mode</h3>
+                <form action="#" method="post">
+                    {{ csrf_field() }}
+                    <button class="btn btn-secondary waves-effect"> <i class="fa fa-heart mr-1"></i> Like</button>
+                    <input type="submit" class="btn btn-primary" value="Practice" name="practice">
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
 @endsection
 
 @section('javascript')
@@ -61,5 +76,15 @@
     $('#ielts-topics').click(function() {
         $('#ielts-topics-content').slideToggle();
     });
+
+    $('#exampleModal').on('show.bs.modal', function (event) {
+  var button = $(event.relatedTarget) // Button that triggered the modal
+  var recipient = button.data('title') // Extract info from data-* attributes
+  // If necessary, you could initiate an AJAX request here (and then do the updating in a callback).
+  // Update the modal's content. We'll use jQuery here, but you could use a data binding library or other methods instead.
+  var modal = $(this)
+  modal.find('.modal-title').text('New message to ' + recipient)
+  modal.find('.modal-body input').val(recipient)
+})
 </script>
 @stop
