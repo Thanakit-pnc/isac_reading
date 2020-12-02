@@ -3,7 +3,8 @@
 @section('content')
 <div class="row">
     <div class="col-md-12">
-        <h3>An Envi</h3>
+        <h1>Body piercing</h1>
+        <?php dd($timer); ?>
     </div>
 </div>
 @endsection

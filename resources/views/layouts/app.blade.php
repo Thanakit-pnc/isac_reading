@@ -110,6 +110,12 @@
 
         <div class="wrapper">
             <div class="container-fluid">
+                
+                @if(isset($timer))
+                    @if($timer == 1)
+                        <h1>Count Down</h1>
+                    @endif
+                @endif
 
                 @yield('content')
 

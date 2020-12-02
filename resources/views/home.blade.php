@@ -10,6 +10,10 @@
     .hover-scale:hover i.fas {
         transform: scale(1.1);
     }
+
+    .border-2 {
+        border-width: 2px;
+    }
 </style>
 @stop
 
@@ -41,22 +45,25 @@
 
         <div id="ielts-topics-content" style="display: none;">
             <div class="d-flex flex-column text-center font-16">
-                <a href="{{ url('GE/L1') }}" data-toggle="modal" data-target="ielts-topic" data-title="an-environmental-disaster" class="btn btn-success mb-2">An environmental disaster</a>
-                <a href="{{ url('GE/L2') }}" data-toggle="modal" data-target="ielts-topic" data-title="an-environmental-disaster" class="btn btn-success mb-2">Body piercing</a>
+                <button data-toggle="modal" data-target="#ielts-topic" data-title="An environmental disaster" class="btn btn-success mb-2">An environmental disaster</button>
+                <button data-toggle="modal" data-target="#ielts-topic" data-title="Body piercing" class="btn btn-success mb-2">Body piercing</button>
             </div>
         </div>
     </div>
 </div>
 
-<div class="modal fade ielts-topic" tabindex="-1" role="dialog" aria-labelledby="myCenterModalLabel" aria-hidden="true" style="display: none;">
+<div class="modal fade" id="ielts-topic" tabindex="-1" role="dialog" aria-labelledby="myCenterModalLabel" aria-hidden="true" style="display: none;">
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
+            <div class="modal-header py-1 text-center">
+                <h3 class="modal-title my-0 mx-auto"></h3>
+            </div>
             <div class="modal-body text-center pt-2">
-                <h3 class="mt-0">Select Mode</h3>
-                <form action="#" method="post">
+                <form action="{{ route('store.ielts-topic') }}" method="post">
                     {{ csrf_field() }}
-                    <button class="btn btn-secondary waves-effect"> <i class="fa fa-heart mr-1"></i> Like</button>
-                    <input type="submit" class="btn btn-primary" value="Practice" name="practice">
+                    <input type="hidden" name="title">
+                    <button type="submit" class="btn btn-primary waves-effect mr-2" name="button" value="practice"><i class="fas fa-location-arrow"></i> Practice</button>
+                    <button type="submit" class="btn btn-success waves-effect" name="button" value="test"><i class="fas fa-clock"></i> Test</button>
                 </form>
             </div>
         </div>
@@ -77,14 +84,12 @@
         $('#ielts-topics-content').slideToggle();
     });
 
-    $('#exampleModal').on('show.bs.modal', function (event) {
-  var button = $(event.relatedTarget) // Button that triggered the modal
-  var recipient = button.data('title') // Extract info from data-* attributes
-  // If necessary, you could initiate an AJAX request here (and then do the updating in a callback).
-  // Update the modal's content. We'll use jQuery here, but you could use a data binding library or other methods instead.
-  var modal = $(this)
-  modal.find('.modal-title').text('New message to ' + recipient)
-  modal.find('.modal-body input').val(recipient)
-})
+    $('#ielts-topic').on('show.bs.modal', function (event) {
+        let button = $(event.relatedTarget) 
+        let title = button.data('title') 
+        let modal = $(this)
+        modal.find('input[name="title"]').val(title);
+        modal.find('h3.modal-title').text(title);
+    })
 </script>
 @stop

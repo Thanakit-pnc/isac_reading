@@ -29,5 +29,7 @@ Route::middleware(['auth:student'])->group(function () {
        Route::get('{level?}', 'GeneralController@chooseLevel');
     });
     Route::get('pdf/{level?}/{file?}', 'HomeController@pdf');
+
+    Route::post('/ielts-topic', "IELTSController@index")->name('store.ielts-topic');
 });
 
