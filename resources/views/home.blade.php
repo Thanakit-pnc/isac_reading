@@ -59,12 +59,8 @@
                 <h3 class="modal-title my-0 mx-auto"></h3>
             </div>
             <div class="modal-body text-center pt-2">
-                <form action="{{ route('store.ielts-topic') }}" method="post">
-                    {{ csrf_field() }}
-                    <input type="hidden" name="title">
-                    <button type="submit" class="btn btn-primary waves-effect mr-2" name="button" value="practice"><i class="fas fa-location-arrow"></i> Practice</button>
-                    <button type="submit" class="btn btn-success waves-effect" name="button" value="test"><i class="fas fa-clock"></i> Test</button>
-                </form>
+                <a href="" id="practice" class="btn btn-primary waves-effect mr-2"><i class="fas fa-location-arrow"></i> Practice</a>
+                <a href="" id="test" class="btn btn-success waves-effect" value="test"><i class="fas fa-clock"></i> Test</a>
             </div>
         </div>
     </div>
@@ -86,9 +82,16 @@
 
     $('#ielts-topic').on('show.bs.modal', function (event) {
         let button = $(event.relatedTarget) 
-        let title = button.data('title') 
+        let title = button.data('title') ;
         let modal = $(this)
-        modal.find('input[name="title"]').val(title);
+
+        let url_slug = title.replaceAll(' ', '-').toLowerCase()
+
+        let practice = url_slug + '/P';
+        let test = url_slug + '/T';
+
+        modal.find('#practice').attr('href', practice);
+        modal.find('#test').attr('href', test);
         modal.find('h3.modal-title').text(title);
     })
 </script>

@@ -36,8 +36,19 @@
                 }
             }
 
+            @media(min-width: 1200px) {
+                .container-fluid {
+                    max-width: 100%;
+                }
+            }
+
             .border-2 {
                 border-width: 2px !important;
+            }
+
+            .overflow-custom {
+                height: 65vh;
+                overflow: auto;
             }
         </style>
         @yield('css')
@@ -111,15 +122,8 @@
         <div class="wrapper">
             <div class="container-fluid">
                 
-                @if(isset($timer))
-                    @if($timer == 1)
-                        <h1>Count Down</h1>
-                    @endif
-                @endif
-
                 @yield('content')
 
-                
             </div> <!-- end container -->
         </div>
         <!-- end wrapper -->
