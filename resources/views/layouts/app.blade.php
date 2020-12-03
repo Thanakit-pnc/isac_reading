@@ -24,6 +24,8 @@
 
         <!-- Custom box css -->
         <link href="{{ asset('public/assets/libs/custombox/custombox.min.css') }}" rel="stylesheet">
+         <!-- Sweet Alert-->
+        <link href="{{ asset('public/assets/libs/sweetalert2/sweetalert2.min.css') }}" rel="stylesheet" type="text/css" />
         <!-- App css -->
         <link href="{{ asset('public/assets/css/bootstrap.min.css') }}" rel="stylesheet" type="text/css" />
         <link href="{{ asset('public/assets/css/icons.min.css') }}" rel="stylesheet" type="text/css" />
@@ -47,7 +49,7 @@
             }
 
             .overflow-custom {
-                height: 65vh;
+                height: 70vh;
                 overflow: auto;
             }
         </style>
@@ -119,7 +121,7 @@
         <!-- Start Page Content here -->
         <!-- ============================================================== -->
 
-        <div class="wrapper">
+        <div class="wrapper mb-2">
             <div class="container-fluid">
                 
                 @yield('content')
@@ -133,7 +135,7 @@
         <!-- ============================================================== -->
     
         <!-- Footer Start -->
-        <footer class="footer">
+        <footer class="footer mt-2">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-12 text-center">
@@ -151,7 +153,15 @@
         <script src="{{ asset('public/assets/js/vendor.min.js') }}"></script>
         <!-- Modal-Effect -->
         <script src="{{ asset('public/assets/libs/custombox/custombox.min.js') }}"></script>
+        <!-- Sweet Alerts js -->
+        <script src="{{ asset('public/assets/libs/sweetalert2/sweetalert2.min.js') }}"></script>
+        <!-- Sweet alert init js-->
+        <script src="{{ asset('public/assets/js/pages/sweet-alerts.init.js') }}"></script>
+        <script src="{{ asset('public/js/timer.js') }}"></script>
         @yield('javascript')
+        <script>
+            $('#reset').on('click', () => location.reload());
+        </script>
         <!-- App js -->
         <script src="{{ asset('public/assets/js/app.min.js') }}"></script>
         

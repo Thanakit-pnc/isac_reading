@@ -43,7 +43,7 @@
                 <div class="card-box pt-1 border border-muted reading-content">
                     <h4><ins>The Fisherman and the Mermaid</ins></h4>
                     <h4>Read :</h4>
-                    <a href="{{ url('pdf/L3/the-fisherman-and-the-mermaid') }}" target="_blank" role="button" class="btn btn-dark btn-block"><i class="far fa-file-pdf"></i> PDF</a>
+                    <a href="{{ url('pdf/L3/the-fisherman-and-the-mermaid-story') }}" target="_blank" role="button" class="btn btn-dark btn-block"><i class="far fa-file-pdf"></i> PDF</a>
                     <h4>Downloads :</h4>
                     <div class="d-flex align-items-center">
                         <a href="{{ asset('assets/pdf/L3/the-fisherman-and-the-mermaid-workbook.pdf') }}" class="btn btn-primary mr-2"><i class="fas fa-file-download"></i></a> 
@@ -57,7 +57,7 @@
             </div>
 
             <div class="col-lg-4">
-                <a href="javascript: void(0);" class="read-btn">
+                <a href="{{ url('pdf/L3/the-haunted-house-story') }}" class="read-btn">
                     <div class="widget-simple text-center card-box border-top border-primary border-2">
                         <i class="fas fa-book-open fa-4x text-primary mb-2"></i>
                         <h4 class="text-primary counter my-0">Example 2</h4>

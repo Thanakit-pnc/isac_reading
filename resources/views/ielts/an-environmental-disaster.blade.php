@@ -1,5 +1,16 @@
 @extends('layouts.app')
 
+@section('css')
+<style>
+    .position-absolute {
+        position: absolute;
+        top: 50px;
+        right: 20px;
+        z-index: 10000;
+    }
+</style>
+@stop
+
 @section('content')
 <form id="form-exam" method="POST">
     <div class="row mt-1">
@@ -9,7 +20,7 @@
         <div class="col-md-6">
             @isset($timer)
                 @if($timer == 1)
-                <h4 class="text-right">20 minutes 00 seconds</h4>
+                <h4 class="text-right" id="time"><span class="text-danger">20</span> minutes <span class="text-danger">00</span> seconds</h4>
                 @endif
             @endisset
         </div>
@@ -50,7 +61,8 @@
         <div class="col-md-6">
             <div class="card-box font-16 text-dark overflow-custom">
                 <h4 class="mt-0 mb-1">Questions 1 - 5</h4>
-                <p>Do the following statements agree with the information given in the passage?</p>
+                <p class="mb-0">Do the following statements agree with the information given in the passage?</p>
+                <p class="font-weight-bold">For Questions 1-5 select</p>
                 <div class="row">
                     <div class="col-md-3">
                         <div class="d-flex flex-column">
@@ -70,48 +82,58 @@
                 <div class="row mt-2">
                     <div class="col-md-12">
                         <p class="mb-1">1. There are more than fifteen hundred islands in the Aral Sea.</p>
-                        <select name="q1" class="form-control w-auto ml-2 mb-2">
-                            <option value="">Select Answer</option>
-                            <option value="T">TRUE</option>
-                            <option value="F">FALSE</option>
-                            <option value="NG">NOT GIVEN</option>
-                        </select>
+                        <div class="d-flex align-items-center mb-2">
+                            <select name="q1" class="form-control w-auto ml-2">
+                                <option value="">Select Answer</option>
+                                <option value="TRUE">TRUE</option>
+                                <option value="FALSE">FALSE</option>
+                                <option value="NOT GIVEN">NOT GIVEN</option>
+                            </select>
+                        </div>
                         <p class="mb-1">2. The Aral Sea now consists of just 4 small lakes.</p>
-                        <select name="q2" class="form-control w-auto ml-2 mb-2">
-                            <option value="">Select Answer</option>
-                            <option value="T">TRUE</option>
-                            <option value="F">FALSE</option>
-                            <option value="NG">NOT GIVEN</option>
-                        </select>
+                        <div class="d-flex align-items-center mb-2">
+                            <select name="q2" class="form-control w-auto ml-2">
+                                <option value="">Select Answer</option>
+                                <option value="TRUE">TRUE</option>
+                                <option value="FALSE">FALSE</option>
+                                <option value="NOT GIVEN">NOT GIVEN</option>
+                            </select>
+                        </div>
                         <p class="mb-1">3. The region’s fishing industry used to be the largest in the world.</p>
-                        <select name="q3" class="form-control w-auto ml-2 mb-2">
-                            <option value="">Select Answer</option>
-                            <option value="T">TRUE</option>
-                            <option value="F">FALSE</option>
-                            <option value="NG">NOT GIVEN</option>
-                        </select>
+                        <div class="d-flex align-items-center mb-2">
+                            <select name="q3" class="form-control w-auto ml-2">
+                                <option value="">Select Answer</option>
+                                <option value="TRUE">TRUE</option>
+                                <option value="FALSE">FALSE</option>
+                                <option value="NOT GIVEN">NOT GIVEN</option>
+                            </select>
+                        </div>
                         <p class="mb-1">4. Uzbekistan’s cotton industry has become very successful.</p>
-                        <select name="q4" class="form-control w-auto ml-2 mb-2">
-                            <option value="">Select Answer</option>
-                            <option value="T">TRUE</option>
-                            <option value="F">FALSE</option>
-                            <option value="NG">NOT GIVEN</option>
-                        </select>
+                        <div class="d-flex align-items-center mb-2">
+                            <select name="q4" class="form-control w-auto ml-2">
+                                <option value="">Select Answer</option>
+                                <option value="TRUE">TRUE</option>
+                                <option value="FALSE">FALSE</option>
+                                <option value="NOT GIVEN">NOT GIVEN</option>
+                            </select>
+                        </div>
                         <p class="mb-1">5. More than one hundred irrigation canals were built to provide water for the crops.</p>
-                        <select name="q5" class="form-control w-auto ml-2 mb-2">
-                            <option value="">Select Answer</option>
-                            <option value="T">TRUE</option>
-                            <option value="F">FALSE</option>
-                            <option value="NG">NOT GIVEN</option>
-                        </select>
+                        <div class="d-flex align-items-center mb-2">
+                            <select name="q5" class="form-control w-auto ml-2">
+                                <option value="">Select Answer</option>
+                                <option value="TRUE">TRUE</option>
+                                <option value="FALSE">FALSE</option>
+                                <option value="NOT GIVEN">NOT GIVEN</option>
+                            </select>
+                        </div>
                     </div>
                 </div>
 
-                <hr>
+                <div class="bg-dark my-2 border border-dark"></div>
 
                 <h4 class="mt-0 mb-1">Questions 6 - 10</h4>
                 <p class="mb-0">Classify the following statements as referring to the different years.</p>
-                <p class="mb-0">For Questions 6 – 10 write a letter, A, B, or C,</p>
+                <p class="mb-0">For Questions 6 – 10 select a letter, A, B, C, or D.</p>
                 <p>NB You may use each letter more than once.</p>
                 <div class="row">
                     <div class="col-md-12">
@@ -126,44 +148,169 @@
                     <div class="col-md-12">
                         <div class="form-group">
                             <label for="q6" class="col-form-label">6. A dam was built to prevent the sea from shrinking further.</label>
-                            <input type="text" name="q6" id="q6" class="form-control">
+                            <div class="d-flex align-items-center mb-2">
+                                <select name="q6" class="form-control w-auto ml-2">
+                                    <option value="">Select Answer</option>
+                                    <option value="A">A</option>
+                                    <option value="B">B</option>
+                                    <option value="C">C</option>
+                                    <option value="D">D</option>
+                                </select>
+                            </div>
                         </div>
                         <div class="form-group">
                             <label for="q7" class="col-form-label">7. The Aral Sea was the fourth largest lake in the world.</label>
-                            <input type="text" name="q7" id="q7" class="form-control">
+                            <div class="d-flex align-items-center mb-2">
+                                <select name="q7" class="form-control w-auto ml-2">
+                                    <option value="">Select Answer</option>
+                                    <option value="A">A</option>
+                                    <option value="B">B</option>
+                                    <option value="C">C</option>
+                                    <option value="D">D</option>
+                                </select>
+                            </div>
                         </div>
                         <div class="form-group">
                             <label for="q8" class="col-form-label">8. The Aral Sea was the eighth largest lake in the world.</label>
-                            <input type="text" name="q8" id="q8" class="form-control">
+                            <div class="d-flex align-items-center mb-2">
+                                <select name="q8" class="form-control w-auto ml-2">
+                                    <option value="">Select Answer</option>
+                                    <option value="A">A</option>
+                                    <option value="B">B</option>
+                                    <option value="C">C</option>
+                                    <option value="D">D</option>
+                                </select>
+                            </div>
                         </div>
                         <div class="form-group">
                             <label for="q9" class="col-form-label">9. The Aral Sea split into two bodies of water.</label>
-                            <input type="text" name="q9" id="q9" class="form-control">
+                            <div class="d-flex align-items-center mb-2">
+                                <select name="q9" class="form-control w-auto ml-2">
+                                    <option value="">Select Answer</option>
+                                    <option value="A">A</option>
+                                    <option value="B">B</option>
+                                    <option value="C">C</option>
+                                    <option value="D">D</option>
+                                </select>
+                            </div>
                         </div>
                         <div class="form-group">
                             <label for="q10" class="col-form-label">10. The sea level fell by almost one metre per year.</label>
-                            <input type="text" name="q10" id="q10" class="form-control">
+                            <div class="d-flex align-items-center mb-2">
+                                <select name="q10" class="form-control w-auto ml-2">
+                                    <option value="">Select Answer</option>
+                                    <option value="A">A</option>
+                                    <option value="B">B</option>
+                                    <option value="C">C</option>
+                                    <option value="D">D</option>
+                                </select>
+                            </div>
                         </div>
                     </div>
                 </div>
 
-                <hr>
+                <div class="bg-dark my-2 border border-dark"></div>
 
                 <h4 class="mt-0 mb-1">Questions 11 - 13</h4>
                 <p class="mb-0">Choose the correct answer from the given options.</p>
-                <p>For Questions 11 - 13, write a, b, c, or d</p>
+                <p>For Questions 11 - 13, select a, b, c, or d</p>
+                
+                <div class="form-group">
+                    <label for="col-form-label" class="d-flex"><span class="mr-1">11.</span> Why did so much of the water which was meant for irrigation go to waste?</label>
+                    <div>
+                        <div class="custom-control custom-radio">
+                            <input type="radio" id="q11-1" name="q11" class="custom-control-input" value="A">
+                            <label class="custom-control-label" for="q11-1">a. The sea was not large enough to provide water for the crops.</label>
+                        </div>
+                        <div class="custom-control custom-radio">
+                            <input type="radio" id="q11-2" name="q11" class="custom-control-input" value="B">
+                            <label class="custom-control-label" for="q11-2">b. The crops which were chosen were not suitable for conditions in the desert.</label>
+                        </div>
+                        <div class="custom-control custom-radio">
+                            <input type="radio" id="q11-3" name="q11" class="custom-control-input" value="C">
+                            <label class="custom-control-label" for="q11-3">c. The water from the Aral Sea contained too much salinity.</label>
+                        </div>
+                        <div class="custom-control custom-radio">
+                            <input type="radio" id="q11-4" name="q11" class="custom-control-input" value="D">
+                            <label class="custom-control-label" for="q11-4">d. The irrigation canals were not waterproofed.</label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="col-form-label" class="d-flex"><span class="mr-1">12.</span> In the early twentieth century, why did the water evaporate faster than expected?</label>
+                    <div>
+                        <div class="custom-control custom-radio">
+                            <input type="radio" id="q12-1" name="q12" class="custom-control-input" value="A">
+                            <label class="custom-control-label" for="q12-1">a. Because the sea had split into 4 smaller lakes.</label>
+                        </div>
+                        <div class="custom-control custom-radio">
+                            <input type="radio" id="q12-2" name="q12" class="custom-control-input" value="B">
+                            <label class="custom-control-label" for="q12-2">b. Because the surface area had shrunk dramatically.</label>
+                        </div>
+                        <div class="custom-control custom-radio">
+                            <input type="radio" id="q12-3" name="q12" class="custom-control-input" value="C">
+                            <label class="custom-control-label" for="q12-3">c. Because the water at the bottom was saltier than water at the top.</label>
+                        </div>
+                        <div class="custom-control custom-radio">
+                            <input type="radio" id="q12-4" name="q12" class="custom-control-input" value="D">
+                            <label class="custom-control-label" for="q12-4">d. Because the salinity increased from about 10 g/L to approximately 45 g/L.</label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="col-form-label" class="d-flex"><span class="mr-1">13.</span> What effect did the construction of a dam have?</label>
+                    <div>
+                        <div class="custom-control custom-radio">
+                            <input type="radio" id="q13-1" name="q13" class="custom-control-input" value="A">
+                            <label class="custom-control-label" for="q13-1">a. Water levels increased in the North Aral Sea.</label>
+                        </div>
+                        <div class="custom-control custom-radio">
+                            <input type="radio" id="q13-2" name="q13" class="custom-control-input" value="B">
+                            <label class="custom-control-label" for="q13-2">b. There was an increase in salinity which caused much of the flora and fauna to die.</label>
+                        </div>
+                        <div class="custom-control custom-radio">
+                            <input type="radio" id="q13-3" name="q13" class="custom-control-input" value="C">
+                            <label class="custom-control-label" for="q13-3">c. The South Aral Sea continued to shrink and the outlook remains bleak.</label>
+                        </div>
+                        <div class="custom-control custom-radio">
+                            <input type="radio" id="q13-4" name="q13" class="custom-control-input" value="D">
+                            <label class="custom-control-label" for="q13-4">d. A desert on the former sea-bed, called the Aralkum, has been created.</label>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
         <div class="col-md-12 text-center">
-            <button type="submit" class="btn btn-success">Submit</button>
+            <button type="submit" class="btn btn-success">Show Answer</button>
+            <button type="button" id="reset" class="btn btn-secondary">Reset</button>
         </div>
     </div>
 </form>
+
+<!-- Modal Show Score -->
+<div class="modal fade" id="modal-score" tabindex="-1" role="dialog" aria-labelledby="myCenterModalLabel" aria-hidden="true" style="display: none;">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header py-1 bg-primary">
+                <h4 class="modal-title text-white" id="myCenterModalLabel">Score result</h4>
+                <button type="button" class="close text-white" data-dismiss="modal" aria-hidden="true">×</button>
+            </div>
+            <div class="modal-body">
+                <h3 id="score" class="text-center"></h3>
+            </div>
+        </div>
+    </div>
+</div>
 @endsection
 
 @section('javascript')
 <script>
+    $('input, select').attr('required', 'required');
     $('#form-exam').on('submit', function(e) {
+
         e.preventDefault();
         let data = $("#form-exam").serialize();
         $.ajax({
@@ -172,13 +319,50 @@
             data: {_token: "{{ csrf_token() }}", data},
             dataType: "json",
             success: function(data) {
-                console.log(data);
-                console.log('success');
+                if(data.message == 'success') {
+                    showAnswer(data.results);
+                    $('button[type="submit"]').hide();
+                    $('input, select').attr('disabled', 'disabled');
+                }
+                stopTime();
             },
             error: function(error) {
                 console.log('error');
             }
         });
     });
+
+    function showAnswer(data) {
+        $('#modal-score').modal('show');
+        $('#modal-score').find('#score').text(data.total);
+
+        for(let quiz in data.exam) {
+
+            let select = $(`select[name="${quiz}"]`);
+            let radio = $(`input[name="${quiz}"]`);
+
+            if(data.exam[quiz].status == 1) {
+                $(`<span class="ml-2 text-success font-weight-bold">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
+                select.addClass('border border-success');
+            } else {
+                $(`<span class="ml-2 text-success font-weight-bold">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
+                select.addClass('border border-danger');
+            }
+
+            radio.each((idx, item) => {
+                if ($(item).is(":checked")) {
+                    if($(item).val() == data.exam[quiz].rightAnswer) {
+                        $(item).next().addClass('text-success');
+                    } else {
+                        $(item).next().addClass('text-danger');
+                    }
+                } else {
+                    if($(item).val() == data.exam[quiz].rightAnswer) {
+                        $(item).next().addClass('text-success');
+                    } 
+                }   
+            });
+        }
+    }
 </script>
 @stop
