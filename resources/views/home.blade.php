@@ -47,6 +47,8 @@
             <div class="d-flex flex-column text-center font-16">
                 <button data-toggle="modal" data-target="#ielts-topic" data-title="An environmental disaster" class="btn btn-success mb-2">An environmental disaster</button>
                 <button data-toggle="modal" data-target="#ielts-topic" data-title="Body piercing" class="btn btn-success mb-2">Body piercing</button>
+                <button data-toggle="modal" data-target="#ielts-topic" data-title="How animals communicate" class="btn btn-success mb-2">How animals communicate</button>
+                <button data-toggle="modal" data-target="#ielts-topic" data-title="The Mysterious Kris" class="btn btn-success mb-2">The Mysterious Kris</button>
             </div>
         </div>
     </div>

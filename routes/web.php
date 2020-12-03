@@ -33,5 +33,14 @@ Route::middleware(['auth:student'])->group(function () {
     // IELTS Exam
     Route::get('an-environmental-disaster/{mode}', 'IELTSController@exam_one');
     Route::post('store_exam_one', 'IELTSController@store_exam_one')->name('store.exam-one');
+
+    Route::get('body-piercing/{mode}', 'IELTSController@exam_two');
+    Route::post('store_exam_two', 'IELTSController@store_exam_two')->name('store.exam-two');
+
+    Route::get('how-animals-communicate/{mode}', 'IELTSController@exam_three');
+    Route::post('store_exam_three', 'IELTSController@store_exam_three')->name('store.exam-three');
+
+    Route::get('the-mysterious-kris/{mode}', 'IELTSController@exam_four');
+    Route::post('store_exam_four', 'IELTSController@store_exam_four')->name('store.exam-four');
 });
 

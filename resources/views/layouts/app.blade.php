@@ -52,6 +52,10 @@
                 height: 70vh;
                 overflow: auto;
             }
+
+            .line-height {
+                line-height: 1.9;
+            }
         </style>
         @yield('css')
     </head>

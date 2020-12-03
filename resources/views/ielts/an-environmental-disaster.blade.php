@@ -286,6 +286,7 @@
         <div class="col-md-12 text-center">
             <button type="submit" class="btn btn-success">Show Answer</button>
             <button type="button" id="reset" class="btn btn-secondary">Reset</button>
+            <a href="{{ url('/') }}" type="button" class="btn btn-primary"><i class="fa fa-home"></i> Home</a>
         </div>
     </div>
 </form>
