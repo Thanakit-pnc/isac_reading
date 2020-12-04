@@ -116,7 +116,7 @@
         modal.find('h4.modal-title').text(title)
         modal.find('#read').attr('href', `{{ url('pdf/L3/${readPdf}') }}`)
         modal.find('#workbook').attr('href', `{{ asset('public/assets/pdf/L3/${workbook}') }}`)
-        modal.find('#answerkey').attr('href', `{{ asset('public/assets/pdf/L3/${answerkey}) }}`)
+        modal.find('#answerkey').attr('href', `{{ asset('public/assets/pdf/L3/${answerkey}') }}`)
     })
 
     $('#ielts-level-3').on('hide.bs.modal', function (e) {
