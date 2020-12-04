@@ -81,14 +81,14 @@
             </div>
             <div class="modal-body p-2">
                 <h4 class="mt-0">Read :</h4>
-                <a id="read" href="{{ url('pdf/L3/the-accident-story') }}" target="_blank" role="button" class="btn btn-dark btn-block"><i class="far fa-file-pdf"></i> Story</a>
+                <a id="read" href="" target="_blank" role="button" class="btn btn-dark btn-block"><i class="far fa-file-pdf"></i> Story</a>
                 <h4>Downloads :</h4>
                 <div class="d-flex align-items-center">
-                    <a id="workbook" href="{{ asset('public/assets/pdf/L3/the-accident-workbook.pdf') }}" class="btn btn-primary mr-2" download><i class="fas fa-file-download"></i></a> 
+                    <a id="workbook" href="" class="btn btn-primary mr-2" download><i class="fas fa-file-download"></i></a> 
                     <div class="font-weight-bold">Workbook (PDF downloadable)</div>
                 </div>
                 <div class="d-flex align-items-center mt-2">
-                    <a id="answerkey" href="{{ asset('public/assets/pdf/L3/the-accident-answerkey.pdf') }}" class="btn btn-primary mr-2" download><i class="fas fa-file-download"></i></a> 
+                    <a id="answerkey" href="" class="btn btn-primary mr-2" download><i class="fas fa-file-download"></i></a> 
                     <div class="font-weight-bold">Answer Key (PDF downloadable)</div>
                 </div>
             </div>
@@ -116,7 +116,7 @@
         modal.find('h4.modal-title').text(title)
         modal.find('#read').attr('href', `{{ url('pdf/L3/${readPdf}') }}`)
         modal.find('#workbook').attr('href', `{{ asset('public/assets/pdf/L3/${workbook}') }}`)
-        modal.find('#answerkey').attr('href', `{{ asset('public/assets/pdf/L3/${answerkey}') }}') }}`)
+        modal.find('#answerkey').attr('href', `{{ asset('public/assets/pdf/L3/${answerkey}) }}`)
     })
 
     $('#ielts-level-3').on('hide.bs.modal', function (e) {
