@@ -33,98 +33,63 @@
     <div class="col-md-12">
         <div class="row">
             <div class="col-lg-4">
-                <a href="javascript: void(0);" class="read-btn">
+                <a type="button" class="btn-block" data-toggle="modal" data-target="#ielts-level-3" data-title="The Fisherman and the Mermaid">
                     <div class="widget-simple text-center card-box border-top border-primary border-2">
                         <i class="fas fa-book-open fa-4x text-primary mb-2"></i>
                         <h4 class="text-primary counter my-0">The Fisherman and the Mermaid</h4>
                     </div>
                 </a>
-
-                <div class="card-box pt-1 border border-muted reading-content">
-                    <h4><ins>The Fisherman and the Mermaid</ins></h4>
-                    <h4>Read :</h4>
-                    <a href="{{ url('pdf/L3/the-fisherman-and-the-mermaid-story') }}" target="_blank" role="button" class="btn btn-dark btn-block"><i class="far fa-file-pdf"></i> Story</a>
-                    <h4>Downloads :</h4>
-                    <div class="d-flex align-items-center">
-                        <a href="{{ asset('public/assets/pdf/L3/the-fisherman-and-the-mermaid-workbook.pdf') }}" class="btn btn-primary mr-2" download><i class="fas fa-file-download"></i></a> 
-                        <div class="font-weight-bold">Workbook (PDF downloadable)</div>
-                    </div>
-                    <div class="d-flex align-items-center mt-2">
-                        <a href="{{ asset('public/assets/pdf/L3/the-fisherman-and-the-mermaid-answerkey.pdf') }}" class="btn btn-primary mr-2" download><i class="fas fa-file-download"></i></a> 
-                        <div class="font-weight-bold">Answer Key (PDF downloadable)</div>
-                    </div>
-                </div>
             </div>
 
             <div class="col-lg-4">
-                <a href="javascript: void(0);" class="read-btn">
+                <a type="button" class="btn-block" data-toggle="modal" data-target="#ielts-level-3" data-title="The Haunted House">
                     <div class="widget-simple text-center card-box border-top border-primary border-2">
                         <i class="fas fa-book-open fa-4x text-primary mb-2"></i>
                         <h4 class="text-primary counter my-0">The Haunted House</h4>
                     </div>
                 </a>
-
-                <div class="card-box pt-1 border border-muted reading-content">
-                    <h4><ins>The Haunted House</ins></h4>
-                    <h4>Read :</h4>
-                    <a href="{{ url('pdf/L3/the-haunted-house-story') }}" target="_blank" role="button" class="btn btn-dark btn-block"><i class="far fa-file-pdf"></i> Story</a>
-                    <h4>Downloads :</h4>
-                    <div class="d-flex align-items-center">
-                        <a href="{{ asset('public/assets/pdf/L3/the-haunted-house-workbook.pdf') }}" class="btn btn-primary mr-2" download><i class="fas fa-file-download"></i></a> 
-                        <div class="font-weight-bold">Workbook (PDF downloadable)</div>
-                    </div>
-                    <div class="d-flex align-items-center mt-2">
-                        <a href="{{ asset('public/assets/pdf/L3/the-haunted-house-workbook.pdf') }}" class="btn btn-primary mr-2" download><i class="fas fa-file-download"></i></a> 
-                        <div class="font-weight-bold">Answer Key (PDF downloadable)</div>
-                    </div>
-                </div>
             </div>
 
             <div class="col-lg-4">
-                <a href="javascript: void(0);" class="read-btn">
+                <a type="button" class="btn-block" data-toggle="modal" data-target="#ielts-level-3" data-title="The Princess and the Gardener">
                     <div class="widget-simple text-center card-box border-top border-primary border-2">
                         <i class="fas fa-book-open fa-4x text-primary mb-2"></i>
                         <h4 class="text-primary counter my-0">The Princess and the Gardener</h4>
                     </div>
                 </a>
-
-                <div class="card-box pt-1 border border-muted reading-content">
-                    <h4><ins>The Princess and the Gardener</ins></h4>
-                    <h4>Read :</h4>
-                    <a href="{{ url('pdf/L3/the-princess-and-the-gardener-story') }}" target="_blank" role="button" class="btn btn-dark btn-block"><i class="far fa-file-pdf"></i> Story</a>
-                    <h4>Downloads :</h4>
-                    <div class="d-flex align-items-center">
-                        <a href="{{ asset('public/assets/pdf/L3/the-princess-and-the-gardener-workbook.pdf') }}" class="btn btn-primary mr-2" download><i class="fas fa-file-download"></i></a> 
-                        <div class="font-weight-bold">Workbook (PDF downloadable)</div>
-                    </div>
-                    <div class="d-flex align-items-center mt-2">
-                        <a href="{{ asset('public/assets/pdf/L3/the-princess-and-the-gardener-answerkey.pdf') }}" class="btn btn-primary mr-2" download><i class="fas fa-file-download"></i></a> 
-                        <div class="font-weight-bold">Answer Key (PDF downloadable)</div>
-                    </div>
-                </div>
             </div>
 
             <div class="col-lg-4">
-                <a href="javascript: void(0);" class="read-btn">
+                <a type="button" class="btn-block" data-toggle="modal" data-target="#ielts-level-3" data-title="The Accident">
                     <div class="widget-simple text-center card-box border-top border-primary border-2">
                         <i class="fas fa-book-open fa-4x text-primary mb-2"></i>
                         <h4 class="text-primary counter my-0">The Accident</h4>
                     </div>
                 </a>
+            </div>
+        </div>
+    </div>
+</div>
 
-                <div class="card-box pt-1 border border-muted reading-content">
-                    <h4><ins>The Accident</ins></h4>
-                    <h4>Read :</h4>
-                    <a href="{{ url('pdf/L3/the-accident-story') }}" target="_blank" role="button" class="btn btn-dark btn-block"><i class="far fa-file-pdf"></i> Story</a>
-                    <h4>Downloads :</h4>
-                    <div class="d-flex align-items-center">
-                        <a href="{{ asset('public/assets/pdf/L3/the-accident-workbook.pdf') }}" class="btn btn-primary mr-2" download><i class="fas fa-file-download"></i></a> 
-                        <div class="font-weight-bold">Workbook (PDF downloadable)</div>
-                    </div>
-                    <div class="d-flex align-items-center mt-2">
-                        <a href="{{ asset('public/assets/pdf/L3/the-accident-answerkey.pdf') }}" class="btn btn-primary mr-2" download><i class="fas fa-file-download"></i></a> 
-                        <div class="font-weight-bold">Answer Key (PDF downloadable)</div>
-                    </div>
+<!-- Modal -->
+<div id="ielts-level-3" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="display: none;">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header bg-primary py-2">
+                <h4 class="modal-title text-white" id="full-width-modalLabel">asdasd</h4>
+                <button type="button" class="close text-white" data-dismiss="modal" aria-hidden="true">×</button>
+            </div>
+            <div class="modal-body p-2">
+                <h4 class="mt-0">Read :</h4>
+                <a id="read" href="{{ url('pdf/L3/the-accident-story') }}" target="_blank" role="button" class="btn btn-dark btn-block"><i class="far fa-file-pdf"></i> Story</a>
+                <h4>Downloads :</h4>
+                <div class="d-flex align-items-center">
+                    <a id="workbook" href="{{ asset('public/assets/pdf/L3/the-accident-workbook.pdf') }}" class="btn btn-primary mr-2" download><i class="fas fa-file-download"></i></a> 
+                    <div class="font-weight-bold">Workbook (PDF downloadable)</div>
+                </div>
+                <div class="d-flex align-items-center mt-2">
+                    <a id="answerkey" href="{{ asset('public/assets/pdf/L3/the-accident-answerkey.pdf') }}" class="btn btn-primary mr-2" download><i class="fas fa-file-download"></i></a> 
+                    <div class="font-weight-bold">Answer Key (PDF downloadable)</div>
                 </div>
             </div>
         </div>
@@ -134,13 +99,28 @@
 
 @section('javascript')
 <script>
-    $('.reading-content').hide();
+    $('#ielts-level-3').on('show.bs.modal', function(e) {
+        let btn = $(e.relatedTarget);
+        
+        btn.children().addClass('bg-primary')
 
-    $('.read-btn').each((index, item) => {
-        $(item).click(function() {
-            $(item).children().toggleClass('bg-primary');
-            $(item).next().slideToggle();
-        });
-    });
+        let title = btn.data('title');
+
+        let slugUrl = title.toLowerCase().replaceAll(' ', '-');
+        let readPdf = slugUrl + '-story';
+        let workbook = slugUrl + '-workbook.pdf';
+        let answerkey = slugUrl + '-answerkey.pdf';
+
+        let modal = $(this);
+
+        modal.find('h4.modal-title').text(title)
+        modal.find('#read').attr('href', `{{ url('pdf/L3/${readPdf}') }}`)
+        modal.find('#workbook').attr('href', `{{ asset('public/assets/pdf/L3/${workbook}') }}`)
+        modal.find('#answerkey').attr('href', `{{ asset('public/assets/pdf/L3/${answerkey}') }}') }}`)
+    })
+
+    $('#ielts-level-3').on('hide.bs.modal', function (e) {
+        $('a[data-target="#ielts-level-3"]').children().removeClass('bg-primary')
+    })
 </script>
 @stop
