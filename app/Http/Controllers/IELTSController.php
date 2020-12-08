@@ -401,20 +401,20 @@ class IELTSController extends Controller
     public function store_exam_seven(Request $request) {
 
         $answers = array(
-            'q1' => 'A',
+            'q1' => 'D',
             'q2' => 'C',
-            'q3' => 'C',
-            'q4' => 'D',
+            'q3' => 'B',
+            'q4' => 'B',
             'q5' => 'A',
-            'q6' => 'E',
-            'q7' => 'C',
-            'q8' => 'A',
-            'q9' => 'F',
-            'q10' => 'B',
-            'q11' => 'one carob seed',
-            'q12' => 'the metric system',
-            'q13' => 'pearls',
-            'q14' => 'points',
+            'q6' => 'H',
+            'q7' => 'B', 
+            'q8' => 'F',
+            'q9' => 'C',
+            'q10' => 'D',
+            'q11' => 'F',
+            'q12' => 'A',
+            'q13' => 'H',
+            'q14' => 'C',
         );
 
         $score = 0;
@@ -465,20 +465,19 @@ class IELTSController extends Controller
     public function store_exam_eight(Request $request) {
 
         $answers = array(
-            'q1' => 'A',
-            'q2' => 'C',
-            'q3' => 'C',
-            'q4' => 'D',
-            'q5' => 'A',
-            'q6' => 'E',
-            'q7' => 'C',
+            'q1' => 'FALSE',
+            'q2' => 'TRUE',
+            'q3' => 'FALSE',
+            'q4' => 'TRUE',
+            'q5' => 'NOT GIVEN',
+            'q6' => 'B',
+            'q7' => 'B',
             'q8' => 'A',
-            'q9' => 'F',
-            'q10' => 'B',
-            'q11' => 'one carob seed',
-            'q12' => 'the metric system',
-            'q13' => 'pearls',
-            'q14' => 'points',
+            'q9' => 'C',
+            'q10' => 'A',
+            'q11' => 'piecemeal',
+            'q12' => 'unitary',
+            'q13' => 'prosoamnesia'
         );
 
         $score = 0;
@@ -529,20 +528,19 @@ class IELTSController extends Controller
     public function store_exam_nine(Request $request) {
 
         $answers = array(
-            'q1' => 'A',
-            'q2' => 'C',
-            'q3' => 'C',
-            'q4' => 'D',
-            'q5' => 'A',
-            'q6' => 'E',
-            'q7' => 'C',
-            'q8' => 'A',
-            'q9' => 'F',
-            'q10' => 'B',
-            'q11' => 'one carob seed',
-            'q12' => 'the metric system',
-            'q13' => 'pearls',
-            'q14' => 'points',
+            'q1' => 'NOT GIVEN',
+            'q2' => 'FALSE',
+            'q3' => 'FALSE',
+            'q4' => 'TRUE',
+            'q5' => 'NOT GIVEN',
+            'q6' => 'A',
+            'q7' => 'B',
+            'q8' => 'B',
+            'q9' => 'C',
+            'q10' => 'A',
+            'q11' => 'A',
+            'q12' => 'C',
+            'q13' => 'B',
         );
 
         $score = 0;

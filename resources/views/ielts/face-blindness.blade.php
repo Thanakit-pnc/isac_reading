@@ -27,34 +27,39 @@
         <div class="col-md-6">
             <div class="card-box font-16 text-dark overflow-custom">
                 <p>
-                The Aral Sea was a lake that lay between Kazakhstan in the north and Karakalpakstan, an autonomous region of Uzbekistan, in the south. The name roughly translates as "Sea of Islands", referring to more than 1,534 islands that once dotted its waters.
+                Prosopagnosia is a disorder of face perception where the ability to recognize faces is impaired, while the ability to recognize other objects may be relatively intact. The term originally referred to a condition following acute brain damage, but a congenital form of the disorder has been proposed, which may be inherited by about 2.5% of the population. 
                 </p>
                 <p>
-                Formerly one of the four largest lakes in the world with an area of 68,000 square kilometres, the Aral Sea has been steadily shrinking since the 1960s after the rivers that fed it were diverted by Soviet irrigation projects. By 2007, it had declined to 10% of its original size, splitting into four lakes – the North Aral Sea, the eastern and western basins of the once far larger South Aral Sea and one smaller lake between North and South Aral Seas. By 2009, the southeastern lake had disappeared and the southwestern lake retreated to a thin strip at the extreme west of the former southern sea. The maximum depth of the North Aral Sea is 42 m (as of 2008). 
+                Few successful therapies have so far been developed for affected people, although individuals often learn to use 'piecemeal' or 'feature by feature' recognition strategies. This may involve secondary clues such as clothing, posture, hair color, body shape, and voice. Because the face seems to function as an important identifying feature in memory, it can also be difficult for people with this condition to keep track of information about people, and socialize normally with others.
                 </p>
                 <p>
-                The shrinking of the Aral Sea has been called "one of the planet's worst environmental disasters". The region's once prosperous fishing industry has been essentially destroyed, bringing unemployment and economic hardship. The Aral Sea region is also heavily polluted, with consequent serious public health problems. The retreat of the sea has reportedly also caused local climate change, with summers becoming hotter and drier, and winters colder and longer. 
+                The study of prosopagnosia has been crucial in the development of theories of face perception. Because prosopagnosia is not a unitary disorder (i.e. different people may show different types and levels of impairment), it has been argued that face perception involves a number of stages, each of which can be separately damaged. This is reflected not just in the amount of impairment displayed, but also in the qualitative differences in impairment that a person with prosopagnosia may exhibit. Prosopagnosia is usually acquired through extensive neurological damage.
                 </p>
                 <p>
-                In the early 1960s the Soviet government decided the two rivers that fed the Aral Sea, the Amu Darya in the south and the Syr Darya in the northeast, would be diverted to irrigate the desert, in an attempt to grow rice, melons, cereals, and cotton. This was part of the Soviet plan for cotton, or "white gold", to become a major export. This eventually succeeded, and today Uzbekistan is one of the world's largest exporters of cotton.
+                This sort of evidence has been crucial in supporting the theory that there may be a specific face perception system in the brain. This is counterintuitive to many people, as not everyone experiences faces as 'special' or perceived in a different way from other objects in the rest of the world.
                 </p>
                 <p>
-                The construction of irrigation canals began on a large scale in the 1940s. Many of the canals were poorly built, allowing water to leak or evaporate. From the Qaraqum Canal, the largest in Central Asia, perhaps 30 to 75% of the water went to waste. Today, only 12% of Uzbekistan's irrigation canal length is waterproofed. By 1960, between 20 and 60 cubic kilometres of water were going each year to the land instead of the sea. Most of the sea's water supply had been diverted, and in the 1960s, the Aral Sea began to shrink. From 1961 to 1970, the Aral's sea level fell at an average of 20 cm a year; in the 1970s, the average rate nearly tripled to 50–60 centimetres per year, and by the 1980s it continued to drop, now with a mean of 80–90 centimetres each year. The rate of water usage for irrigation continued to increase: the amount of water taken from the rivers doubled between 1960 and 2000, and cotton production nearly doubled in the same period.
+                A recent case report described a closely related condition called prosopamnesia, in which the subject, from birth, could perceive faces normally, but had a severely impaired ability to remember them. 
                 </p>
                 <p>
-                From 1960 to 1998, the sea's surface area shrank by approximately 60%, and its volume by 80%. In 1960, the Aral Sea had been the world's fourth-largest lake, with an area of approximately 68,000 square kilometres and a volume of 1,100 cubic kilometres; by 1998, it had dropped to 28,687 square kilometres, and eighth-largest. Over the same time period, its salinity increased from about 10 g/L to about 45 g/L. In 1987, the continuing shrinkage split the lake into two separate bodies of water, the North Aral Sea (the Lesser Sea, or Small Aral Sea) and the South Aral Sea (the Greater Sea, or Large Aral Sea).
+                Until late in the 20th century, prosopagnosia was thought to be quite rare and solely associated with brain injury or neurological illness affecting specific areas of the brain. However, recently a form of congenital prosopagnosia has been proposed, in which people are born with an impairment in recognizing and perceiving faces, as well as other objects and visual scenes.
                 </p>
                 <p>
-                By summer 2003, the South Aral Sea was vanishing faster than predicted. In the deepest parts of the sea, the bottom waters were saltier than the top, and not mixing. Thus, only the top of the sea was heated in the summer, and it evaporated faster than would otherwise be expected. In 2003, the South Aral further divided into eastern and western basins.
+                Dr Jane Whittaker, writing in 1999, described the case of a Mr. C. and referred to other similar cases. The reported cases suggest that this form of the disorder may be heritable and much more common than previously thought (about 2.5% of the population may be affected), although this congenital disorder is commonly accompanied by other forms of visual agnosia, and may not be "pure" prosopagnosia. It has been suggested that very mild cases of face blindness are much more common, perhaps affecting 10% of the population, although there have not been any studies confirming this. The inability to keep track of the identity of characters in movies is a common complaint. 
                 </p>
                 <p>
-                In 2004, the Aral Sea's surface area was only 17,160 km2, 25% of its original size, and a nearly five-fold increase in salinity had killed most of its natural flora and fauna. By 2007, the sea's area had further shrunk to 10% of its original size, and the salinity of the remains of the South Aral had increased to levels in excess of 100 g/L (grams per litre); by comparison, the salinity of ordinary seawater is typically around 35 g/L; the Dead Sea's salinity varies between 300 and 350 g/L. The decline of the North Aral has now been partially reversed following construction of a dam in 2005, but the remnants of the South Aral continued to disappear and its drastic shrinkage has created the Aralkum, a desert on the former lake bed.
+                A classic case of a prosopagnosia is presented by "Dr. P." in Oliver Sacks' 1985 book The Man Who Mistook His Wife for a Hat, though this is more properly considered "agnosia." Although Dr. P. could not recognize his wife from her face, he was able to recognize her by her voice. His recognition of pictures of his family and friends appeared to be based on highly specific features, such as his brother's square jaw and big teeth.
+                </p>
+                <p class="font-weight-bold mb-0">Associative prosopagnosia</p>
+                <p>
+                Associative prosopagnosia is thought to be an impairment to the links between early face perception processes and the semantic information we hold about people in our memories. People with this form of the disorder may be able to say whether photos of people's faces are the same or different and derive the age and gender from a face (suggesting they can make sense of some face information) but may not be able to subsequently identify the person or provide any information about them such as their name, occupation, or when they were last encountered. They may be able to recognize and produce such information based on non-face information such as voice, hair, or even particularly distinctive facial features (such as a distinctive moustache) that do not require the structure of the face to be understood. Typically such people do not report that 'faces make no sense' but simply that they do not look distinctive in any wa
+                </p>
+                <p class="font-weight-bold mb-0">Developmental prosopagnosia</p>
+                <p>
+                Developmental prosopagnosia (DP) is a face-recognition deficit that is lifelong, manifesting in early childhood, and that cannot be attributed to acquired brain damage. However, a number of studies have found functional deficits in DP both on the basis of EEG measures and MRI. It has been suggested that a genetic factor is responsible for the condition. The term “hereditary prosopagnosia” was introduced if DP affected more than one family member, essentially accenting the possible genetic contribution of this condition. To examine this possible genetic factor, 689 randomly selected students were administered a survey in which seventeen developmental prosopagnosics were quantifiably identified. Family members of fourteen of the DP individuals were interviewed to determine prosopagnosia-like characteristics, and in all fourteen families, at least one other affected family member was found.
                 </p>
                 <p>
-                The inflow of groundwater discharge into the South Aral Sea will not in itself be able to stop the desiccation. This inflow of about 4 cubic kilometres per year is larger than previously estimated. This groundwater originates in the Pamirs and Tian Shan mountains and finds its way through geological layers to a fracture zone at the bottom of the Aral.
-                </p>
-                <p>
-                In spite of ongoing efforts to save and replenish the North Aral Sea, the outlook for the remnants of the South Aral Sea remains bleak.
+                There seem to be two categories of DP patients: first, patients who are impaired in basic face processing (age estimation, judgment of facial affect) and also show deficits on other forms of visual processing; and second, patients with pure face-recognition impairments in the presence of intact basic visual processing. The first group of patients fail to obtain view-centered descriptions. According to the Bruce and Young model of face recognition, these are precursors of the more abstract expression-independent descriptions. View-centered descriptions do not seem to be specific for faces, as the patients with impairments of processing the physical aspects of faces also show difficulties in non-facial tasks like object recognition or tests of visuo-spatial abilities. However, there is as yet only limited evidence for a classification into different subtypes.
                 </p>
             </div>
         </div>
@@ -81,7 +86,7 @@
                 </div>
                 <div class="row mt-2">
                     <div class="col-md-12">
-                        <p class="mb-1">1. There are more than fifteen hundred islands in the Aral Sea.</p>
+                        <p class="mb-1">1. Prosopagnosia is usually the result of some brain injury.</p>
                         <div class="d-flex align-items-center mb-2">
                             <select name="q1" class="form-control w-auto ml-2">
                                 <option value="">Select Answer</option>
@@ -90,7 +95,7 @@
                                 <option value="NOT GIVEN">NOT GIVEN</option>
                             </select>
                         </div>
-                        <p class="mb-1">2. The Aral Sea now consists of just 4 small lakes.</p>
+                        <p class="mb-1">2. People who suffer from this condition may have difficulty in their relationships with other people.</p>
                         <div class="d-flex align-items-center mb-2">
                             <select name="q2" class="form-control w-auto ml-2">
                                 <option value="">Select Answer</option>
@@ -99,7 +104,7 @@
                                 <option value="NOT GIVEN">NOT GIVEN</option>
                             </select>
                         </div>
-                        <p class="mb-1">3. The region’s fishing industry used to be the largest in the world.</p>
+                        <p class="mb-1">3. Studies have shown that one in ten people are affected by a mild form of the condition.</p>
                         <div class="d-flex align-items-center mb-2">
                             <select name="q3" class="form-control w-auto ml-2">
                                 <option value="">Select Answer</option>
@@ -108,7 +113,7 @@
                                 <option value="NOT GIVEN">NOT GIVEN</option>
                             </select>
                         </div>
-                        <p class="mb-1">4. Uzbekistan’s cotton industry has become very successful.</p>
+                        <p class="mb-1">4. Not much was known about the condition until the end of the 20<sup>th</sup> century.</p>
                         <div class="d-flex align-items-center mb-2">
                             <select name="q4" class="form-control w-auto ml-2">
                                 <option value="">Select Answer</option>
@@ -117,7 +122,7 @@
                                 <option value="NOT GIVEN">NOT GIVEN</option>
                             </select>
                         </div>
-                        <p class="mb-1">5. More than one hundred irrigation canals were built to provide water for the crops.</p>
+                        <p class="mb-1">5. In the case of Dr P., the patient had recently had a brain injury, leading to the condition.</p>
                         <div class="d-flex align-items-center mb-2">
                             <select name="q5" class="form-control w-auto ml-2">
                                 <option value="">Select Answer</option>
@@ -132,77 +137,71 @@
                 <div class="bg-dark my-2 border border-dark"></div>
 
                 <h4 class="mt-0 mb-1">Questions 6 - 10</h4>
-                <p class="mb-0">Classify the following statements as referring to the different years.</p>
-                <p class="mb-0">For Questions 6 – 10 select a letter, A, B, C, or D.</p>
-                <p>NB You may use each letter more than once.</p>
+                <p class="mb-0">Classify the following statements as referring to the medical condition.</p>
+                <p>For Questions 6 – 10 select a letter, A, B, or C.</p>
+
                 <div class="row">
                     <div class="col-md-12">
                         <div class="d-flex flex-column">
-                            <strong class="font-weight-bold">A. 1960</strong>
-                            <strong class="font-weight-bold">B. 1980’s</strong>
-                            <strong class="font-weight-bold">C. 1990’s</strong>
-                            <strong class="font-weight-bold">D. 2005</strong>
+                            <strong class="font-weight-bold">A. Associative prosopagnosia</strong>
+                            <strong class="font-weight-bold">B. Developmental prosopagnosia</strong>
+                            <strong class="font-weight-bold">C. Both A and B</strong>
                         </div>
                     </div>
 
                     <div class="col-md-12">
                         <div class="form-group">
-                            <label for="q6" class="col-form-label">6. A dam was built to prevent the sea from shrinking further.</label>
+                            <label for="q6" class="col-form-label">6. People show symptoms early in life.</label>
                             <div class="d-flex align-items-center mb-2">
                                 <select name="q6" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
                                     <option value="B">B</option>
                                     <option value="C">C</option>
-                                    <option value="D">D</option>
                                 </select>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="q7" class="col-form-label">7. The Aral Sea was the fourth largest lake in the world.</label>
+                            <label for="q7" class="col-form-label">7. May be passed on from family members.</label>
                             <div class="d-flex align-items-center mb-2">
                                 <select name="q7" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
                                     <option value="B">B</option>
                                     <option value="C">C</option>
-                                    <option value="D">D</option>
                                 </select>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="q8" class="col-form-label">8. The Aral Sea was the eighth largest lake in the world.</label>
+                            <label for="q8" class="col-form-label">8. Can identify certain characteristics from pictures of faces.</label>
                             <div class="d-flex align-items-center mb-2">
                                 <select name="q8" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
                                     <option value="B">B</option>
                                     <option value="C">C</option>
-                                    <option value="D">D</option>
                                 </select>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="q9" class="col-form-label">9. The Aral Sea split into two bodies of water.</label>
+                            <label for="q9" class="col-form-label">9. Not necessarily the result of brain damage.</label>
                             <div class="d-flex align-items-center mb-2">
                                 <select name="q9" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
                                     <option value="B">B</option>
                                     <option value="C">C</option>
-                                    <option value="D">D</option>
                                 </select>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="q10" class="col-form-label">10. The sea level fell by almost one metre per year.</label>
+                            <label for="q10" class="col-form-label">10. Use aspects such as facial hair to identify people.</label>
                             <div class="d-flex align-items-center mb-2">
                                 <select name="q10" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
                                     <option value="B">B</option>
                                     <option value="C">C</option>
-                                    <option value="D">D</option>
                                 </select>
                             </div>
                         </div>
@@ -212,75 +211,27 @@
                 <div class="bg-dark my-2 border border-dark"></div>
 
                 <h4 class="mt-0 mb-1">Questions 11 - 13</h4>
-                <p class="mb-0">Choose the correct answer from the given options.</p>
-                <p>For Questions 11 - 13, select a, b, c, or d</p>
+                <p class="mb-0">Complete the sentences.</p>
+                <p>Write <span class="font-weight-bold">NO MORE THAN ONE WORD</span> for each answer.</p>
                 
-                <div class="form-group">
-                    <label for="col-form-label" class="d-flex"><span class="mr-1">11.</span> Why did so much of the water which was meant for irrigation go to waste?</label>
-                    <div>
-                        <div class="custom-control custom-radio">
-                            <input type="radio" id="q11-1" name="q11" class="custom-control-input" value="A">
-                            <label class="custom-control-label" for="q11-1">a. The sea was not large enough to provide water for the crops.</label>
-                        </div>
-                        <div class="custom-control custom-radio">
-                            <input type="radio" id="q11-2" name="q11" class="custom-control-input" value="B">
-                            <label class="custom-control-label" for="q11-2">b. The crops which were chosen were not suitable for conditions in the desert.</label>
-                        </div>
-                        <div class="custom-control custom-radio">
-                            <input type="radio" id="q11-3" name="q11" class="custom-control-input" value="C">
-                            <label class="custom-control-label" for="q11-3">c. The water from the Aral Sea contained too much salinity.</label>
-                        </div>
-                        <div class="custom-control custom-radio">
-                            <input type="radio" id="q11-4" name="q11" class="custom-control-input" value="D">
-                            <label class="custom-control-label" for="q11-4">d. The irrigation canals were not waterproofed.</label>
-                        </div>
+                <div class="form-group d-inline-flex">
+                    <span class="mr-2">11. </span>
+                    <div class="d-inline-block">
+                    People suffering from prosopagnosia often manage to survive by adopting <input type="text" class="form-control w-auto d-inline-block" name="q11"> recognition strategies.
                     </div>
                 </div>
-
-                <div class="form-group">
-                    <label for="col-form-label" class="d-flex"><span class="mr-1">12.</span> In the early twentieth century, why did the water evaporate faster than expected?</label>
-                    <div>
-                        <div class="custom-control custom-radio">
-                            <input type="radio" id="q12-1" name="q12" class="custom-control-input" value="A">
-                            <label class="custom-control-label" for="q12-1">a. Because the sea had split into 4 smaller lakes.</label>
-                        </div>
-                        <div class="custom-control custom-radio">
-                            <input type="radio" id="q12-2" name="q12" class="custom-control-input" value="B">
-                            <label class="custom-control-label" for="q12-2">b. Because the surface area had shrunk dramatically.</label>
-                        </div>
-                        <div class="custom-control custom-radio">
-                            <input type="radio" id="q12-3" name="q12" class="custom-control-input" value="C">
-                            <label class="custom-control-label" for="q12-3">c. Because the water at the bottom was saltier than water at the top.</label>
-                        </div>
-                        <div class="custom-control custom-radio">
-                            <input type="radio" id="q12-4" name="q12" class="custom-control-input" value="D">
-                            <label class="custom-control-label" for="q12-4">d. Because the salinity increased from about 10 g/L to approximately 45 g/L.</label>
-                        </div>
+                <div class="form-group d-inline-flex">
+                    <span class="mr-2">12. </span>
+                    <div class="d-inline-block">
+                    The condition is not a <input type="text" class="form-control w-auto d-inline-block" name="q12"> disorder, which means that different people exhibit different types and level of impairment.
                     </div>
                 </div>
-
-                <div class="form-group">
-                    <label for="col-form-label" class="d-flex"><span class="mr-1">13.</span> What effect did the construction of a dam have?</label>
-                    <div>
-                        <div class="custom-control custom-radio">
-                            <input type="radio" id="q13-1" name="q13" class="custom-control-input" value="A">
-                            <label class="custom-control-label" for="q13-1">a. Water levels increased in the North Aral Sea.</label>
-                        </div>
-                        <div class="custom-control custom-radio">
-                            <input type="radio" id="q13-2" name="q13" class="custom-control-input" value="B">
-                            <label class="custom-control-label" for="q13-2">b. There was an increase in salinity which caused much of the flora and fauna to die.</label>
-                        </div>
-                        <div class="custom-control custom-radio">
-                            <input type="radio" id="q13-3" name="q13" class="custom-control-input" value="C">
-                            <label class="custom-control-label" for="q13-3">c. The South Aral Sea continued to shrink and the outlook remains bleak.</label>
-                        </div>
-                        <div class="custom-control custom-radio">
-                            <input type="radio" id="q13-4" name="q13" class="custom-control-input" value="D">
-                            <label class="custom-control-label" for="q13-4">d. A desert on the former sea-bed, called the Aralkum, has been created.</label>
-                        </div>
+                <div class="form-group d-inline-flex">
+                    <span class="mr-2">13. </span>
+                    <div class="d-inline-block">
+                    People suffering from a related condition, known as <input type="text" class="form-control w-auto d-inline-block" name="q13">, could see faces normally, but were unable to recall them.
                     </div>
                 </div>
-
             </div>
         </div>
         <div class="col-md-12 text-center">
@@ -321,7 +272,7 @@
         let data = $("#form-exam").serialize();
         $.ajax({
             type: "post",
-            url: "{{ route('store.exam-one') }}",
+            url: "{{ route('store.exam-eight') }}",
             data: {_token: "{{ csrf_token() }}", data},
             dataType: "json",
             success: function(data) {
@@ -347,29 +298,22 @@
         for(let quiz in data.exam) {
 
             let select = $(`select[name="${quiz}"]`);
-            let radio = $(`input[name="${quiz}"]`);
+            let input = $(`input[name="${quiz}"]`);
 
             if(data.exam[quiz].status == 1) {
                 $(`<span class="ml-2 text-success font-weight-bold">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
                 select.addClass('border border-success');
+
+                $(`<span class="mx-2 text-success font-weight-bold">${data.exam[quiz].rightAnswer}</span>`).insertAfter(input);
+                input.addClass('border border-success');
             } else {
                 $(`<span class="ml-2 text-success font-weight-bold">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
                 select.addClass('border border-danger');
+
+                $(`<span class="mx-2 text-success font-weight-bold">${data.exam[quiz].rightAnswer}</span>`).insertAfter(input);
+                input.addClass('border border-danger');
             }
 
-            radio.each((idx, item) => {
-                if ($(item).is(":checked")) {
-                    if($(item).val() == data.exam[quiz].rightAnswer) {
-                        $(item).next().addClass('text-success');
-                    } else {
-                        $(item).next().addClass('text-danger');
-                    }
-                } else {
-                    if($(item).val() == data.exam[quiz].rightAnswer) {
-                        $(item).next().addClass('text-success');
-                    } 
-                }   
-            });
         }
     }
 </script>

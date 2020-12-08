@@ -27,34 +27,25 @@
         <div class="col-md-6">
             <div class="card-box font-16 text-dark overflow-custom">
                 <p>
-                The Aral Sea was a lake that lay between Kazakhstan in the north and Karakalpakstan, an autonomous region of Uzbekistan, in the south. The name roughly translates as "Sea of Islands", referring to more than 1,534 islands that once dotted its waters.
+                In Japan, eating fugu (blowfish) is the ideal of gourmet dining and the cooking version of Russian roulette. But the fish is a popular delicacy in places outside Japan as well. A Japanese wholesaler exported the first 90 kg of vacuum-packed fugu to Hong Kong in October 1995.  Hong Kong is the second market to import fugu from Japan.  New York, which started importing the fish in 1989, currently sells about 1 tons of fugu every year, according to the wholesaler. Fugu's trade volume is rising because of people's curiosity in eating such fish. 
                 </p>
                 <p>
-                Formerly one of the four largest lakes in the world with an area of 68,000 square kilometres, the Aral Sea has been steadily shrinking since the 1960s after the rivers that fed it were diverted by Soviet irrigation projects. By 2007, it had declined to 10% of its original size, splitting into four lakes – the North Aral Sea, the eastern and western basins of the once far larger South Aral Sea and one smaller lake between North and South Aral Seas. By 2009, the southeastern lake had disappeared and the southwestern lake retreated to a thin strip at the extreme west of the former southern sea. The maximum depth of the North Aral Sea is 42 m (as of 2008). 
+                There are nearly 100 kinds of fugu worldwide, 38 of them found in Japan. The ovaries, skin, muscles and, above all, the liver may contain a deadly poison, for which there is no known antidote. Yet fugu has been eaten in China for thousands of years and in Japan for hundreds. Ten thousand tons of fugu are consumed each year in Japan. The small, spotted torafugu, the most dangerous and delicious variety, are caught off the Korean coast in winter. It weighs as much as four pounds and costs one hundred dollars or more at the Tokyo fish market.  Fishermen use this fish, which blows itself up when threatened to make the lanterns that hang outside fugu restaurants. At restaurants displaying this sign, only specially licensed cooks who know exactly how to cut up fugu are allowed to work there. 
                 </p>
                 <p>
-                The shrinking of the Aral Sea has been called "one of the planet's worst environmental disasters". The region's once prosperous fishing industry has been essentially destroyed, bringing unemployment and economic hardship. The Aral Sea region is also heavily polluted, with consequent serious public health problems. The retreat of the sea has reportedly also caused local climate change, with summers becoming hotter and drier, and winters colder and longer. 
+                Currently, in order to serve fugu, a chef has to go through a strict certification process. If an unskilled or careless person accidentally pierces the organs or otherwise contaminates the edible flesh of the fish, then the diner may find that meal to be his last. Despite all regulatory precautions, every year there are reports of people getting sick or even dying from fugu poisoning. Recently there was a case in Toyama prefecture, where nine people who partook of fugu at a sushi restaurant were taken ill; of the 2 people who lost consciousness, one is still in a coma.
                 </p>
                 <p>
-                In the early 1960s the Soviet government decided the two rivers that fed the Aral Sea, the Amu Darya in the south and the Syr Darya in the northeast, would be diverted to irrigate the desert, in an attempt to grow rice, melons, cereals, and cotton. This was part of the Soviet plan for cotton, or "white gold", to become a major export. This eventually succeeded, and today Uzbekistan is one of the world's largest exporters of cotton.
+                At the University of Tokyo, professor Hashimoto and his colleague Noguchi showed a small brown vial of puffer poison, known as tetrodoxin. A pinch of the white powder - about the amount found in one prime-sized tiger fugu - is enough to kill more than 30 people. The estimated lethal dose for an adult, a mere one to two milligrams, could be put on a pinhead. Puffer toxin blocks sodium channels in nerve tissues, ultimately paralyzing muscles. Respiratory arrest is the cause of death. There is no proven antidote, perhaps because the toxin has a molecular structure unlike anything previously known to organic chemistry. Because of its potency - it is 1250 times deadlier than cyanide - the toxin is an important tool in modern neurological research. In diluted form it is also used as a painkiller for victims of neuralgia, arthritis and rheumatism.
                 </p>
                 <p>
-                The construction of irrigation canals began on a large scale in the 1940s. Many of the canals were poorly built, allowing water to leak or evaporate. From the Qaraqum Canal, the largest in Central Asia, perhaps 30 to 75% of the water went to waste. Today, only 12% of Uzbekistan's irrigation canal length is waterproofed. By 1960, between 20 and 60 cubic kilometres of water were going each year to the land instead of the sea. Most of the sea's water supply had been diverted, and in the 1960s, the Aral Sea began to shrink. From 1961 to 1970, the Aral's sea level fell at an average of 20 cm a year; in the 1970s, the average rate nearly tripled to 50–60 centimetres per year, and by the 1980s it continued to drop, now with a mean of 80–90 centimetres each year. The rate of water usage for irrigation continued to increase: the amount of water taken from the rivers doubled between 1960 and 2000, and cotton production nearly doubled in the same period.
+                The best season for fugu dishes is during the winter.  Therefore, there is a large difference in prices over the seasons.  Fugu is one of the most expensive foods in Japan.  A single fish can bring $50 to $140.  Cut up and served in a restaurant, it can bring $200.  Yet fugu has become increasingly popular.  At the small Haedomari Market in Shimonoseki, Japan's ‘fugu city’, where 80 percent of Japan's fugu catch is sold,  auctioneers start taking bids for the fish as early as one in the morning. Even at that hour the fishermen have already transferred hundreds of live fish caught as far away as Korea.  From Shimonoseki, they will be tracked or flown throughout the country. Fugu are sold while they are alive; therefore, transportation for fugu is exclusively arranged.  The fugu's mouth are stitched shut because fugu tend to fight with each other in a small space.
                 </p>
                 <p>
-                From 1960 to 1998, the sea's surface area shrank by approximately 60%, and its volume by 80%. In 1960, the Aral Sea had been the world's fourth-largest lake, with an area of approximately 68,000 square kilometres and a volume of 1,100 cubic kilometres; by 1998, it had dropped to 28,687 square kilometres, and eighth-largest. Over the same time period, its salinity increased from about 10 g/L to about 45 g/L. In 1987, the continuing shrinkage split the lake into two separate bodies of water, the North Aral Sea (the Lesser Sea, or Small Aral Sea) and the South Aral Sea (the Greater Sea, or Large Aral Sea).
+                Despite the danger, demand for puffer dishes is increasing so fast that Japanese fishing grounds are being depleted. Today, Japanese are culturing the fish on aquafarms and there is evidence of success in the artificial cultivation of fugu.  Fishers catch fugu in spring, usually with a hook and net, because it is the spawning season. Then, they cultivate these fish in a cage in the sea. They raise fish until the price goes up and start selling fugu in the fish market in late autumn. Farmed fugu, not feeding on plankton, is not lethal. They feed fugu on fresh fish until they grow up. There is also full-scale farming using artificial insemination. Apart from the supply of fugu fish itself, there is also a shortage of specialized chefs who can prepare the delicacy. A recent decision to relax the strict regulations on certification, so that the training period is reduced, has met with some consumer concern. 
                 </p>
                 <p>
-                By summer 2003, the South Aral Sea was vanishing faster than predicted. In the deepest parts of the sea, the bottom waters were saltier than the top, and not mixing. Thus, only the top of the sea was heated in the summer, and it evaporated faster than would otherwise be expected. In 2003, the South Aral further divided into eastern and western basins.
-                </p>
-                <p>
-                In 2004, the Aral Sea's surface area was only 17,160 km2, 25% of its original size, and a nearly five-fold increase in salinity had killed most of its natural flora and fauna. By 2007, the sea's area had further shrunk to 10% of its original size, and the salinity of the remains of the South Aral had increased to levels in excess of 100 g/L (grams per litre); by comparison, the salinity of ordinary seawater is typically around 35 g/L; the Dead Sea's salinity varies between 300 and 350 g/L. The decline of the North Aral has now been partially reversed following construction of a dam in 2005, but the remnants of the South Aral continued to disappear and its drastic shrinkage has created the Aralkum, a desert on the former lake bed.
-                </p>
-                <p>
-                The inflow of groundwater discharge into the South Aral Sea will not in itself be able to stop the desiccation. This inflow of about 4 cubic kilometres per year is larger than previously estimated. This groundwater originates in the Pamirs and Tian Shan mountains and finds its way through geological layers to a fracture zone at the bottom of the Aral.
-                </p>
-                <p>
-                In spite of ongoing efforts to save and replenish the North Aral Sea, the outlook for the remnants of the South Aral Sea remains bleak.
+                Every year from October through March, millions of diners bet their lives on not getting fatally poisoned.  Thanks to strict regulations of restaurants and wholesalers, the number of deaths decreases each year.  But this curious and preposterous fish remains the world's most deadly feast.  Non-lethal fugu may be on its way to our tables, but fugu fans often cite the thrill of possible poisoning/death as part of the appeal of fugu. A few die-hards even like to put a tiny bit of the poison on their fugu, for that numbing, tingling sensation on the lips. 
                 </p>
             </div>
         </div>
@@ -81,7 +72,7 @@
                 </div>
                 <div class="row mt-2">
                     <div class="col-md-12">
-                        <p class="mb-1">1. There are more than fifteen hundred islands in the Aral Sea.</p>
+                        <p class="mb-1">1. The Chinese consume more fugu fish than the Japanese.</p>
                         <div class="d-flex align-items-center mb-2">
                             <select name="q1" class="form-control w-auto ml-2">
                                 <option value="">Select Answer</option>
@@ -90,7 +81,7 @@
                                 <option value="NOT GIVEN">NOT GIVEN</option>
                             </select>
                         </div>
-                        <p class="mb-1">2. The Aral Sea now consists of just 4 small lakes.</p>
+                        <p class="mb-1">2. Most of the different kinds of fugu are found in Japan.</p>
                         <div class="d-flex align-items-center mb-2">
                             <select name="q2" class="form-control w-auto ml-2">
                                 <option value="">Select Answer</option>
@@ -99,7 +90,7 @@
                                 <option value="NOT GIVEN">NOT GIVEN</option>
                             </select>
                         </div>
-                        <p class="mb-1">3. The region’s fishing industry used to be the largest in the world.</p>
+                        <p class="mb-1">3. The fact that only specialized chefs can prepare fugu means that there are no longer any fatalities.</p>
                         <div class="d-flex align-items-center mb-2">
                             <select name="q3" class="form-control w-auto ml-2">
                                 <option value="">Select Answer</option>
@@ -108,7 +99,7 @@
                                 <option value="NOT GIVEN">NOT GIVEN</option>
                             </select>
                         </div>
-                        <p class="mb-1">4. Uzbekistan’s cotton industry has become very successful.</p>
+                        <p class="mb-1">4. Just a very small amount of fugu poison can kill a person.</p>
                         <div class="d-flex align-items-center mb-2">
                             <select name="q4" class="form-control w-auto ml-2">
                                 <option value="">Select Answer</option>
@@ -117,7 +108,7 @@
                                 <option value="NOT GIVEN">NOT GIVEN</option>
                             </select>
                         </div>
-                        <p class="mb-1">5. More than one hundred irrigation canals were built to provide water for the crops.</p>
+                        <p class="mb-1">5. Fugu from fish farms is more expensive than fugu caught at sea.</p>
                         <div class="d-flex align-items-center mb-2">
                             <select name="q5" class="form-control w-auto ml-2">
                                 <option value="">Select Answer</option>
@@ -132,77 +123,71 @@
                 <div class="bg-dark my-2 border border-dark"></div>
 
                 <h4 class="mt-0 mb-1">Questions 6 - 10</h4>
-                <p class="mb-0">Classify the following statements as referring to the different years.</p>
+                <p class="mb-0">Classify the following statements as referring to the senses.</p>
                 <p class="mb-0">For Questions 6 – 10 select a letter, A, B, C, or D.</p>
-                <p>NB You may use each letter more than once.</p>
+
                 <div class="row">
                     <div class="col-md-12">
                         <div class="d-flex flex-column">
-                            <strong class="font-weight-bold">A. 1960</strong>
-                            <strong class="font-weight-bold">B. 1980’s</strong>
-                            <strong class="font-weight-bold">C. 1990’s</strong>
-                            <strong class="font-weight-bold">D. 2005</strong>
+                            <strong class="font-weight-bold">A. Fugu caught at sea</strong>
+                            <strong class="font-weight-bold">B. Fugu from aquafarms</strong>
+                            <strong class="font-weight-bold">C. Both A and B</strong>
                         </div>
                     </div>
 
                     <div class="col-md-12">
                         <div class="form-group">
-                            <label for="q6" class="col-form-label">6. A dam was built to prevent the sea from shrinking further.</label>
+                            <label for="q6" class="col-form-label">6. Its skin is used to make lanterns to hang outside restaurants.</label>
                             <div class="d-flex align-items-center mb-2">
                                 <select name="q6" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
                                     <option value="B">B</option>
                                     <option value="C">C</option>
-                                    <option value="D">D</option>
                                 </select>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="q7" class="col-form-label">7. The Aral Sea was the fourth largest lake in the world.</label>
+                            <label for="q7" class="col-form-label">7. They feed on fresh fish.</label>
                             <div class="d-flex align-items-center mb-2">
                                 <select name="q7" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
                                     <option value="B">B</option>
                                     <option value="C">C</option>
-                                    <option value="D">D</option>
                                 </select>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="q8" class="col-form-label">8. The Aral Sea was the eighth largest lake in the world.</label>
+                            <label for="q8" class="col-form-label">8. They spend some of their lives in a cage in the ocean.</label>
                             <div class="d-flex align-items-center mb-2">
                                 <select name="q8" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
                                     <option value="B">B</option>
                                     <option value="C">C</option>
-                                    <option value="D">D</option>
                                 </select>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="q9" class="col-form-label">9. The Aral Sea split into two bodies of water.</label>
+                            <label for="q9" class="col-form-label">9. The fish are transported live.</label>
                             <div class="d-flex align-items-center mb-2">
                                 <select name="q9" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
                                     <option value="B">B</option>
                                     <option value="C">C</option>
-                                    <option value="D">D</option>
                                 </select>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="q10" class="col-form-label">10. The sea level fell by almost one metre per year.</label>
+                            <label for="q10" class="col-form-label">10. It is used in medical research.</label>
                             <div class="d-flex align-items-center mb-2">
                                 <select name="q10" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
                                     <option value="B">B</option>
                                     <option value="C">C</option>
-                                    <option value="D">D</option>
                                 </select>
                             </div>
                         </div>
@@ -212,71 +197,70 @@
                 <div class="bg-dark my-2 border border-dark"></div>
 
                 <h4 class="mt-0 mb-1">Questions 11 - 13</h4>
-                <p class="mb-0">Choose the correct answer from the given options.</p>
-                <p>For Questions 11 - 13, select a, b, c, or d</p>
+                <p>Choose the correct letter a, b, c, or d.</p>
                 
                 <div class="form-group">
-                    <label for="col-form-label" class="d-flex"><span class="mr-1">11.</span> Why did so much of the water which was meant for irrigation go to waste?</label>
+                    <label for="col-form-label" class="d-flex"><span class="mr-1">11.</span> Which country started eating fugu fish first?</label>
                     <div>
                         <div class="custom-control custom-radio">
                             <input type="radio" id="q11-1" name="q11" class="custom-control-input" value="A">
-                            <label class="custom-control-label" for="q11-1">a. The sea was not large enough to provide water for the crops.</label>
+                            <label class="custom-control-label" for="q11-1">a. China</label>
                         </div>
                         <div class="custom-control custom-radio">
                             <input type="radio" id="q11-2" name="q11" class="custom-control-input" value="B">
-                            <label class="custom-control-label" for="q11-2">b. The crops which were chosen were not suitable for conditions in the desert.</label>
+                            <label class="custom-control-label" for="q11-2">b. Japan</label>
                         </div>
                         <div class="custom-control custom-radio">
                             <input type="radio" id="q11-3" name="q11" class="custom-control-input" value="C">
-                            <label class="custom-control-label" for="q11-3">c. The water from the Aral Sea contained too much salinity.</label>
+                            <label class="custom-control-label" for="q11-3">c. Hong Kong</label>
                         </div>
                         <div class="custom-control custom-radio">
                             <input type="radio" id="q11-4" name="q11" class="custom-control-input" value="D">
-                            <label class="custom-control-label" for="q11-4">d. The irrigation canals were not waterproofed.</label>
+                            <label class="custom-control-label" for="q11-4">d. The USA</label>
                         </div>
                     </div>
                 </div>
 
                 <div class="form-group">
-                    <label for="col-form-label" class="d-flex"><span class="mr-1">12.</span> In the early twentieth century, why did the water evaporate faster than expected?</label>
+                    <label for="col-form-label" class="d-flex"><span class="mr-1">12.</span> What do we know about the case of poisoning in Toyama prefecture?</label>
                     <div>
                         <div class="custom-control custom-radio">
                             <input type="radio" id="q12-1" name="q12" class="custom-control-input" value="A">
-                            <label class="custom-control-label" for="q12-1">a. Because the sea had split into 4 smaller lakes.</label>
+                            <label class="custom-control-label" for="q12-1">a. Nine people died.</label>
                         </div>
                         <div class="custom-control custom-radio">
                             <input type="radio" id="q12-2" name="q12" class="custom-control-input" value="B">
-                            <label class="custom-control-label" for="q12-2">b. Because the surface area had shrunk dramatically.</label>
+                            <label class="custom-control-label" for="q12-2">b. Three people fell unconscious.</label>
                         </div>
                         <div class="custom-control custom-radio">
                             <input type="radio" id="q12-3" name="q12" class="custom-control-input" value="C">
-                            <label class="custom-control-label" for="q12-3">c. Because the water at the bottom was saltier than water at the top.</label>
+                            <label class="custom-control-label" for="q12-3">c. The chef made a mistake in the preparation of the fish.</label>
                         </div>
                         <div class="custom-control custom-radio">
                             <input type="radio" id="q12-4" name="q12" class="custom-control-input" value="D">
-                            <label class="custom-control-label" for="q12-4">d. Because the salinity increased from about 10 g/L to approximately 45 g/L.</label>
+                            <label class="custom-control-label" for="q12-4">d. The restaurant has had to close as a result of the accident.</label>
                         </div>
                     </div>
                 </div>
 
                 <div class="form-group">
-                    <label for="col-form-label" class="d-flex"><span class="mr-1">13.</span> What effect did the construction of a dam have?</label>
+                    <label for="col-form-label" class="d-flex"><span class="mr-1">13.</span> In what way does the fugu poison benefit society?</label>
                     <div>
                         <div class="custom-control custom-radio">
                             <input type="radio" id="q13-1" name="q13" class="custom-control-input" value="A">
-                            <label class="custom-control-label" for="q13-1">a. Water levels increased in the North Aral Sea.</label>
+                            <label class="custom-control-label" for="q13-1">a. There is no known antidote for the poison.</label>
                         </div>
                         <div class="custom-control custom-radio">
                             <input type="radio" id="q13-2" name="q13" class="custom-control-input" value="B">
-                            <label class="custom-control-label" for="q13-2">b. There was an increase in salinity which caused much of the flora and fauna to die.</label>
+                            <label class="custom-control-label" for="q13-2">b. It is used for people who suffer from certain diseases.</label>
                         </div>
                         <div class="custom-control custom-radio">
                             <input type="radio" id="q13-3" name="q13" class="custom-control-input" value="C">
-                            <label class="custom-control-label" for="q13-3">c. The South Aral Sea continued to shrink and the outlook remains bleak.</label>
+                            <label class="custom-control-label" for="q13-3">c. Because the toxin is much more powerful than cyanide.</label>
                         </div>
                         <div class="custom-control custom-radio">
                             <input type="radio" id="q13-4" name="q13" class="custom-control-input" value="D">
-                            <label class="custom-control-label" for="q13-4">d. A desert on the former sea-bed, called the Aralkum, has been created.</label>
+                            <label class="custom-control-label" for="q13-4">d. Because the toxin has a very unusual molecular structure.</label>
                         </div>
                     </div>
                 </div>
@@ -321,7 +305,7 @@
         let data = $("#form-exam").serialize();
         $.ajax({
             type: "post",
-            url: "{{ route('store.exam-one') }}",
+            url: "{{ route('store.exam-nine') }}",
             data: {_token: "{{ csrf_token() }}", data},
             dataType: "json",
             success: function(data) {
