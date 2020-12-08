@@ -127,6 +127,7 @@
 
                 <h4 class="mt-0 mb-1">Questions 6 - 10</h4>
                 <p class="mb-0">Classify the following statements as referring to the different years.</p>
+                <p class="mb-0">For Questions 6 – 10 select a letter, A, B, C, or D.</p>
                 <p>NB You may use each letter more than once.</p>
                 <div class="row">
                     <div class="col-md-12">
@@ -300,10 +301,16 @@
 @endsection
 
 @section('javascript')
+@isset($timer)
+    @if($timer == 1)
+    <script src="{{ asset('public/js/timer.js') }}"></script>
+    @endif
+@endisset
+
 <script>
     $('input, select').attr('required', 'required');
     $('#form-exam').on('submit', function(e) {
-
+        let timeSt = "{{ $timer }}";
         e.preventDefault();
         let data = $("#form-exam").serialize();
         $.ajax({
@@ -317,7 +324,9 @@
                     $('button[type="submit"]').hide();
                     $('input, select').attr('disabled', 'disabled');
                 }
-                stopTime();
+                if(timeSt == '1') {
+                    stopTime();
+                }
             },
             error: function(error) {
                 console.log('error');

@@ -298,10 +298,15 @@
 @endsection
 
 @section('javascript')
+@isset($timer)
+    @if($timer == 1)
+    <script src="{{ asset('public/js/timer.js') }}"></script>
+    @endif
+@endisset
 <script>
     $('input, select').attr('required', 'required');
     $('#form-exam').on('submit', function(e) {
-
+        let timeSt = "{{ $timer }}";
         e.preventDefault();
         let data = $("#form-exam").serialize();
         $.ajax({
@@ -315,7 +320,9 @@
                     $('button[type="submit"]').hide();
                     $('input, select').attr('disabled', 'disabled');
                 }
-                stopTime();
+                if(timeSt == '1') {
+                    stopTime();
+                }
             },
             error: function(error) {
                 console.log('error');

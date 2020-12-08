@@ -161,7 +161,7 @@
         <script src="{{ asset('public/assets/libs/sweetalert2/sweetalert2.min.js') }}"></script>
         <!-- Sweet alert init js-->
         <script src="{{ asset('public/assets/js/pages/sweet-alerts.init.js') }}"></script>
-        <script src="{{ asset('public/js/timer.js') }}"></script>
+        
         @yield('javascript')
         <script>
             $('#reset').on('click', () => location.reload());
