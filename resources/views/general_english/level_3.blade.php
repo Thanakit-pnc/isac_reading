@@ -33,7 +33,7 @@
     <div class="col-md-12">
         <div class="row">
             <div class="col-lg-4">
-                <a type="button" class="btn-block" data-toggle="modal" data-target="#ielts-level-3" data-title="The Fisherman and the Mermaid">
+                <a type="button" class="w-100" data-toggle="modal" data-target="#ielts-level-3" data-title="The Fisherman and the Mermaid">
                     <div class="widget-simple text-center card-box border-top border-primary border-2">
                         <i class="fas fa-book-open fa-4x text-primary mb-2"></i>
                         <h4 class="text-primary counter my-0">The Fisherman and the Mermaid</h4>
@@ -42,7 +42,7 @@
             </div>
 
             <div class="col-lg-4">
-                <a type="button" class="btn-block" data-toggle="modal" data-target="#ielts-level-3" data-title="The Haunted House">
+                <a type="button" class="w-100" data-toggle="modal" data-target="#ielts-level-3" data-title="The Haunted House">
                     <div class="widget-simple text-center card-box border-top border-primary border-2">
                         <i class="fas fa-book-open fa-4x text-primary mb-2"></i>
                         <h4 class="text-primary counter my-0">The Haunted House</h4>
@@ -51,7 +51,7 @@
             </div>
 
             <div class="col-lg-4">
-                <a type="button" class="btn-block" data-toggle="modal" data-target="#ielts-level-3" data-title="The Princess and the Gardener">
+                <a type="button" class="w-100" data-toggle="modal" data-target="#ielts-level-3" data-title="The Princess and the Gardener">
                     <div class="widget-simple text-center card-box border-top border-primary border-2">
                         <i class="fas fa-book-open fa-4x text-primary mb-2"></i>
                         <h4 class="text-primary counter my-0">The Princess and the Gardener</h4>
@@ -60,7 +60,7 @@
             </div>
 
             <div class="col-lg-4">
-                <a type="button" class="btn-block" data-toggle="modal" data-target="#ielts-level-3" data-title="The Accident">
+                <a type="button" class="w-100" data-toggle="modal" data-target="#ielts-level-3" data-title="The Accident">
                     <div class="widget-simple text-center card-box border-top border-primary border-2">
                         <i class="fas fa-book-open fa-4x text-primary mb-2"></i>
                         <h4 class="text-primary counter my-0">The Accident</h4>
@@ -107,14 +107,14 @@
         let title = btn.data('title');
 
         let slugUrl = title.toLowerCase().replaceAll(' ', '-');
-        let readPdf = slugUrl + '-story';
+        let readPdf = slugUrl + '-story.pdf#toolbar=0';
         let workbook = slugUrl + '-workbook.pdf';
         let answerkey = slugUrl + '-answerkey.pdf';
 
         let modal = $(this);
 
         modal.find('h4.modal-title').text(title)
-        modal.find('#read').attr('href', `{{ url('pdf/L3/${readPdf}') }}`)
+        modal.find('#read').attr('href', `{{ asset('public/assets/pdf/L3/${readPdf}') }}`)
         modal.find('#workbook').attr('href', `{{ asset('public/assets/pdf/L3/${workbook}') }}`)
         modal.find('#answerkey').attr('href', `{{ asset('public/assets/pdf/L3/${answerkey}') }}`)
     })
