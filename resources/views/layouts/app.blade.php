@@ -164,6 +164,12 @@
         
         @yield('javascript')
         <script>
+            $('input[type="text"]').attr({
+                'autocomplete': 'off',
+                'spellcheck': 'off',
+                'onChange': 'this.value = this.value.toUpperCase()'
+            });
+
             $('#reset').on('click', () => location.reload());
         </script>
         <!-- App js -->

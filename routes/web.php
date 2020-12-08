@@ -42,5 +42,20 @@ Route::middleware(['auth:student'])->group(function () {
 
     Route::get('the-mysterious-kris/{mode}', 'IELTSController@exam_four');
     Route::post('store_exam_four', 'IELTSController@store_exam_four')->name('store.exam-four');
+
+    Route::get('comic-strips/{mode}', 'IELTSController@exam_five');
+    Route::post('store_exam_five', 'IELTSController@store_exam_five')->name('store.exam-five');
+
+    Route::get('diamonds/{mode}', 'IELTSController@exam_six');
+    Route::post('store_exam_six', 'IELTSController@store_exam_six')->name('store.exam-six');
+
+    Route::get('dubai/{mode}', 'IELTSController@exam_seven');
+    Route::post('store_exam_seven', 'IELTSController@store_exam_seven')->name('store.exam-seven');
+
+    Route::get('face-blindness/{mode}', 'IELTSController@exam_eight');
+    Route::post('store_exam_eight', 'IELTSController@store_exam_eight')->name('store.exam-eight');
+
+    Route::get('a-meal-to-die-for/{mode}', 'IELTSController@exam_nine');
+    Route::post('store_exam_nine', 'IELTSController@store_exam_nine')->name('store.exam-nine');
 });
 

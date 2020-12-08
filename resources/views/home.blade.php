@@ -49,6 +49,12 @@
                 <button data-toggle="modal" data-target="#ielts-topic" data-title="Body piercing" class="btn btn-success mb-2">Body piercing</button>
                 <button data-toggle="modal" data-target="#ielts-topic" data-title="How animals communicate" class="btn btn-success mb-2">How animals communicate</button>
                 <button data-toggle="modal" data-target="#ielts-topic" data-title="The Mysterious Kris" class="btn btn-success mb-2">The Mysterious Kris</button>
+                <button data-toggle="modal" data-target="#ielts-topic" data-title="How animals communicate" class="btn btn-success mb-2">How animals communicate</button>
+                <button data-toggle="modal" data-target="#ielts-topic" data-title="Comic strips" class="btn btn-success mb-2">Comic strips</button>
+                <button data-toggle="modal" data-target="#ielts-topic" data-title="Diamonds" class="btn btn-success mb-2">Diamonds</button>
+                <button data-toggle="modal" data-target="#ielts-topic" data-title="Dubai" class="btn btn-success mb-2">Dubai</button>
+                <button data-toggle="modal" data-target="#ielts-topic" data-title="Face blindness" class="btn btn-success mb-2">Face blindness</button>
+                <button data-toggle="modal" data-target="#ielts-topic" data-title="A meal to die for" class="btn btn-success mb-2">A meal to die for</button>
             </div>
         </div>
     </div>
