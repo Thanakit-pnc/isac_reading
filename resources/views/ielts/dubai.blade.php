@@ -29,49 +29,49 @@
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">A</span>
                     <p>
-                    Long before the comic strip became the fashionable art form it is today, a hotel in Brussels gave complete freedom to cartoonists and artists.  When it changed hands in 1981, its seven storeys were taken over by 130 artists who converted it into a true ‘live-in’ museum.  Each of its 101 rooms was decorated by a different Belgian artist, and its corridors were lined with the works of comic strip artists who painted on the theme of Travel.  Today’s guests can sleep under ceilings crammed with suitcases, riddled with arrows or filled with birds. They can share a room with celebrity stars or find themselves in a room painted as a library.  Room numbers are painted on palettes and paint pots are used as key-holders.
+                    On a hot dusty afternoon, we parked the jeep in a flurry of sand in front of a steel and glass bank.  Even in areas of downtown Dubai, skyscrapers soar out of the desert like hi-tech islands in a sea of sand.  With little in the way of landscaping or pavements linking one multi-national high-rise to another, we squelched through the sand to our destination.  No one walks much in Dubai.  It’s too hot, and anyway, the roads are excellent.  Nevertheless, that afternoon we plunged on foot down narrow alleys only just wide enough to permit the passage of a single donkey into Bastakiya, the heart of old Dubai.
                     </p>
                 </div>
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">B</span>
                     <p>
-                    The history of the comic strip’s development is so respected in Belgium that it is taught in the local schools, and since the artist Herge created Tintin and his faithful dog Snowy in 1929, over 700 important cartoon artists have emerged from Belgium — more than from any other country in the world.  Every year, Belgian comic strip publishers print over 30 million books, three quarters of which are exported — mostly to France, where they represent more than half that country’s annual comic strip sales.
+                    What’s left of Dubai’s heritage?  Precious little, you might think.  But determined sightseers can still find ways to experience the rhythms of old Arabia — a goal that is a great deal more addictive and subtle than the usual business, beach and shopping pursuits.  Bastakiya was once an extensive enclave of square courtyard houses in the Bur Dubai area of the city on the bank of Dubai Creek.  What remains of the old coral-built homes originally owned by merchants who traded in spices, incense, gold and textiles is still suffused with an ethereal, riveting ambience.  As recently as the 1950’s, a visitor arriving at Dubai by sea described the city as a forest of skyscrapers, so numerous were the graceful wind-towers of Bastakiya.  Elegant and elegiac they still look today, crowning flat-roofed homes of faded splendour.
                     </p>
                 </div>
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">C</span>
                     <p>
-                    Now known as the ‘ninth art’, the comic strip has come a long way since the days when it was seen as nothing more than an attempt to increase the newspaper sales of the two press magnates who first used them — Joseph Pulitzer and William Randolph Hearst. In 1895, Pulitzer’s New York World publication showed a series of illustrations entitled “At the Circus in Hogan’s Alley”, a squalid lane peopled by homeless people in ragged clothes, philosophical bystanders and bad tempered women.  Amongst these characters stood a mischievous boy in a nightshirt, conspicuous with his shaven head and big flappy ears.  Across his clothing was written a comment, and with the passing of the years, society’s fascination for the ‘Yellow Kid’, as he became known, was so great that his image appeared on biscuit tins, toys, cigarette boxes, post cards and paperweights.  The character inspired the creation of a popular song, a musical comedy and an entire magazine, and brought about the expression, ‘yellow journalism’ or ‘gutter’ press.
+                    Rising some 15 metres above the rooftops, wind-towers work by trapping the breezes that stray into vents which face in four directions.  The vents channel the moving air down into the building from where it is circulated through the living areas.  As in so many of the Gulf’s traditional seashore towns, the houses of Bastakiya were built from blocks of coral.  In Dubai, the mortar used is called sarooj, a mixture of red clay, manure and water that washes the walls with a peachy glow.  Date palms provided the beams, and heavy carved wooden doors still bar the way from the street.  These homes do not divulge much to the outside world.  Their windows open onto tree shaded courtyards that allow privacy, security and thermal insulation.  Incised stucco panels, pierced window screens, crenellations and columns topped with lotus-shaped capitals are decorative features which also contribute to the basic structure of the house.
                     </p>
                 </div>
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">D</span>
                     <p>
-                    This single image wasn’t yet the comic strip in the sense we know today. For that, one had to wait until the 18th of October 1896, when the Yellow Kid finally appeared with his message spread through a series of boxes in familiar ‘balloons’.  The ‘funnies’, as such illustrations were called, were extremely successful, especially between World War 1 and the late 1940s when many truths were communicated in images that mirrored the views of millions of people throughout the world.  In Brussels, the comic strip saga began in 1920 with the appearance of the Petit Belge (Young Belgian) named ‘Tintin’, a boy reporter and adventurer. Here the world’s two permanent comic strip archives now reside in the Belgian Centre for Comic Strips. Today, exhibits are housed beneath a bright domed glazed ceiling.  Most of the main floor is given over to the ‘Museum of Imagination’ in which the work of 650 Belgian comic strip artists, representing the art form until the mid-1960s, can be seen.  
+                    Trudging along the twisting, sandy lanes between the wind-towered houses, we reached the Majlis Gallery, a sensitively restored example of the old architectural style.  The former merchant’s home now houses some of the finest examples of Dubai’s arts and crafts.  Visiting the gallery also provides an ideal opportunity to experience the interior of a traditional wind-towered house — with its high ceilings and cool, narrow rooms.  The width of a room was restricted by the mangrove poles used as ceiling beams none of which, it seems could have been longer than about 3.5 metres.  Traditionally, there would be a male <strong class="font-weight-bold">majlis</strong> (reception room) as well as a female <strong class="font-weight-bold">majlis</strong> with separate entrances.  In some of the larger mercantile homes, another public majlis, situated near the main door, would be used to extend hospitality to visiting traders.  
                     </p>
                 </div>
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">E</span>
                     <p>
-                    Rare films about comics can be viewed in individual booths and the Centre’s Saint-Roch Gallery displays a continuously changing selection of original works by some of the most famous names in comic strip art.  A permanent display explains how a comic strip is born and evolves, while another displays everything there is to know about the making of an animated film. Drawings show how dramatically many famous characters have changed since their conception.
+                    Not for nothing was Dubai once called the City of Merchants.  Like so many other ports of the Gulf, it operated as a highly successful entrepot for thousands of years, importing and exporting goods as far afield as China in the same type of magnificent wooden dhows (a kind of boat) that are still constructed along the coastline.  The region itself has been blessed with three raw materials that have brought continued prosperity to the area.  In antiquity, it was copper, then pearls and now oil.
                     </p>
                 </div>
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">F</span>
                     <p>
-                    Meanwhile, as The Centre’s fame spread, the Deputy Mayor was planning an even more ambitious programme — to bring the comic strip out into the streets of the city by entrusting some of its best masters with the task of transforming grey walls into colourful frescoes.  Thus in 1991 the first of Brussels’ comic strip murals was introduced to the general public. Twelve more previously characterless Brussels neighbourhoods have since been similarly embellished and plans to create a couple of new murals every year are sure to brighten the city even more. Along a ‘Comic Strip Route’ established by the Brussels Tourist Board, wanderers can meet some of Belgium’s best loved comic strip characters. Comic strips also enliven three of Brussels’ underground stations.  In the Stockel underground, two 135 metre long friezes portraying 140 characters of Herge’s comic strips blaze across the walls.
+                    Meanwhile the local coastal people subsist, as non-mercantile classes always have, on the basics of life — boat building, fishing and harvesting dates.  Their rural counterparts, the Bedouin, herded camels, sheep and goats, and still do.  The camels are often bred nowadays for racing — with untold urban wealth up for prize money. The goats may be barbequed under the stars for tourists on a desert safari.  These days the sand dunes echo to the roar of jeeps on ‘wadi-bashing’ expeditions or the swish of the latest craze — sand skiing.
                     </p>
                 </div>
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">G</span>
                     <p>
-                    Brussels’ importance as a producer of comic strip art means that it also has more comic bookshops than any other city.  A stone’s throw from Brussels’ flamboyant Grand Place is the ‘Tintin Shop’, where you will find pictures of the boy-adventurer and the rest of the characters all printed on hundreds of articles, from school bags to bath towels.
+                    Cutting a soft, gleaming swathe through Dubai is The Creek, the highway of a civilisation built on trade. It is one of the few safe anchorages along the region’s southern coast and was a traditional haven for the dhows that plied the waters of the Persian Gulf and beyond. From one of the metal bridges that now span The Creek, one can watch the dhow building trade continuing as it has gone for centuries. Hundreds of these sturdy wooden boats add colour to the Dhow Wharfage. As recently as the 1970’s, dhows carried two-thirds of Dubai’s import/export business. Today, the dhows transport only a fraction of the Emirate’s trade but the sight of the Arabs dressed in their flowing robes is a tangible reminder of the past. Only the goods being loaded have changed, it seems. Gone are the pearls and, of course, the slaves.  Nowadays one dodges around electrical goods and building materials on the wharfs. In family-owned boatyards, dhows are still built in the time-honoured way, with keels of teak and ribs and flanks of acacia wood.
                     </p>
                 </div>
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">H</span>
                     <p>
-                    A city so fully dedicated to the comic strip celebrated its centenary with a grand display of related events, all under the patronage of His Majesty King Albert II.  Thirty-nine Belgian towns and villages joined in festivities that were organised in collaboration with museums, art and cultural centres and leisure parks.  There were countless exhibitions, guided tours of subway stations and bookshops, comic strip conferences and week-ends, competitions for budding comic strip artists, dedication sessions and window dressing competitions. Namur province dedicated a centre to the late Willy Wandersteen, a highly celebrated and very productive Flemish cartoonist.  Luxembourg rethought its roadsigns with the help of a cartoonist, and the 1996 Walloon Festival was centred around the comic strip.
+                    The Creek was the nexus of the pearling expeditions on which Dubai’s early fame was built. Now it’s gold that lures visitors to the souks — the traditional market places. During the early part of the century, fortunes were made through the astute trading of gold from Dubai to the Asian subcontinent, and to this day, many of the souk’s customers are from that region.  In glittering shop after glittering shop, three genres of jewellery are marketed.  The first type is aimed at Asians, who tend to buy real gold.  The second caters to the European bargain hunter and the third offers traditional Bedouin-style jewellery.  Unfortunately, virtually none of the latter is antique because Bedouin custom dictates that jewellery which was part of a woman’s dowry must be melted down upon her death.  In any case, genuine Bedouin jewellery was crafted in silver, the taste for gold being relatively recent.
                     </p>
                 </div>
             </div>
@@ -83,107 +83,107 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">1.</span> What do we know about the hotel mentioned in the first paragraph?</label>
+                            <label for="col-form-label" class="d-flex"><span class="mr-1">1.</span> Why don’t many people walk around in Dubai?</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q1-1" name="q1" class="custom-control-input" value="A">
-                                    <label class="custom-control-label" for="q1-1">a. It was decorated by over a hundred artists from around the world.</label>
+                                    <label class="custom-control-label" for="q1-1">a. The pavements aren’t very good for walking.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q1-2" name="q1" class="custom-control-input" value="B">
-                                    <label class="custom-control-label" for="q1-2">b. Some of the rooms are decorated as libraries.</label>
+                                    <label class="custom-control-label" for="q1-2">b. The weather makes walking uncomfortable.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q1-3" name="q1" class="custom-control-input" value="C">
-                                    <label class="custom-control-label" for="q1-3">c. It changed ownership in the early 1980’s.</label>
+                                    <label class="custom-control-label" for="q1-3">c. The quality of the roads makes driving a better option.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q1-4" name="q1" class="custom-control-input" value="D">
-                                    <label class="custom-control-label" for="q1-4">d. Famous celebrities often stay there.</label>
+                                    <label class="custom-control-label" for="q1-4">d. All the above reasons.</label>
                                 </div>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">2.</span> The first function of comic strip was</label>
+                            <label for="col-form-label" class="d-flex"><span class="mr-1">2.</span> What is referred to as the “rhythms of old Arabia”?</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q2-1" name="q2" class="custom-control-input" value="A">
-                                    <label class="custom-control-label" for="q2-1">a. to express the opinions of many people around the world.</label>
+                                    <label class="custom-control-label" for="q2-1">a. Popular pursuits such as shopping and going to the beach.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q2-2" name="q2" class="custom-control-input" value="B">
-                                    <label class="custom-control-label" for="q2-2">b. to help sell more newspapers.</label>
+                                    <label class="custom-control-label" for="q2-2">b. The usual business activities of ancient Dubai.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q2-3" name="q2" class="custom-control-input" value="C">
-                                    <label class="custom-control-label" for="q2-3">c. to make people laugh.</label>
+                                    <label class="custom-control-label" for="q2-3">c. The sights and sounds of historic Dubai.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q2-4" name="q2" class="custom-control-input" value="D">
-                                    <label class="custom-control-label" for="q2-4">d. to paint a depressing picture of society.</label>
+                                    <label class="custom-control-label" for="q2-4">d. The music played in the streets of Dubai.</label>
                                 </div>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">3.</span> The ‘Yellow Kid’ of 1895 was different from modern comic strips because</label>
+                            <label for="col-form-label" class="d-flex"><span class="mr-1">3.</span> How are the “windtower” houses cooled?</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q3-1" name="q3" class="custom-control-input" value="A">
-                                    <label class="custom-control-label" for="q3-1">a. it showed a number of characters living in a dirty street.</label>
+                                    <label class="custom-control-label" for="q3-1">a. The heat inside the house is released through vents in the tower.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q3-2" name="q3" class="custom-control-input" value="B">
-                                    <label class="custom-control-label" for="q3-2">b. there was only one picture.</label>
+                                    <label class="custom-control-label" for="q3-2">b. Any wind is caught and directed down to the living areas. </label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q3-3" name="q3" class="custom-control-input" value="C">
-                                    <label class="custom-control-label" for="q3-3">c. the main character inspired people to write a song about him.</label>
+                                    <label class="custom-control-label" for="q3-3">c. By catching the cool wind from the direction of the sea.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q3-4" name="q3" class="custom-control-input" value="D">
-                                    <label class="custom-control-label" for="q3-4">d. it gave rise to the term ‘gutter’ press.</label>
+                                    <label class="custom-control-label" for="q3-4">d. By using coral to build the houses.</label>
                                 </div>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">4.</span> Which of the following can you NOT see in the Belgian Centre for Comic Strips?</label>
+                            <label for="col-form-label" class="d-flex"><span class="mr-1">4.</span> What do we know about the Majlis Gallery?? </label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q4-1" name="q4" class="custom-control-input" value="A">
-                                    <label class="custom-control-label" for="q4-1">a. Examples of work by Belgian comic strip artists of the late twentieth century.</label>
+                                    <label class="custom-control-label" for="q4-1">a. A local merchant lives there.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q4-2" name="q4" class="custom-control-input" value="B">
-                                    <label class="custom-control-label" for="q4-2">b. Some rare films about comics.</label>
+                                    <label class="custom-control-label" for="q4-2">b. It serves as an exhibition centre for local arts and crafts.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q4-3" name="q4" class="custom-control-input" value="C">
-                                    <label class="custom-control-label" for="q4-3">c. A display to show how comic strips are created and developed.</label>
+                                    <label class="custom-control-label" for="q4-3">c. The rooms are wide, cool and spacious.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q4-4" name="q4" class="custom-control-input" value="D">
-                                    <label class="custom-control-label" for="q4-4">d. A comprehensive display showing how animated movies are produced.</label>
+                                    <label class="custom-control-label" for="q4-4">d. The height of the ceiling is restricted by the use of mangrove beams.</label>
                                 </div>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">5.</span> Which of the following did not take place in Belgium to celebrate the centenary of Brussels?</label>
+                            <label for="col-form-label" class="d-flex"><span class="mr-1">5.</span> Which of the following was not a raw material for increasing Dubai’s economic status?</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q5-1" name="q5" class="custom-control-input" value="A">
-                                    <label class="custom-control-label" for="q5-1">a. A large number of exhibitions were held.</label>
+                                    <label class="custom-control-label" for="q5-1">a. dhows</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q5-2" name="q5" class="custom-control-input" value="B">
-                                    <label class="custom-control-label" for="q5-2">b. Almost forty communities participated in the celebrations.</label>
+                                    <label class="custom-control-label" for="q5-2">b. oil</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q5-3" name="q5" class="custom-control-input" value="C">
-                                    <label class="custom-control-label" for="q5-3">c. Various competitions were held to identify future comic strip artists.</label>
+                                    <label class="custom-control-label" for="q5-3">c. copper</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q5-4" name="q5" class="custom-control-input" value="D">
-                                    <label class="custom-control-label" for="q5-4">d. Cartoon artists redesigned some of the road signs.</label>
+                                    <label class="custom-control-label" for="q5-4">d. pearls</label>
                                 </div>
                             </div>
                         </div>
@@ -209,7 +209,7 @@
                             <tbody>
                                 <tr>
                                     <td class="align-middle">6</td>
-                                    <td class="align-middle">Where to purchase a school bag with a picture of Tintin’s pet dog.</td>
+                                    <td class="align-middle">The preferred metal for Bedouin jewellery.</td>
                                     <td class="position-relative">
                                         <select class="form-control" name="q6">
                                             <option value="">Select Answer</option>
@@ -226,7 +226,7 @@
                                 </tr>
                                 <tr>
                                     <td class="align-middle">7</td>
-                                    <td class="align-middle">The development of comic strips as part of the school curriculum.</td>
+                                    <td class="align-middle">An impression of the Dubai sky-line when arriving by boat.</td>
                                     <td class="position-relative"> 
                                         <select class="form-control w-100" name="q7">
                                             <option value="">Select Answer</option>
@@ -243,7 +243,7 @@
                                 </tr>
                                 <tr>
                                     <td class="align-middle">8</td>
-                                    <td class="align-middle">An unusual place to stay.</td>
+                                    <td class="align-middle">A comparison of occupations between city and countryside folk.</td>
                                     <td class="position-relative">
                                         <select class="form-control w-100" name="q8">
                                             <option value="">Select Answer</option>
@@ -260,7 +260,7 @@
                                 </tr>
                                 <tr>
                                     <td class="align-middle">9</td>
-                                    <td class="align-middle">Large paintings on city walls.</td>
+                                    <td class="align-middle">Why houses in Dubai have a slightly orange appearance.</td>
                                     <td class="position-relative">
                                         <select class="form-control w-100" name="q9">
                                             <option value="">Select Answer</option>
@@ -277,7 +277,7 @@
                                 </tr>
                                 <tr>
                                     <td class="align-middle">10</td>
-                                    <td class="align-middle">Another name for the comic strip.</td>
+                                    <td class="align-middle">Different rooms for welcoming men and women into the home.</td>
                                     <td class="position-relative">
                                         <select class="form-control w-100" name="q10">
                                             <option value="">Select Answer</option>
@@ -300,26 +300,26 @@
                 <div class="bg-dark my-2 border border-dark"></div>
 
                 <h4 class="mt-0 mb-1">Questions 11 - 14</h4>
-                <p class="mb-0">Complete the following passage using words from the box. </p>
+                <p class="mb-0">Complete the following passage using words from the box.</p>
                 <p>For Questions 11 – 14, select the letters a – h.</p>
                 
                 <div class="row">
                     <div class="col-md-12">
                         <div class="border">
                             <div class="row p-1">
-                                <div class="col-md-4">a. cartoon</div>
-                                <div class="col-md-4">b. popular</div>
-                                <div class="col-md-4">c. depicting</div>
-                                <div class="col-md-4">d. illustrations</div>
-                                <div class="col-md-4">e. tourists</div>
-                                <div class="col-md-4">f. show-time</div>
-                                <div class="col-md-4">g. decorate</div>
-                                <div class="col-md-4">h. delighted</div>
+                                <div class="col-md-4">a. fortunes</div>
+                                <div class="col-md-4">b. shopping</div>
+                                <div class="col-md-4">c. bargain</div>
+                                <div class="col-md-4">d. business</div>
+                                <div class="col-md-4">e. souvenir</div>
+                                <div class="col-md-4">f. attracted</div>
+                                <div class="col-md-4">g. journey</div>
+                                <div class="col-md-4">h. kinds</div>
                             </div>
                         </div>
 
                         <div class="mt-3 line-height">
-                        The procedure of making the kris is much the same today as it was in the past, the only difference being the different <span class="font-weight-bold">11</span> 
+                        The Creek was the central feature of the pearling trade on which Dubai’s early fame was built. Nowadays visitors are <span class="font-weight-bold">11.</span> 
                         <div class="d-inline-block position-relative">
                             <select name="q11" class="form-control">
                                 <option value="">Select Answer</option>
@@ -333,7 +333,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        available today. A piece of metal is repeatedly heated and hammered until it is flat.  After this the blade is shaped, <span class="font-weight-bold">12</span>
+                        to the traditional market places in search of gold. At the turn of the century, people made their <span class="font-weight-bold">12.</span>
                         <div class="d-inline-block position-relative">
                             <select name="q12" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -347,7 +347,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        , filed and polished, and any impurities are removed from the blade.  The finished blade is then placed in vinegar for at least 24 hours to enhance the engraved <span class="font-weight-bold">13</span>
+                        through the skillful trading of gold from Dubai to India, Pakistan and Sri Lanka, and even today, many of the souk’s customers are from that region. In the market stalls, three <span class="font-weight-bold">13.</span>
                         <div class="d-inline-block position-relative">
                             <select name="q13" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -361,7 +361,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        .  The handle and cover are usually made from hard, fine-grained wood that both looks good and lasts a long time. In <span class="font-weight-bold">14</span>
+                        of jewellery are marketed. The first is aimed at Asians, who tend to buy real gold.  The second caters to the Europeans looking for a <span class="font-weight-bold">14.</span>
                         <div class="d-inline-block position-relative">
                             <select name="q14" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -375,7 +375,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        days, horn and ivory were also occasionally utilized.
+                        , and the third offers traditional Bedouin-style jewellery.
                         </div>
                     </div>
                 </div>
@@ -420,7 +420,7 @@
         let data = $("#form-exam").serialize();
         $.ajax({
             type: "post",
-            url: "{{ route('store.exam-five') }}",
+            url: "{{ route('store.exam-seven') }}",
             data: {_token: "{{ csrf_token() }}", data},
             dataType: "json",
             success: function(data) {
