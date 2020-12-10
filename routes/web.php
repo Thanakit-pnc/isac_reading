@@ -31,6 +31,8 @@ Route::middleware(['auth:student'])->group(function () {
     Route::get('pdf/{level?}/{file?}', 'HomeController@pdf');
 
     // IELTS Exam
+    Route::get('ielts/{group}', 'IELTSController@index');
+
     Route::get('an-environmental-disaster/{mode}', 'IELTSController@exam_one');
     Route::post('store_exam_one', 'IELTSController@store_exam_one')->name('store.exam-one');
 

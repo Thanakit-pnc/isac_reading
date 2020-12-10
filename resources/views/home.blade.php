@@ -45,19 +45,22 @@
 
         <div id="ielts-topics-content" style="display: none;">
             <div class="d-flex flex-column text-center font-16">
-                <button data-toggle="modal" data-target="#ielts-topic" data-title="An environmental disaster" class="btn btn-success mb-2">An environmental disaster</button>
-                <button data-toggle="modal" data-target="#ielts-topic" data-title="Body piercing" class="btn btn-success mb-2">Body piercing</button>
-                <button data-toggle="modal" data-target="#ielts-topic" data-title="How animals communicate" class="btn btn-success mb-2">How animals communicate</button>
-                <button data-toggle="modal" data-target="#ielts-topic" data-title="The Mysterious Kris" class="btn btn-success mb-2">The Mysterious Kris</button>
-                <button data-toggle="modal" data-target="#ielts-topic" data-title="Comic strips" class="btn btn-success mb-2">Comic strips</button>
-                <button data-toggle="modal" data-target="#ielts-topic" data-title="Diamonds" class="btn btn-success mb-2">Diamonds</button>
-                <button data-toggle="modal" data-target="#ielts-topic" data-title="Dubai" class="btn btn-success mb-2">Dubai</button>
-                <button data-toggle="modal" data-target="#ielts-topic" data-title="Face blindness" class="btn btn-success mb-2">Face blindness</button>
-                <button data-toggle="modal" data-target="#ielts-topic" data-title="A meal to die for" class="btn btn-success mb-2">A meal to die for</button>
+                <a href="{{ url('ielts/group-1') }}" class="btn btn-success mb-2">Topic 1 - 10</a>
+                <a href="{{ url('ielts/group-2') }}" class="btn btn-success mb-2">Topic 11 - 20</a>
             </div>
         </div>
     </div>
 </div>
+
+<!-- <button data-toggle="modal" data-target="#ielts-topic" data-title="An environmental disaster" class="btn btn-success mb-2">An environmental disaster</button>
+<button data-toggle="modal" data-target="#ielts-topic" data-title="Body piercing" class="btn btn-success mb-2">Body piercing</button>
+<button data-toggle="modal" data-target="#ielts-topic" data-title="How animals communicate" class="btn btn-success mb-2">How animals communicate</button>
+<button data-toggle="modal" data-target="#ielts-topic" data-title="The Mysterious Kris" class="btn btn-success mb-2">The Mysterious Kris</button>
+<button data-toggle="modal" data-target="#ielts-topic" data-title="Comic strips" class="btn btn-success mb-2">Comic strips</button>
+<button data-toggle="modal" data-target="#ielts-topic" data-title="Diamonds" class="btn btn-success mb-2">Diamonds</button>
+<button data-toggle="modal" data-target="#ielts-topic" data-title="Dubai" class="btn btn-success mb-2">Dubai</button>
+<button data-toggle="modal" data-target="#ielts-topic" data-title="Face blindness" class="btn btn-success mb-2">Face blindness</button>
+<button data-toggle="modal" data-target="#ielts-topic" data-title="A meal to die for" class="btn btn-success mb-2">A meal to die for</button> -->
 
 <div class="modal fade" id="ielts-topic" tabindex="-1" role="dialog" aria-labelledby="myCenterModalLabel" aria-hidden="true" style="display: none;">
     <div class="modal-dialog modal-dialog-centered">

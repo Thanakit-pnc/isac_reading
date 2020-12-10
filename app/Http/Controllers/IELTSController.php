@@ -3,9 +3,38 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use File;
 use Route;
+
 class IELTSController extends Controller
 {
+    public function index($group = '') {
+
+        $views = File::allFiles(resource_path('views\ielts'));
+
+        $exams = array();
+
+        $i = 0;
+        foreach($views as $view) {
+            $fileName = substr($view->getFilename(), 0, -10);
+            $fileNameFormat = str_replace('-', ' ', $fileName);
+        
+            $length = 10;
+            $group_num = $i + 1;
+
+            if($fileNameFormat !== 'index') {
+                
+                $exams['group-1'][$i++] = ucwords($fileNameFormat);
+
+            } 
+            
+        }
+
+        dump($exams);
+
+        return view('ielts.index');
+    }
+
     // an environmental disaster
     public function exam_one($mode) {
         
