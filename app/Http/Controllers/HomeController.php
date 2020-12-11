@@ -16,7 +16,7 @@ class HomeController extends Controller
 
     public function index() {
 
-        $views = File::allFiles(resource_path('views\ielts'));
+        $views = File::allFiles(resource_path('views/ielts'));
 
         $collection = collect($views);
         
