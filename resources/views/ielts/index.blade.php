@@ -11,7 +11,7 @@
             <h4>{{ $topicTitle[$route['group']] }}</h4>
             <ol class="breadcrumb m-0 pt-0 p-sm-2">
                 <li class="breadcrumb-item"><a href="{{ url('/home') }}"><i class="fas fa-home"></i> Home</a></li>
-                <li class="breadcrumb-item active">Topic 1 - 5</li>
+                <li class="breadcrumb-item active">{{ $topicTitle[$route['group']] }}</li>
             </ol>
         </div>
     </div>
