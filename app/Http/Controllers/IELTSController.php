@@ -14,25 +14,26 @@ class IELTSController extends Controller
 
         $exams = array();
 
-        $i = 0;
-        foreach($views as $view) {
+        $length = 5;
+        $group_num = 1;
+
+        foreach($views as $key => $view) {
             $fileName = substr($view->getFilename(), 0, -10);
             $fileNameFormat = str_replace('-', ' ', $fileName);
         
-            $length = 10;
-            $group_num = $i + 1;
-
             if($fileNameFormat !== 'index') {
-                
-                $exams['group-1'][$i++] = ucwords($fileNameFormat);
+
+                $exams['group-'.$group_num][$key] = ucwords($fileNameFormat);
+
+                if(count($exams['group-'.$group_num]) == $length) {
+                    $exams['group-'.$group_num++][$key] = ucwords($fileNameFormat);
+                } 
 
             } 
             
         }
-
-        dump($exams);
-
-        return view('ielts.index');
+ 
+        return view('ielts.index', ['exams' => $exams[$group]]);
     }
 
     // an environmental disaster
@@ -570,6 +571,322 @@ class IELTSController extends Controller
             'q11' => 'A',
             'q12' => 'C',
             'q13' => 'B',
+        );
+
+        $score = 0;
+        $count = count($answers);
+        
+        // 1 = Right | 0 = Wrong
+        $status = 0;
+
+        $get_string = $request->input('data');
+        parse_str($get_string, $get_array);
+
+        $results = [];
+        
+        try {
+            foreach($answers as $key => $answer) {
+                if(isset($get_array[$key])) {
+                    if(strtolower($get_array[$key]) == strtolower($answer)) {
+                        $score++;
+                        $status = 1;
+                    } else {
+                        $status = 0;
+                    }
+                } else {
+                    $status = 0;
+                }
+                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
+            } 
+
+        } catch(Exception $e) {
+            return response()->json(['message' => 'Something went wrong!!']);
+        }
+
+        return response()->json(['message' => 'success', 'results' => $results]);
+    }
+
+    // Cloning
+    public function exam_ten($mode) {
+        
+        if($mode == 'T') {
+            $timer = 1;
+        } else {
+            $timer = 0;
+        }
+
+        return view('ielts.cloning', compact('timer'));
+    }
+    public function store_exam_ten(Request $request) {
+
+        $answers = array(
+            'q1' => 'D',
+            'q2' => 'D',
+            'q3' => 'C',
+            'q4' => 'C',
+            'q5' => 'B',
+            'q6' => 'NOT GIVEN',
+            'q7' => 'FALSE',
+            'q8' => 'NOT GIVEN',
+            'q9' => 'FALSE',
+            'q10' => 'TRUE',
+            'q11' => 'NOT GIVEN',
+            'q12' => 'In-vitro',
+            'q13' => 'Petri dish',
+        );
+
+        $score = 0;
+        $count = count($answers);
+        
+        // 1 = Right | 0 = Wrong
+        $status = 0;
+
+        $get_string = $request->input('data');
+        parse_str($get_string, $get_array);
+
+        $results = [];
+        
+        try {
+            foreach($answers as $key => $answer) {
+                if(isset($get_array[$key])) {
+                    if(strtolower($get_array[$key]) == strtolower($answer)) {
+                        $score++;
+                        $status = 1;
+                    } else {
+                        $status = 0;
+                    }
+                } else {
+                    $status = 0;
+                }
+                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
+            } 
+
+        } catch(Exception $e) {
+            return response()->json(['message' => 'Something went wrong!!']);
+        }
+
+        return response()->json(['message' => 'success', 'results' => $results]);
+    }
+
+    // Coping with Change
+    public function exam_eleven($mode) {
+        
+        if($mode == 'T') {
+            $timer = 1;
+        } else {
+            $timer = 0;
+        }
+
+        return view('ielts.coping-with-change', compact('timer'));
+    }
+    public function store_exam_eleven(Request $request) {
+
+        $answers = array(
+            'q1' => 'H',
+            'q2' => 'E',
+            'q3' => 'B',
+            'q4' => 'G',
+            'q5' => 'D',
+            'q6' => 'C',
+            'q7' => 'F',
+            'q8' => 'TRUE',
+            'q9' => 'TRUE',
+            'q10' => 'FALSE',
+            'q11' => 'NOT GIVEN',
+            'q12' => 'C',
+            'q13' => 'B',
+        );
+
+        $score = 0;
+        $count = count($answers);
+        
+        // 1 = Right | 0 = Wrong
+        $status = 0;
+
+        $get_string = $request->input('data');
+        parse_str($get_string, $get_array);
+
+        $results = [];
+        
+        try {
+            foreach($answers as $key => $answer) {
+                if(isset($get_array[$key])) {
+                    if(strtolower($get_array[$key]) == strtolower($answer)) {
+                        $score++;
+                        $status = 1;
+                    } else {
+                        $status = 0;
+                    }
+                } else {
+                    $status = 0;
+                }
+                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
+            } 
+
+        } catch(Exception $e) {
+            return response()->json(['message' => 'Something went wrong!!']);
+        }
+
+        return response()->json(['message' => 'success', 'results' => $results]);
+    }
+    
+    // Hot air balloon
+    public function exam_twelve($mode) {
+        
+        if($mode == 'T') {
+            $timer = 1;
+        } else {
+            $timer = 0;
+        }
+
+        return view('ielts.hot-air-balloon', compact('timer'));
+    }
+    public function store_exam_twelve(Request $request) {
+
+        $answers = array(
+            'q1' => 'D',
+            'q2' => 'A',
+            'q3' => 'B',
+            'q4' => 'D',
+            'q5' => 'B',
+            'q6' => 'D',
+            'q7' => 'G',
+            'q8' => 'E',
+            'q9' => 'I',
+            'q10' => 'B',
+            'q11' => 'C',
+            'q12' => 'E',
+            'q13' => 'G',
+            'q14' => 'F',
+        );
+
+        $score = 0;
+        $count = count($answers);
+        
+        // 1 = Right | 0 = Wrong
+        $status = 0;
+
+        $get_string = $request->input('data');
+        parse_str($get_string, $get_array);
+
+        $results = [];
+        
+        try {
+            foreach($answers as $key => $answer) {
+                if(isset($get_array[$key])) {
+                    if(strtolower($get_array[$key]) == strtolower($answer)) {
+                        $score++;
+                        $status = 1;
+                    } else {
+                        $status = 0;
+                    }
+                } else {
+                    $status = 0;
+                }
+                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
+            } 
+
+        } catch(Exception $e) {
+            return response()->json(['message' => 'Something went wrong!!']);
+        }
+
+        return response()->json(['message' => 'success', 'results' => $results]);
+    }
+
+     // Insects as food
+     public function exam_thirteen($mode) {
+        
+        if($mode == 'T') {
+            $timer = 1;
+        } else {
+            $timer = 0;
+        }
+
+        return view('ielts.insects-as-food', compact('timer'));
+    }
+    public function store_exam_thirteen(Request $request) {
+
+        $answers = array(
+            'q1' => 'TRUE',
+            'q2' => 'FALSE',
+            'q3' => 'NOT GIVEN',
+            'q4' => 'NOT GIVEN',
+            'q5' => 'FALSE',
+            'q6' => 'A',
+            'q7' => 'C',
+            'q8' => 'B',
+            'q9' => 'C',
+            'q10' => 'A',
+            'q11' => 'C',
+            'q12' => 'B',
+            'q13' => 'A'
+        );
+
+        $score = 0;
+        $count = count($answers);
+        
+        // 1 = Right | 0 = Wrong
+        $status = 0;
+
+        $get_string = $request->input('data');
+        parse_str($get_string, $get_array);
+
+        $results = [];
+        
+        try {
+            foreach($answers as $key => $answer) {
+                if(isset($get_array[$key])) {
+                    if(strtolower($get_array[$key]) == strtolower($answer)) {
+                        $score++;
+                        $status = 1;
+                    } else {
+                        $status = 0;
+                    }
+                } else {
+                    $status = 0;
+                }
+                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
+            } 
+
+        } catch(Exception $e) {
+            return response()->json(['message' => 'Something went wrong!!']);
+        }
+
+        return response()->json(['message' => 'success', 'results' => $results]);
+    }
+
+     // The wealth of happiness
+     public function exam_fourteen($mode) {
+        
+        if($mode == 'T') {
+            $timer = 1;
+        } else {
+            $timer = 0;
+        }
+
+        return view('ielts.the-wealth-of-happiness', compact('timer'));
+    }
+    public function store_exam_fourteen(Request $request) {
+
+        $answers = array(
+            'q1' => 'NOT GIVEN',
+            'q2' => 'FALSE',
+            'q3' => 'TRUE',
+            'q4' => 'TRUE',
+            'q5' => 'TRUE',
+            'q6' => 'D',
+            'q7' => 'C',
+            'q8' => 'B',
+            'q9' => 'A',
+            'q10' => 'C',
+            'q11' => 'induced',
+            'q12' => 'philosophers',
+            'q13' => 'parcels'
         );
 
         $score = 0;

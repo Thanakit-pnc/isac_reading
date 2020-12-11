@@ -59,5 +59,20 @@ Route::middleware(['auth:student'])->group(function () {
 
     Route::get('a-meal-to-die-for/{mode}', 'IELTSController@exam_nine');
     Route::post('store_exam_nine', 'IELTSController@store_exam_nine')->name('store.exam-nine');
+
+    Route::get('cloning/{mode}', 'IELTSController@exam_ten');
+    Route::post('store_exam_ten', 'IELTSController@store_exam_ten')->name('store.exam-ten');
+
+    Route::get('coping-with-change/{mode}', 'IELTSController@exam_eleven');
+    Route::post('store_exam_eleven', 'IELTSController@store_exam_eleven')->name('store.exam-eleven');
+
+    Route::get('hot-air-balloon/{mode}', 'IELTSController@exam_twelve');
+    Route::post('store_exam_twelve', 'IELTSController@store_exam_twelve')->name('store.exam-twelve');
+
+    Route::get('insects-as-food/{mode}', 'IELTSController@exam_thirteen');
+    Route::post('store_exam_thirteen', 'IELTSController@store_exam_thirteen')->name('store.exam-thirteen');
+
+    Route::get('the-wealth-of-happiness/{mode}', 'IELTSController@exam_fourteen');
+    Route::post('store_exam_fourteen', 'IELTSController@store_exam_fourteen')->name('store.exam-fourteen');
 });
 

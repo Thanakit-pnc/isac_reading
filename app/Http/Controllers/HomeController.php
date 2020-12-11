@@ -7,13 +7,24 @@ use Auth;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
 use App\Student;
 use DB;
+use File;
+use Route;
 use Exception;
 
 class HomeController extends Controller
 {
 
     public function index() {
-        return view('home');
+
+        $views = File::allFiles(resource_path('views\ielts'));
+
+        $collection = collect($views);
+        
+        $buttons = $collection->filter(function ($value, $key) {
+            return $value->getFilename() != 'index.blade.php';
+        })->chunk(5);
+
+        return view('home', ['buttons' => $buttons->all()]);
     }
 
     public function pdf($level, $fileName) {
