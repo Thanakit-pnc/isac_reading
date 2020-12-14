@@ -422,7 +422,7 @@
     @endif
 @endisset
 <script>
-    // $('input, select').attr('required', 'required');
+    $('input, select').attr('required', 'required');
 
     $('#form-exam').on('submit', function(e) {
         let timeSt = "{{ $timer }}";
