@@ -797,8 +797,8 @@ class IELTSController extends Controller
         return response()->json(['message' => 'success', 'results' => $results]);
     }
 
-     // Insects as food
-     public function exam_thirteen($mode) {
+    // Insects as food
+    public function exam_thirteen($mode) {
         
         if($mode == 'T') {
             $timer = 1;
@@ -860,8 +860,8 @@ class IELTSController extends Controller
         return response()->json(['message' => 'success', 'results' => $results]);
     }
 
-     // The wealth of happiness
-     public function exam_fourteen($mode) {
+    // The wealth of happiness
+    public function exam_fourteen($mode) {
         
         if($mode == 'T') {
             $timer = 1;
@@ -887,6 +887,324 @@ class IELTSController extends Controller
             'q11' => 'induced',
             'q12' => 'philosophers',
             'q13' => 'parcels'
+        );
+
+        $score = 0;
+        $count = count($answers);
+        
+        // 1 = Right | 0 = Wrong
+        $status = 0;
+
+        $get_string = $request->input('data');
+        parse_str($get_string, $get_array);
+
+        $results = [];
+        
+        try {
+            foreach($answers as $key => $answer) {
+                if(isset($get_array[$key])) {
+                    if(strtolower($get_array[$key]) == strtolower($answer)) {
+                        $score++;
+                        $status = 1;
+                    } else {
+                        $status = 0;
+                    }
+                } else {
+                    $status = 0;
+                }
+                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
+            } 
+
+        } catch(Exception $e) {
+            return response()->json(['message' => 'Something went wrong!!']);
+        }
+
+        return response()->json(['message' => 'success', 'results' => $results]);
+    }
+
+    // Let's go fly a kite
+    public function exam_fifteen($mode) {
+        
+        if($mode == 'T') {
+            $timer = 1;
+        } else {
+            $timer = 0;
+        }
+
+        return view('ielts.lets-go-fly-a-kite', compact('timer'));
+    }
+    public function store_exam_fifteen(Request $request) {
+
+        $answers = array(
+            'q1' => 'FALSE',
+            'q2' => 'NOT GIVEN',
+            'q3' => 'TRUE',
+            'q4' => 'FALSE',
+            'q5' => 'FALSE',
+            'q6' => 'B',
+            'q7' => 'C',
+            'q8' => 'D',
+            'q9' => 'A',
+            'q10' => 'C',
+            'q11' => 'transmission',
+            'q12' => 'ballons',
+            'q13' => 'voltage'
+        );
+
+        $score = 0;
+        $count = count($answers);
+        
+        // 1 = Right | 0 = Wrong
+        $status = 0;
+
+        $get_string = $request->input('data');
+        parse_str($get_string, $get_array);
+
+        $results = [];
+        
+        try {
+            foreach($answers as $key => $answer) {
+                if(isset($get_array[$key])) {
+                    if(strtolower($get_array[$key]) == strtolower($answer)) {
+                        $score++;
+                        $status = 1;
+                    } else {
+                        $status = 0;
+                    }
+                } else {
+                    $status = 0;
+                }
+                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
+            } 
+
+        } catch(Exception $e) {
+            return response()->json(['message' => 'Something went wrong!!']);
+        }
+
+        return response()->json(['message' => 'success', 'results' => $results]);
+    }
+
+    // Lijiang
+    public function exam_sixteen($mode) {
+        
+        if($mode == 'T') {
+            $timer = 1;
+        } else {
+            $timer = 0;
+        }
+
+        return view('ielts.lijiang', compact('timer'));
+    }
+    public function store_exam_sixteen(Request $request) {
+
+        $answers = array(
+            'q1' => 'B',
+            'q2' => 'C',
+            'q3' => 'A',
+            'q4' => 'B',
+            'q5' => 'A',
+            'q6' => 'E',
+            'q7' => 'G',
+            'q8' => 'F',
+            'q9' => 'C',
+            'q10' => 'A',
+            'q11' => 'E',
+            'q12' => 'G',
+            'q13' => 'A',
+            'q14' => 'C',
+        );
+
+        $score = 0;
+        $count = count($answers);
+        
+        // 1 = Right | 0 = Wrong
+        $status = 0;
+
+        $get_string = $request->input('data');
+        parse_str($get_string, $get_array);
+
+        $results = [];
+        
+        try {
+            foreach($answers as $key => $answer) {
+                if(isset($get_array[$key])) {
+                    if($get_array[$key] == $answer) {
+                        $score++;
+                        $status = 1;
+                    } else {
+                        $status = 0;
+                    }
+                } else {
+                    $status = 0;
+                }
+                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
+            } 
+
+        } catch(Exception $e) {
+            return response()->json(['message' => 'Something went wrong!!']);
+        }
+
+        return response()->json(['message' => 'success', 'results' => $results]);
+    }
+
+    // Mulu’s Mighty Mountain
+    public function exam_seventeen($mode) {
+        
+        if($mode == 'T') {
+            $timer = 1;
+        } else {
+            $timer = 0;
+        }
+
+        return view('ielts.mulus-mighty-mountain', compact('timer'));
+    }
+    public function store_exam_seventeen(Request $request) {
+
+        $answers = array(
+            'q1' => 'A',
+            'q2' => 'B',
+            'q3' => 'C',
+            'q4' => 'A',
+            'q5' => 'D',
+            'q6' => 'I',
+            'q7' => 'B',
+            'q8' => 'I',
+            'q9' => 'A',
+            'q10' => 'G',
+            'q11' => 'G',
+            'q12' => 'A',
+            'q13' => 'D',
+            'q14' => 'F',
+        );
+
+        $score = 0;
+        $count = count($answers);
+        
+        // 1 = Right | 0 = Wrong
+        $status = 0;
+
+        $get_string = $request->input('data');
+        parse_str($get_string, $get_array);
+
+        $results = [];
+        
+        try {
+            foreach($answers as $key => $answer) {
+                if(isset($get_array[$key])) {
+                    if($get_array[$key] == $answer) {
+                        $score++;
+                        $status = 1;
+                    } else {
+                        $status = 0;
+                    }
+                } else {
+                    $status = 0;
+                }
+                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
+            } 
+
+        } catch(Exception $e) {
+            return response()->json(['message' => 'Something went wrong!!']);
+        }
+
+        return response()->json(['message' => 'success', 'results' => $results]);
+    }
+
+    // North Sulawesi
+    public function exam_eighteen($mode) {
+        
+        if($mode == 'T') {
+            $timer = 1;
+        } else {
+            $timer = 0;
+        }
+
+        return view('ielts.north-sulawesi', compact('timer'));
+    }
+    public function store_exam_eighteen(Request $request) {
+
+        $answers = array(
+            'q1' => 'D',
+            'q2' => 'A',
+            'q3' => 'C',
+            'q4' => 'C',
+            'q5' => 'F',
+            'q6' => 'B',
+            'q7' => 'H',
+            'q8' => 'G',
+            'q9' => 'C',
+            'q10' => 'D',
+            'q11' => 'E',
+            'q12' => 'H',
+            'q13' => 'D',
+            'q14' => 'B',
+        );
+
+        $score = 0;
+        $count = count($answers);
+        
+        // 1 = Right | 0 = Wrong
+        $status = 0;
+
+        $get_string = $request->input('data');
+        parse_str($get_string, $get_array);
+
+        $results = [];
+        
+        try {
+            foreach($answers as $key => $answer) {
+                if(isset($get_array[$key])) {
+                    if($get_array[$key] == $answer) {
+                        $score++;
+                        $status = 1;
+                    } else {
+                        $status = 0;
+                    }
+                } else {
+                    $status = 0;
+                }
+                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
+            } 
+
+        } catch(Exception $e) {
+            return response()->json(['message' => 'Something went wrong!!']);
+        }
+
+        return response()->json(['message' => 'success', 'results' => $results]);
+    }
+    
+    // What’s on the menu for British diners?
+    public function exam_nineteen($mode) {
+        
+        if($mode == 'T') {
+            $timer = 1;
+        } else {
+            $timer = 0;
+        }
+
+        return view('ielts.whats-on-the-menu-for-british-diners', compact('timer'));
+    }
+    public function store_exam_nineteen(Request $request) {
+
+        $answers = array(
+            'q1' => 'TRUE',
+            'q2' => 'TRUE',
+            'q3' => 'FALSE',
+            'q4' => 'TRUE',
+            'q5' => 'NOT GIVEN',
+            'q6' => 'D',
+            'q7' => 'C',
+            'q8' => 'A',
+            'q9' => 'A',
+            'q10' => 'B',
+            'q11' => 'entomophagy',
+            'q12' => 'ground',
+            'q13' => '20%'
         );
 
         $score = 0;

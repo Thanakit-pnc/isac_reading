@@ -15,7 +15,7 @@
 <form id="form-exam" method="POST">
     <div class="row mt-1">
         <div class="col-md-6">
-            <h3>Hot Air Ballooning</h3>    
+            <h3>Mulu’s Mighty Mountain</h3>    
         </div>
         <div class="col-md-6">
             @isset($timer)
@@ -29,55 +29,61 @@
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">A</span>
                     <p>
-                    Rising before the alarm clock (set at an unfriendly 5:00 a.m.) was activated, we washed and dressed, listening in silent anticipation to the awakening forest.  Our torch beams probed the darkness as we walked from our tent to the balloon launch site.  Extreme caution was required on the short journey because the path we were following was often used by hippos returning from a night’s foraging and the odd Cape Buffalo out for a nocturnal stroll.
+                    Sarawak’s remote Mulu National Park is a well-established feature on the Borneo tourist map.  Its limestone caves are matchless, and the razor-edged pinnacles of Mount Api are a unique geological curiosity.  With good air links to the coast, the park now hosts more than a hundred visitors a week.
                     </p>
                 </div>
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">B</span>
                     <p>
-                    Finally we emerged into a huge, mist shrouded clearing and there before us lay three gigantic balloons.  Dawn brushed the treetops with the first light of day and our sense of expectation and excitement climbed with the morning sun. Suddenly the clatter of petrol engines obliterated the early hush.  The engines were necessary to power the huge fans used to force large amounts of air into the balloons’ envelopes.  This was just the first stage in the balloon-inflation process and while the fans were running, the ground crews and pilots meticulously checked all the lines and rigging — a reassuring sight for us prospective passengers!
+                    But very few of them pit their stamina against the park’s mountain.  Only about a dozen or so per year make the trek and it isn’t hard to see why.  For the tourist on a two week visit to tropical northern Borneo, there is little chance to acclimatize adequately to cope with such a physical challenge.  Also, at least three days are needed to accomplish the climb, and so only dedicated climbers even consider it.  National Park staff and guides are quick to point out the difficulties of the trek and tactfully deter the more speculative enquirers.
                     </p>
                 </div>
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">C</span>
                     <p>
-                    After about 10 minutes of inflation, the balloons began to take shape.  The welcome silence following the fans being shut down was suddenly filled by a whoosh of gas.  Then came a glorious burst of flame as the gas was ignited. Adrenaline shot through my body.  I had chosen to position myself inside one of the balloons’ envelopes in order to capture on film the dramatic colours of the burner’s incoming flame. After a few quick shots, I indicated to the pilot my desire not to be barbecued and made a quick exit.  By this time, the balloon was approaching its classical vertical position.
+                    It isn’t that Mulu is a big mountain.  At a shade under 8,000 feet, its mere statistics would not put off the average weekend hill walker.  But there is more to this mountain than a set of figures.  In the words of a popular guide book: “Mulu National Park may now have an airport and a first-class hotel, but its mountain proves that Borneo is still Borneo.”  Here, there are still frontiers beyond the established tourist trails.
                     </p>
                 </div>
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">D</span>
                     <p>
-                    At last! The moment we’d all been waiting for!  The pilot instructed the excited passengers — congregated here from every corner of the globe — to climb into the balloon’s wicker basket. Part of a group of ten passengers, we listened intently to our pilot’s briefing.  There was no seat belt and no-smoking sign to observe, and the operation of mobile phones and CD players would not affect the technology of this particular aircraft.  Landing was to be the big thing.  We were instructed, quite sternly, that as the balloon descended, we must crouch down facing backwards — and HANG ON.  We were obliged to actually practise this procedure so that those who understood little or no English would be left in no doubt as to what was required.  At that stage, none of us could foresee just how exciting our landing would be.
+                    For a long time, the mountain was considered unclimbable.  The first recorded attempt was made by Spencer St John in 1857, when he was the British counsel in Brunei.  Refusing to be deterred by a difficult approach journey and marauding bands of headhunters, this redoubtable character reached an altitude of little more than 1,000 feet before lack of water drove him back. 
                     </p>
                 </div>
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">E</span>
                     <p>
-                    A few final bursts of colourful flame brought the balloon — and us — to the point of lift-off.  Our hearts thumped with excitement at the spectacular sight of the other balloons rising — and then it was our turn.  The wicker basket scuffed along the ground until suddenly we were drawn upward towards the waiting heavens. There are no words to describe the feeling of those first few moments of flight.  As we rose into the warmth of the sun, we were gently gathered up by the wind and carried towards the romance of the vast African Plains.
+                    In the following year, Spencer St John tried again, accompanied this time by Hugh Low, another distinguished British diplomat-explorer.  After much perseverance and hardship, the pair finally gave up at around 3,000 feet.  Both men were seasoned climbers, but the unmapped country was so rugged and the jungle so dense that they failed even to identify the right mountain. 
                     </p>
                 </div>
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">F</span>
                     <p>
-                    Only an intermittent burst of flame interrupted the profound silence as the pilot adjusted the temperature of the air inside the balloon.   The basics of balloon flight are easy — hotter air to climb, cooler air to descend.  It takes great skill and practice, however, to anticipate what is required.  Wind alone was our propulsion, and we were fortunate to be wafting along with a gentle current that allowed us time to absorb all the magnificence around us.  The Serengeti and Masai Masai ecological systems are fascinating enough to behold from a car, but from a balloon’s vantage point, they are truly awe-inspiring.
+                    We now know that in both failed attempts, the men had actually been climbing neighbouring Mt Api by mistake.  The two peaks are linked by a ridgeline which is still considered impassable.  In 1893, another Englishman named Ernest Hose embarked on his quest to conquer Mt Mulu.  By that time, the area had been properly surveyed and Hose at least got the right mountain.  But his 25-day expedition found their route to the summit blocked by sheer cliffs.
                     </p>
                 </div>
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">G</span>
                     <p>
-                    Little could escape the eagle-eyed onslaught of ten pairs of eyes.  We had already seen elephants, buffaloes, giraffes and various antelopes, and even a pack of Branded Mongooses was pointed out when we were not so high up. Lions!  Yes!  There they were below, moving in our direction towards the forest.  We glided over the meandering Mara River, home to the greatest concentration of hippopotamus in the world.  Viewed from above, the thick riverine forest was a stunning sight, and we watched colourful canopy-dwelling birds rarely seen from ground level dart from cover to cover.
+                    Mt Mulu had to wait until 1932 to be climbed successfully by a young Briton called Edward Shackleton.  His victory was made possible by the assistance of Tama Nilong, a local hunter who was engaged as the expedition’s guide.  When tracking a rhinoceros a few years before, Nilong had reached the mountain’s southwest ridge at a height of about 5,000 feet.  Nilong almost died in the process.  Shackleton’s attempt followed Nilong’s route to the ridge — from where a way was found clear to the summit.  The summit was finally reached after 13 days of incessant rain, cold nights and inadequate rations.  
                     </p>
                 </div>
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">H</span>
                     <p>
-                    Eventually all things come to an end — alas, even good things.  Up ahead loomed the plains where we would make our touchdown. Skilfully manoeuvring the balloon only a metre above the ground, its huge shadow cast westwards, the pilot instructed us to prepare for the landing.  The wind had picked up since early morning and we were now travelling at a fast jogging pace.  The pilot rounded off the order to prepare for landing as instructed with a warning that we may well bounce a few times before finally coming to rest. 
+                    Shackleton assumed the explorer’s privilege of naming the summit.  He called it Oxford Peak after his university, but the name never stuck.  However, the route he and Nilong followed is essentially the same one used today — none other has ever been found.  But there are certain differences.  Whereas Shackleton’s party had to navigate and cut a path, today’s climber follows a known route.  And whereas Shackleton’s party had to scramble freeform up near vertical pitches, fixed ropes have been installed for safety and convenience.  There are even some shelter huts left behind by the Royal Geographical Society’s expedition of the late 1970’s.  But the 48 km trail to the top and back is still a grueling 3-day march.  The lower slopes of the mountain are cloaked in some of Borneo’s most impressive rainforest.  Giant, buttress-rooted dipterocarp trees form a 200 feet high canopy alive with raucous rhinoceros hornbills and squawking gibbons.  The leaf litter on the jungle floor embraces a busy leech population, but these creatures are actually more of an irritation than a danger.  
                     </p>
                 </div>
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">I</span>
                     <p>
-                    We did as we had been told.  We crouched down, we hung on ... and we bounced several times.  Lying on my back, taking photos upside down, I watched the pilot determinedly pull the ripcord to release the hot air.  The balloon envelope collapsed.  A mix of grass, dust and the odd stone flew into the basket as we were dragged across the ground.  Eventually we slowed down and came to a halt.  The tension of those last few moments was suddenly released in a torrent of cheering and laughter.
+                    Further up, after crossing two mountain rivers, one enters a very different, rather strange world — the mountain mossy forest. It is an oppressive, but peculiarly fascinating place, where an eerie atmosphere prevails.  Here, the trunks and limbs of twisted, stunted trees are coated with wet moss and the forest floor is spongy underfoot — where it is not knee deep in stagnant pools of dark water.  The atmosphere is like that of a dank cave.  The vegetation is so dense that the sunlight is blocked out, and the soggy trail seems like a long, wet tunnel.  Although unforgettable, the experience of climbing through this tangled obstacle course could never be described as lovely.  And finally, on a clear day, the summit offers views to the South China Sea and a large slice of North Borneo.
+                    </p>
+                </div>
+                <div class="d-flex">
+                    <span class="font-weight-bold mr-2">J</span>
+                    <p>
+                    This is a hard trek, but the rewards and sense of satisfaction are commensurate with the degree of difficulty.  It is a taste of Borneo in the raw; the Borneo which the first European explorers encountered more than a century ago, a place where one is still unlikely to encounter a human footprint on the trail in front of you.
                     </p>
                 </div>
             </div>
@@ -89,107 +95,107 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">1.</span> What possible dangers were there on the way to the balloon site?</label>
+                            <label for="col-form-label" class="d-flex"><span class="mr-1">1.</span> ‘Mulu National Park is a well-established feature on the Borneo tourist map’ means</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q1-1" name="q1" class="custom-control-input" value="A">
-                                    <label class="custom-control-label" for="q1-1">a. The fact they needed torches to find their way.</label>
+                                    <label class="custom-control-label" for="q1-1">a. Many tourists interested in Borneo are familiar with the Mulu National Park.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q1-2" name="q1" class="custom-control-input" value="B">
-                                    <label class="custom-control-label" for="q1-2">b. It was very early in the morning and they hadn’t had enough sleep.</label>
+                                    <label class="custom-control-label" for="q1-2">b. It is easy for tourists to find Mulu National Park on maps of Borneo. </label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q1-3" name="q1" class="custom-control-input" value="C">
-                                    <label class="custom-control-label" for="q1-3">c. The fact they were staying in a tent.</label>
+                                    <label class="custom-control-label" for="q1-3">c. There are good air routes linking the park with other tourist destinations.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q1-4" name="q1" class="custom-control-input" value="D">
-                                    <label class="custom-control-label" for="q1-4">d. The risk of meeting wild animals.</label>
+                                    <label class="custom-control-label" for="q1-4">d. It has unique limestone caves and some difficult mountains.</label>
                                 </div>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">2.</span> Why do you think the passengers needed to be reassured?</label>
+                            <label for="col-form-label" class="d-flex"><span class="mr-1">2.</span> Why do few visitors climb the mountain?</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q2-1" name="q2" class="custom-control-input" value="A">
-                                    <label class="custom-control-label" for="q2-1">a. They were worried that something might go wrong with the equipment on the balloon.</label>
+                                    <label class="custom-control-label" for="q2-1">a. Most visitors don’t stay long enough to climb the mountain.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q2-2" name="q2" class="custom-control-input" value="B">
-                                    <label class="custom-control-label" for="q2-2">b. They were worried about the balloon-inflation process.</label>
+                                    <label class="custom-control-label" for="q2-2">b. The difficult climb requires at least three days.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q2-3" name="q2" class="custom-control-input" value="C">
-                                    <label class="custom-control-label" for="q2-3">c. They were worried about the weather.</label>
+                                    <label class="custom-control-label" for="q2-3">c. The mountain is nearly 8000 feet high.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q2-4" name="q2" class="custom-control-input" value="D">
-                                    <label class="custom-control-label" for="q2-4">d. They were worried about the gas.</label>
+                                    <label class="custom-control-label" for="q2-4">d. It takes two weeks to reach the summit.</label>
                                 </div>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">3.</span> Why did they light the gas?</label>
+                            <label for="col-form-label" class="d-flex"><span class="mr-1">3.</span> What do we know about Spencer St John’s first attempt to reach the summit?.</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q3-1" name="q3" class="custom-control-input" value="A">
-                                    <label class="custom-control-label" for="q3-1">a. It was for a barbecue breakfast after the flight.</label>
+                                    <label class="custom-control-label" for="q3-1">a. He was accompanied by a friend.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q3-2" name="q3" class="custom-control-input" value="B">
-                                    <label class="custom-control-label" for="q3-2">b. Gas was used to heat the air and so raise the balloon.</label>
+                                    <label class="custom-control-label" for="q3-2">b. He was attacked by gangs of headhunters.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q3-3" name="q3" class="custom-control-input" value="C">
-                                    <label class="custom-control-label" for="q3-3">c. The morning was cold and so it kept them warm.</label>
+                                    <label class="custom-control-label" for="q3-3">c. He ran out of water to drink.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q3-4" name="q3" class="custom-control-input" value="D">
-                                    <label class="custom-control-label" for="q3-4">d. So that they had more light in order to take photographs.</label>
+                                    <label class="custom-control-label" for="q3-4">d. He almost reached the summit, falling short by just 1000 feet.</label>
                                 </div>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">4.</span> Explain what the writer means by ‘after a few quick shots’?</label>
+                            <label for="col-form-label" class="d-flex"><span class="mr-1">4.</span> What mistake did Spencer St John and Hugh Low make?</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q4-1" name="q4" class="custom-control-input" value="A">
-                                    <label class="custom-control-label" for="q4-1">a. After shooting some of the wildlife.</label>
+                                    <label class="custom-control-label" for="q4-1">a. They were climbing the wrong mountain.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q4-2" name="q4" class="custom-control-input" value="B">
-                                    <label class="custom-control-label" for="q4-2">b. After a few bursts of flame from the gas.</label>
+                                    <label class="custom-control-label" for="q4-2">b. They came to an impassable ridgeline.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q4-3" name="q4" class="custom-control-input" value="C">
-                                    <label class="custom-control-label" for="q4-3">c. After throwing something onto the gas fire.</label>
+                                    <label class="custom-control-label" for="q4-3">c. They stopped climbing at around 3000 feet.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q4-4" name="q4" class="custom-control-input" value="D">
-                                    <label class="custom-control-label" for="q4-4">d. After quickly taking some photographs.</label>
+                                    <label class="custom-control-label" for="q4-4">d. They hadn’t taken a map with them to show them the way.</label>
                                 </div>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">5.</span> What do we know about the passengers?</label>
+                            <label for="col-form-label" class="d-flex"><span class="mr-1">5.</span> How did Shackleton manage to reach the summit while others had failed?</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q5-1" name="q5" class="custom-control-input" value="A">
-                                    <label class="custom-control-label" for="q5-1">a. They all spoke English well.</label>
+                                    <label class="custom-control-label" for="q5-1">a. He was tracking a rhinoceros along the ridge.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q5-2" name="q5" class="custom-control-input" value="B">
-                                    <label class="custom-control-label" for="q5-2">b. There was a mix of nationalities.</label>
+                                    <label class="custom-control-label" for="q5-2">b. He survived 13 days of heavy rain.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q5-3" name="q5" class="custom-control-input" value="C">
-                                    <label class="custom-control-label" for="q5-3">c. Some of them listened to the pilot’s briefing.</label>
+                                    <label class="custom-control-label" for="q5-3">c. He had plenty of food and water with him.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q5-4" name="q5" class="custom-control-input" value="D">
-                                    <label class="custom-control-label" for="q5-4">d. They all knew each other.</label>
+                                    <label class="custom-control-label" for="q5-4">d. He used a local guide.</label>
                                 </div>
                             </div>
                         </div>
@@ -200,7 +206,8 @@
 
                 <h4 class="mt-0 mb-1">Questions 6 - 10</h4>
                 <p class="mb-0">Identify the paragraphs which contain the following information.</p>
-                <p>For Questions 6 to 10 select the letters A – I.</p>
+                <p class="mb-0">For Questions 6 to 10 select the letters A – J.</p>
+                <p>N.B. You may use any letter more than once.</p>
 
                 <div class="row">
                     <div class="col-md-12">
@@ -215,7 +222,7 @@
                             <tbody>
                                 <tr>
                                     <td class="align-middle">6</td>
-                                    <td class="align-middle">To contrast a flight in an aeroplane.</td>
+                                    <td class="align-middle">A description of a dark and damp part of the forest.</td>
                                     <td class="position-relative">
                                         <select class="form-control" name="q6">
                                             <option value="">Select Answer</option>
@@ -228,12 +235,13 @@
                                             <option value="G">G</option>
                                             <option value="H">H</option>
                                             <option value="I">I</option>
+                                            <option value="J">J</option>
                                         </select>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td class="align-middle">7</td>
-                                    <td class="align-middle">Examples of animals they saw.</td>
+                                    <td class="align-middle">Attempts by the park staff to discourage tourists from climbing Mulu.</td>
                                     <td class="position-relative"> 
                                         <select class="form-control w-100" name="q7">
                                             <option value="">Select Answer</option>
@@ -246,12 +254,13 @@
                                             <option value="G">G</option>
                                             <option value="H">H</option>
                                             <option value="I">I</option>
+                                            <option value="J">J</option>
                                         </select>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td class="align-middle">8</td>
-                                    <td class="align-middle">The emotions of the passengers as they left the ground.</td>
+                                    <td class="align-middle">The view from the summit.</td>
                                     <td class="position-relative">
                                         <select class="form-control w-100" name="q8">
                                             <option value="">Select Answer</option>
@@ -264,12 +273,13 @@
                                             <option value="G">G</option>
                                             <option value="H">H</option>
                                             <option value="I">I</option>
+                                            <option value="J">J</option>
                                         </select>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td class="align-middle">9</td>
-                                    <td class="align-middle">A bumpy landing.</td>
+                                    <td class="align-middle">Some geographical features of the park</td>
                                     <td class="position-relative">
                                         <select class="form-control w-100" name="q9">
                                             <option value="">Select Answer</option>
@@ -282,12 +292,13 @@
                                             <option value="G">G</option>
                                             <option value="H">H</option>
                                             <option value="I">I</option>
+                                            <option value="J">J</option>
                                         </select>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td class="align-middle">10</td>
-                                    <td class="align-middle">People making preparations for the flight.</td>
+                                    <td class="align-middle">An example of a wild animal found in the park.</td>
                                     <td class="position-relative">
                                         <select class="form-control w-100" name="q10">
                                             <option value="">Select Answer</option>
@@ -300,6 +311,7 @@
                                             <option value="G">G</option>
                                             <option value="H">H</option>
                                             <option value="I">I</option>
+                                            <option value="J">J</option>
                                         </select>
                                     </td>
                                 </tr>
@@ -311,26 +323,26 @@
                 <div class="bg-dark my-2 border border-dark"></div>
 
                 <h4 class="mt-0 mb-1">Questions 11 - 14</h4>
-                <p class="mb-0">Complete the following passage using words from the box.</p>
+                <p class="mb-0">Complete the following passage using words from the box. </p>
                 <p>For Questions 11 – 14, select the letters a – h.</p>
                 
                 <div class="row">
                     <div class="col-md-12">
                         <div class="border">
                             <div class="row p-1">
-                                <div class="col-md-4">a. stopped</div>
-                                <div class="col-md-4">b. worried</div>
-                                <div class="col-md-4">c. landing</div>
-                                <div class="col-md-4">d. disappeared</div>
-                                <div class="col-md-4">e. ready</div>
-                                <div class="col-md-4">f. warned</div>
-                                <div class="col-md-4">g. increased</div>
-                                <div class="col-md-4">h. grounding</div>
+                                <div class="col-md-4">a. mapped</div>
+                                <div class="col-md-4">b. stunning</div>
+                                <div class="col-md-4">c. food</div>
+                                <div class="col-md-4">d. accommodation</div>
+                                <div class="col-md-4">e. wooden</div>
+                                <div class="col-md-4">f. tough</div>
+                                <div class="col-md-4">g. guide</div>
+                                <div class="col-md-4">h. exciting</div>
                             </div>
                         </div>
 
                         <div class="mt-3 line-height">
-                        Eventually all things come to an end.  In front of us we saw the flat area where we would make our <span class="font-weight-bold">11</span> 
+                        Shackleton assumed the explorer’s privilege of naming the summit.  He called it Oxford Peak after his university, but the name never stuck.  However, the route he and his  <span class="font-weight-bold">11</span> 
                         <div class="d-inline-block position-relative">
                             <select name="q11" class="form-control">
                                 <option value="">Select Answer</option>
@@ -344,7 +356,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        . With the balloon hovering just one metre above the ground, the pilot instructed us to get  <span class="font-weight-bold">12</span>
+                        followed is basically the same as the one tourists follow today.  But there are certain differences.  Whereas Shackleton’s party had to navigate and cut a path, today’s climber follows a  <span class="font-weight-bold">12</span>
                         <div class="d-inline-block position-relative">
                             <select name="q12" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -358,7 +370,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        for the landing.  The wind had <span class="font-weight-bold">13</span>
+                        trail.  And whereas Shackleton’s party had to climb near vertical pitches, fixed ropes have been installed for safety and convenience.  There is even some basic  <span class="font-weight-bold">13</span>
                         <div class="d-inline-block position-relative">
                             <select name="q13" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -372,7 +384,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        since early morning and we were now travelling at a fast running pace.  Just before we landed, the pilot <span class="font-weight-bold">14</span>
+                        left behind by the Royal Geographical Society’s expedition of the late 1970’s.  But the 48 km trail to the top and back is still a <span class="font-weight-bold">14</span>
                         <div class="d-inline-block position-relative">
                             <select name="q14" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -386,7 +398,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        the passengers that we may well bounce a few times before finally coming to rest. He wasn’t wrong!
+                        3-day march.  
                         </div>
                     </div>
                 </div>
@@ -431,7 +443,7 @@
         let data = $("#form-exam").serialize();
         $.ajax({
             type: "post",
-            url: "{{ route('store.exam-twelve') }}",
+            url: "{{ route('store.exam-seventeen') }}",
             data: {_token: "{{ csrf_token() }}", data},
             dataType: "json",
             success: function(data) {

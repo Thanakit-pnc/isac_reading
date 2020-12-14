@@ -74,5 +74,20 @@ Route::middleware(['auth:student'])->group(function () {
 
     Route::get('the-wealth-of-happiness/{mode}', 'IELTSController@exam_fourteen');
     Route::post('store_exam_fourteen', 'IELTSController@store_exam_fourteen')->name('store.exam-fourteen');
+
+    Route::get('lets-go-fly-a-kite/{mode}', 'IELTSController@exam_fifteen');
+    Route::post('store_exam_fifteen', 'IELTSController@store_exam_fifteen')->name('store.exam-fifteen');
+
+    Route::get('lijiang/{mode}', 'IELTSController@exam_sixteen');
+    Route::post('store_exam_sixteen', 'IELTSController@store_exam_sixteen')->name('store.exam-sixteen');
+
+    Route::get('mulus-mighty-mountain/{mode}', 'IELTSController@exam_seventeen');
+    Route::post('store_exam_seventeen', 'IELTSController@store_exam_seventeen')->name('store.exam-seventeen');
+
+    Route::get('north-sulawesi/{mode}', 'IELTSController@exam_eighteen');
+    Route::post('store_exam_eighteen', 'IELTSController@store_exam_eighteen')->name('store.exam-eighteen');
+
+    Route::get('whats-on-the-menu-for-british-diners/{mode}', 'IELTSController@exam_nineteen');
+    Route::post('store_exam_nineteen', 'IELTSController@store_exam_nineteen')->name('store.exam-nineteen');
 });
 

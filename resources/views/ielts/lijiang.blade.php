@@ -15,7 +15,7 @@
 <form id="form-exam" method="POST">
     <div class="row mt-1">
         <div class="col-md-6">
-            <h3>Diamonds</h3>    
+            <h3>Lijiang</h3>    
         </div>
         <div class="col-md-6">
             @isset($timer)
@@ -29,37 +29,49 @@
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">A</span>
                     <p>
-                    The attraction of diamonds is difficult to beat. Their brilliance has inspired the rich and famous as well as being legendary for centuries and they remain an enduring symbol of love and tradition. The history of diamonds abounds with tales of superstition and mystery. One well-known example is the Koh-i-Noor, or Mountain of Light. First recorded in 1804 this 186-carat gem is said to bring “the power to rule the world” to whoever owned it. Passed down through the centuries from its first owner, an Indian prince, to its present owner, the British Royal family, the stone has been reduced to 109 carats. It is believed to bring luck to women wearers, but ill-fortune to men.
+                    It is 10:00 am by the time the winter sunlight finally spills between the old buildings onto Lijiang’s narrow, flag-stoned alleys, the warming rays enticing people from their homes.  Not far away, snow-covered Jade Mountain stands guard over the old village, its image mirrored in the motionless waters of a small lake.  The pristine air is crisp and still beneath a cloudless azure sky.
                     </p>
                 </div>
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">B</span>
                     <p>
-                    The diamond remains the world’s most popular gemstone, accessible to an international public extending beyond the privileged royal collections of centuries past. Today the gem accounts for an average 85 percent of total US gemstone sales by dollar volume. Most jewelers admit their clients are partial to diamonds. In substance as well as interest, diamonds endure. Diamond is the hardest of all gems and a stone of the simplest composition, being of pure crystallised carbon. Very few rough diamonds from the ground are beautiful; most must be cut and polished. Costly and difficult to mine, diamonds tend to be found in remote and unforgiving environments. The world’s largest mines are in Australia and South Africa. Others are in Zaire, Botswana and Russia.
+                    Lijiang is less remote than it once was since the opening of the new airport, but for the moment, it retains its uniqueness.  Lijiang is really two towns.  One is comprised of the drab-grey, low-rise concrete buildings seen throughout mainland China.  The other is a centuries old fairytale village of meandering cobblestoned streets lined with old wood, stone and mud-brick houses, shops and restaurants.  Neatly squared stone building materials, bicycle-wheeled wooden carts and fuel for wood fires are stacked against old walls, cluttering the narrow alleyways. In this part of Lijiang, time seems to have stopped.  Shops don’t have glass facades; wooden shutters are pulled aside when it’s time to open for business.  And although electricity is available, much of this district’s machinery is still hand operated.   The streets are too narrow for cars and heavy loads are carried or carted from place to place.
                     </p>
                 </div>
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">C</span>
                     <p>
-                    To produce one carat of diamond, miners need to remove and process approximately 250 tons of ore. Even then, only 20 percent of all diamonds mined throughout the world are of gem quality. Due to colour or flaws, the remaining stones are suitable only for industrial purposes. Diamonds are measured in carats, corresponding to one fifth of a gram. The word “carat” is derived from the carob, used by Middle East traders because its seeds were so uniform in weight, assuring an accurate gauge on ancient scales. The carat, corresponding to the weight of one carob seed, was used as a standard measure until the 1900s when the metric system was introduced. Today, the carat is the measure of weight for most gems, except pearls; one carat is divided into 100 points.
+                    Centuries ago, the river passing through Lijiang’s old town was ingeniously channelled into smaller streams that flow through the greater part of the village.  Water flows under arched stone bridges past the very doorsteps of the older buildings, even passes beneath some dwellings where it powers water wheels that grind grain into flour. Strolling along the cobblestoned streets beside flowing canals instantly reminds one of far-off Venice.  It’s more than the canals and the ancient buildings that evoke the similarity.  There’s also the sense that, in both places, the past remains tangibly alive.
                     </p>
                 </div>
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">D</span>
                     <p>
-                    Nearly half of a diamond’s weight is lost in the cutting process. A rough cut one-carat diamond rarely produces more than one-half carat polished stone.  When a master cutter examines a rough stone, he decides which form it should be given. The most popular shape for engagement rings remains the round brilliant cut.  When the original diamond does not best lend itself for this shape, it will be considered for “fancy cutting” as a marquise, oval, pear, emerald or heart shaped cut. The round brilliant, oval, marquise and pear classics are consistently cut and polished into 58 facets, or faces, each. It is the shape of these facets, which differ from one cutting to another, that determine the intensity of the diamond’s brilliance and “flame”.  No other gem can match its sparkle. 
+                    A new day dawns on the old town in much the same way it has done for generations; women emerge into the streets carrying enormous cane baskets on their back, while the men sit chatting on doorsteps as they soak up the early warmth of the sun. In their small, windowless shops, other women fry flat breads on black iron griddles and boil water for tea in large kettles heated on clay pots filled with red hot coals.  Even in the old market square, the stalls are run by women.  Butchers, vegetable grocers, merchants selling noodles and brown clumps of dried honey and the sellers of pure white bean-curd, handicrafts, jewellery and animals are all women.  From tailors to tea shop proprietors and from labourers to construction workers to artisans, most of Lijiang’s productive activity has historically been the province of women. 
                     </p>
                 </div>
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">E</span>
                     <p>
-                    A method long used in faceting diamonds is cleaving. After studying the internal structure of a diamond carefully, the master cutter calculates where the diamond will divide cleanly and evenly if properly struck. He marks this point on the diamond, makes a thin groove and inserts his cleaving knife, then taps the knife with his hammer. If his calculations are correct, the diamond will divide accordingly; if not, the gem will fragment into thousands of pieces. Today, laser technology has allowed creation of different shapes, such as flowers, stars or animals, offering an alternative to the classic shapes. Each has its own particular appeal and one shape is not inherently better than the other.
+                    The dominance of women in the life of this community is because Lijiang is the centre of the ancient Naxi people, a matriarchal society in which females fill the significant roles.  With a recorded history dating back almost 2,000 years, the Naxi are thought to have originated in Burma and Tibet.  Today, their population numbers only around 250,000.
                     </p>
                 </div>
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">F</span>
                     <p>
-                    The overall value of a diamond is determined by its 4c’s — clarity, colour, carat weight and cut; whereas its quality is determined by its ‘fire’. The Gemological Institute of America (GIA) has established a strict scale of standards to define the qualities most desirable in a diamond. More than any other gemstone, diamonds represent romance, wealth and elegance. No other adornment could claim such a durable distinction.
+                    Even words are made more important by taking the female form in the Naxi language, and certain professions are reserved exclusively for women.  For example, butchers have always been women who are the only people permitted to kill animals.  The cane baskets carried by Naxi women are often filled to overflowing.  To cushion these heavy loads, the women wear a thick black and white cape called yongao.  The black half of the yongao is embroidered with seven small circles signifying the stars of heaven — beneath which the back of a Naxi woman is bent day and night as she shoulders life’s responsibilities.
+                    </p>
+                </div>
+                <div class="d-flex">
+                    <span class="font-weight-bold mr-2">G</span>
+                    <p>
+                    There is one activity, however, which is the domain of Lijiang’s men — music.  But because younger men are now reluctant to learn how to play traditional Naxi instruments and music, the average age of the members of the village orchestra is about 70 years.  Yet the musicians practice faithfully every day and continue to be in great demand for weddings, ceremonies and other social functions.
+                    </p>
+                </div>
+                <div class="d-flex">
+                    <span class="font-weight-bold mr-2">H</span>
+                    <p>
+                    The traditional Naxi social structure is undergoing a slow, but inevitable change.  More businesses are being run by men — who have now adopted modern styles of fashion.  And although many men continue to wear national dress, the ubiquitous Mao cap is increasingly replacing traditional head-dress and running shoes are often preferred to traditional footwear. Meanwhile, behind a high stone wall with heavy wooden doors, a group of venerable gentlemen practise traditional instruments.  Their haunting melodies drift along Lijiang’s labyrinthine alleys, conjuring the ghosts of one of the last remaining enclaves of a unique page in human history.
                     </p>
                 </div>
             </div>
@@ -71,107 +83,107 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">1.</span> One superstition associated with the Koh-I-Noor diamond is</label>
+                            <label for="col-form-label" class="d-flex"><span class="mr-1">1.</span> Why is Lijiang less remote now than it used to be?</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q1-1" name="q1" class="custom-control-input" value="A">
-                                    <label class="custom-control-label" for="q1-1">a. it brings good luck to women wearers and bad luck to men.</label>
+                                    <label class="custom-control-label" for="q1-1">a. Because it consists of two towns.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q1-2" name="q1" class="custom-control-input" value="B">
-                                    <label class="custom-control-label" for="q1-2">b. its name translates into ‘Mountain of Light’.</label>
+                                    <label class="custom-control-label" for="q1-2">b. Because people can now access Lijiang by air.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q1-3" name="q1" class="custom-control-input" value="C">
-                                    <label class="custom-control-label" for="q1-3">c. it will only be owned by kings and queens.</label>
+                                    <label class="custom-control-label" for="q1-3">c. Because it has managed to retain its uniqueness.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q1-4" name="q1" class="custom-control-input" value="D">
-                                    <label class="custom-control-label" for="q1-4">d. it will be passed down through the centuries.</label>
+                                    <label class="custom-control-label" for="q1-4">d. Because the winter sunlight spills over the place.</label>
                                 </div>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">2.</span> Why do you think diamonds are so expensive to buy?</label>
+                            <label for="col-form-label" class="d-flex"><span class="mr-1">2.</span> What do we know about the two distinct towns of Lijiang?</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q2-1" name="q2" class="custom-control-input" value="A">
-                                    <label class="custom-control-label" for="q2-1">a. because diamond is the hardest of all gem-stones.</label>
+                                    <label class="custom-control-label" for="q2-1">a. They are both quite modern. </label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q2-2" name="q2" class="custom-control-input" value="B">
-                                    <label class="custom-control-label" for="q2-2">b. because they have a very simple composition.</label>
+                                    <label class="custom-control-label" for="q2-2">b. They resemble each other quite closely.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q2-3" name="q2" class="custom-control-input" value="C">
-                                    <label class="custom-control-label" for="q2-3">c. because extracting them from the ground costs a lot of money.</label>
+                                    <label class="custom-control-label" for="q2-3">c. They are built in contrasting styles.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q2-4" name="q2" class="custom-control-input" value="D">
-                                    <label class="custom-control-label" for="q2-4">d. because the world’s largest mines are found in Australia and South Africa.</label>
+                                    <label class="custom-control-label" for="q2-4">d. They look like most other towns in China.</label>
                                 </div>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">3.</span> Not all diamonds are suited for use as jewellery because</label>
+                            <label for="col-form-label" class="d-flex"><span class="mr-1">3.</span> The author describes one part of Lijiang as a ‘fairytale village’ because...</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q3-1" name="q3" class="custom-control-input" value="A">
-                                    <label class="custom-control-label" for="q3-1">a. some are not processed properly.</label>
+                                    <label class="custom-control-label" for="q3-1">a. buildings and streets resemble life many centuries ago.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q3-2" name="q3" class="custom-control-input" value="B">
-                                    <label class="custom-control-label" for="q3-2">b. some are for industrial processes.</label>
+                                    <label class="custom-control-label" for="q3-2">b. time has stopped in that part of town.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q3-3" name="q3" class="custom-control-input" value="C">
-                                    <label class="custom-control-label" for="q3-3">c. some have defects.</label>
+                                    <label class="custom-control-label" for="q3-3">c. people who live there like to tell stories about the past to their children.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q3-4" name="q3" class="custom-control-input" value="D">
-                                    <label class="custom-control-label" for="q3-4">d. some are not coloured.</label>
+                                    <label class="custom-control-label" for="q3-4">d. there is no electricity available in the town.</label>
                                 </div>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">4.</span> Why was the carob seed chosen as a unit of weight for the diamond?</label>
+                            <label for="col-form-label" class="d-flex"><span class="mr-1">4.</span> Which of the following are you NOT likely to see the women doing?</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q4-1" name="q4" class="custom-control-input" value="A">
-                                    <label class="custom-control-label" for="q4-1">a. Because the seeds were plentiful in places where diamonds were mined.</label>
+                                    <label class="custom-control-label" for="q4-1">a. Transporting large baskets on their backs.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q4-2" name="q4" class="custom-control-input" value="B">
-                                    <label class="custom-control-label" for="q4-2">b. Because the seeds all weighed the same and were used to check old scales.</label>
+                                    <label class="custom-control-label" for="q4-2">b. Relaxing in the sun as they talk to their friends.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q4-3" name="q4" class="custom-control-input" value="C">
-                                    <label class="custom-control-label" for="q4-3">c. Because the seeds all looked the same and could be used on ancient scales.</label>
+                                    <label class="custom-control-label" for="q4-3">c. Baking bread and making tea.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q4-4" name="q4" class="custom-control-input" value="D">
-                                    <label class="custom-control-label" for="q4-4">d. Because the seeds all weighed the same which guaranteed accurate measurement.</label>
+                                    <label class="custom-control-label" for="q4-4">d. Selling vegetables in the market.</label>
                                 </div>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">5.</span> What may cause the gem to fragment into thousands of pieces?</label>
+                            <label for="col-form-label" class="d-flex"><span class="mr-1">5.</span> What do we know about the Naxi people?</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q5-1" name="q5" class="custom-control-input" value="A">
-                                    <label class="custom-control-label" for="q5-1">a. When the cutter miscalculates the place to strike the diamond.</label>
+                                    <label class="custom-control-label" for="q5-1">a. Women occupy the dominant roles in society.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q5-2" name="q5" class="custom-control-input" value="B">
-                                    <label class="custom-control-label" for="q5-2">b. When the groove made is too thin.</label>
+                                    <label class="custom-control-label" for="q5-2">b. Their recorded history goes back more than two thousand years.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q5-3" name="q5" class="custom-control-input" value="C">
-                                    <label class="custom-control-label" for="q5-3">c. When the cutter strikes the diamond with his hammer.</label>
+                                    <label class="custom-control-label" for="q5-3">c. They originally came from Burma and Tibet.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q5-4" name="q5" class="custom-control-input" value="D">
-                                    <label class="custom-control-label" for="q5-4">d. When the cutter forgets to mark the point on the diamond.</label>
+                                    <label class="custom-control-label" for="q5-4">d. Their population has increased over the years.</label>
                                 </div>
                             </div>
                         </div>
@@ -182,7 +194,7 @@
 
                 <h4 class="mt-0 mb-1">Questions 6 - 10</h4>
                 <p class="mb-0">Identify the paragraphs which contain the following information.</p>
-                <p>For Questions 6 to 10 select the letters A – F.</p>
+                <p>For Questions 6 to 10 select the letters A – H.</p>
 
                 <div class="row">
                     <div class="col-md-12">
@@ -197,7 +209,7 @@
                             <tbody>
                                 <tr>
                                     <td class="align-middle">6</td>
-                                    <td class="align-middle">The benefits of using modern technology in shaping diamonds.</td>
+                                    <td class="align-middle">The origins of the inhabitants of Lijiang.</td>
                                     <td class="position-relative">
                                         <select class="form-control" name="q6">
                                             <option value="">Select Answer</option>
@@ -206,12 +218,15 @@
                                             <option value="C">C</option>
                                             <option value="D">D</option>
                                             <option value="E">E</option>
+                                            <option value="F">F</option>
+                                            <option value="G">G</option>
+                                            <option value="H">H</option>
                                         </select>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td class="align-middle">7</td>
-                                    <td class="align-middle">A large amount of raw material is needed to produce a diamond</td>
+                                    <td class="align-middle">A reason why the town’s orchestra is composed of older people.</td>
                                     <td class="position-relative"> 
                                         <select class="form-control w-100" name="q7">
                                             <option value="">Select Answer</option>
@@ -221,12 +236,14 @@
                                             <option value="D">D</option>
                                             <option value="E">E</option>
                                             <option value="F">F</option>
+                                            <option value="G">G</option>
+                                            <option value="H">H</option>
                                         </select>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td class="align-middle">8</td>
-                                    <td class="align-middle">An example of a famous diamond.</td>
+                                    <td class="align-middle">Restrictions on the slaughter of animals.</td>
                                     <td class="position-relative">
                                         <select class="form-control w-100" name="q8">
                                             <option value="">Select Answer</option>
@@ -236,12 +253,14 @@
                                             <option value="D">D</option>
                                             <option value="E">E</option>
                                             <option value="F">F</option>
+                                            <option value="G">G</option>
+                                            <option value="H">H</option>
                                         </select>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td class="align-middle">9</td>
-                                    <td class="align-middle">A formal attempt to set standards in diamond quality.</td>
+                                    <td class="align-middle">A description of how water was used to power machines.</td>
                                     <td class="position-relative">
                                         <select class="form-control w-100" name="q9">
                                             <option value="">Select Answer</option>
@@ -251,12 +270,14 @@
                                             <option value="D">D</option>
                                             <option value="E">E</option>
                                             <option value="F">F</option>
+                                            <option value="G">G</option>
+                                            <option value="H">H</option>
                                         </select>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td class="align-middle">10</td>
-                                    <td class="align-middle">Examples of places where diamonds can be found underground.</td>
+                                    <td class="align-middle">Geographical features of Lijiang.</td>
                                     <td class="position-relative">
                                         <select class="form-control w-100" name="q10">
                                             <option value="">Select Answer</option>
@@ -266,6 +287,8 @@
                                             <option value="D">D</option>
                                             <option value="E">E</option>
                                             <option value="F">F</option>
+                                            <option value="G">G</option>
+                                            <option value="H">H</option>
                                         </select>
                                     </td>
                                 </tr>
@@ -277,33 +300,82 @@
                 <div class="bg-dark my-2 border border-dark"></div>
 
                 <h4 class="mt-0 mb-1">Questions 11 - 14</h4>
-                <p class="mb-0">Complete the following sentences.</p>
-                <p>Write NO MORE THAN THREE WORDS for each answer.</p>
+                <p class="mb-0">Complete the following passage using words from the box. </p>
+                <p>For Questions 11 – 14, select the letters a – h.</p>
                 
                 <div class="row">
                     <div class="col-md-12">
+                        <div class="border">
+                            <div class="row p-1">
+                                <div class="col-md-4">a. capacity</div>
+                                <div class="col-md-4">b. employment</div>
+                                <div class="col-md-4">c. garment</div>
+                                <div class="col-md-4">d. cloth</div>
+                                <div class="col-md-4">e. gender</div>
+                                <div class="col-md-4">f. heavy</div>
+                                <div class="col-md-4">g. occupations</div>
+                                <div class="col-md-4">h. top</div>
+                            </div>
+                        </div>
 
-                        <div class="line-height">
-                        A ‘carat’ was exactly the same weight as  
-                        <span class="font-weight-bold">11</span> 
-                        <div class="d-inline-block">
-                            <input type="text" class="form-control form-control-sm w-100" name="q11">
+                        <div class="mt-3 line-height">
+                        Even in the Naxi language there is a strong bias towards the female <span class="font-weight-bold">11</span> 
+                        <div class="d-inline-block position-relative">
+                            <select name="q11" class="form-control">
+                                <option value="">Select Answer</option>
+                                <option value="A">a</option>
+                                <option value="B">b</option>
+                                <option value="C">c</option>
+                                <option value="D">d</option>
+                                <option value="E">e</option>
+                                <option value="F">f</option>
+                                <option value="G">g</option>
+                                <option value="H">h</option>
+                            </select>
                         </div>
-                        and was used as a standard measure until the introduction of
-                        <span class="font-weight-bold">12</span>
-                        <div class="d-inline-block">
-                            <input type="text" name="q12" class="form-control form-control-sm w-auto">
+                        , as words assume greater importance by taking the female form. In work, too, certain  <span class="font-weight-bold">12</span>
+                        <div class="d-inline-block position-relative">
+                            <select name="q12" class="form-control w-auto">
+                                <option value="">Select Answer</option>
+                                <option value="A">a</option>
+                                <option value="B">b</option>
+                                <option value="C">c</option>
+                                <option value="D">d</option>
+                                <option value="E">e</option>
+                                <option value="F">f</option>
+                                <option value="G">g</option>
+                                <option value="H">h</option>
+                            </select>
                         </div>
-                        in the twentieth century. Currently, the carat is the unit of measurement of weight for all gems with the exception of  
-                        <span class="font-weight-bold">13</span>
-                        <div class="d-inline-block">
-                            <input type="text" name="q13" class="form-control form-control-sm w-auto">
+                        are the exclusive domain of women. For example, butchers have always been women since females alone are allowed to kill animals.  The cane baskets used by Naxi women to transport goods around are often filled to <span class="font-weight-bold">13</span>
+                        <div class="d-inline-block position-relative">
+                            <select name="q13" class="form-control w-auto">
+                                <option value="">Select Answer</option>
+                                <option value="A">a</option>
+                                <option value="B">b</option>
+                                <option value="C">c</option>
+                                <option value="D">d</option>
+                                <option value="E">e</option>
+                                <option value="F">f</option>
+                                <option value="G">g</option>
+                                <option value="H">h</option>
+                            </select>
                         </div>
-                        .  Each carat is sub-divided into smaller measurements known as 
-                        <span class="font-weight-bold">14</span>
-                        <div class="d-inline-block">
-                            <input type="text" name="q14" class="form-control form-control-sm w-auto">
+                        .  To cushion these heavy loads, the women wear a thick black and white cape called yongao.  The black half of this <span class="font-weight-bold">14</span>
+                        <div class="d-inline-block position-relative">
+                            <select name="q14" class="form-control w-auto">
+                                <option value="">Select Answer</option>
+                                <option value="A">a</option>
+                                <option value="B">b</option>
+                                <option value="C">c</option>
+                                <option value="D">d</option>
+                                <option value="E">e</option>
+                                <option value="F">f</option>
+                                <option value="G">g</option>
+                                <option value="H">h</option>
+                            </select>
                         </div>
+                        is embroidered with seven small circles representing the stars of heaven, beneath which the back of a Naxi woman is bent day and night as she carries life’s responsibilities.
                         </div>
                     </div>
                 </div>
@@ -348,7 +420,7 @@
         let data = $("#form-exam").serialize();
         $.ajax({
             type: "post",
-            url: "{{ route('store.exam-six') }}",
+            url: "{{ route('store.exam-sixteen') }}",
             data: {_token: "{{ csrf_token() }}", data},
             dataType: "json",
             success: function(data) {
@@ -374,24 +446,17 @@
         for(let quiz in data.exam) {
 
             let select = $(`select[name="${quiz}"]`);
-            let inputText = $(`input[type="text"][name="${quiz}"]`);
-            let radio = $(`input[type="radio"][name="${quiz}"]`);
+            let radio = $(`input[name="${quiz}"]`);
 
             if(data.exam[quiz].status == 1) {
 
                 $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 30px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
                 select.addClass('border border-success');
 
-                $(`<span class="ml-2 text-success font-weight-bold">${data.exam[quiz].rightAnswer}</span>`).insertAfter(inputText.parent());
-                inputText.addClass('border border-success');
-
             } else {
 
                 $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 30px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
                 select.addClass('border border-danger');
-
-                $(`<span class="ml-2 text-success font-weight-bold">${data.exam[quiz].rightAnswer}</span>`).insertAfter(inputText.parent());
-                inputText.addClass('border border-danger');
 
             }
 
