@@ -31,76 +31,65 @@
 
 <div class="row">
     <div class="col-md-12">
-        <div class="row justify-content-center">
+        <div class="row">
             <div class="col-lg-4">
-                <a href="javascript: void(0);" class="read-btn">
+                <a href="javascript: void(0);" data-toggle="modal" data-target="#ielts-level-1" data-title="A busy day">
                     <div class="widget-simple text-center card-box border-top border-primary border-2">
                         <i class="fas fa-book-open fa-4x text-primary mb-2"></i>
-                        <h4 class="text-primary counter my-0">Example 1</h4>
+                        <h4 class="text-primary counter my-0">A busy day</h4>
                     </div>
                 </a>
-
-                <div class="card-box pt-1 border border-muted reading-content">
-                    <h4><ins>Example 1</ins></h4>
-                    <h4>Read :</h4>
-                    <a href="#" role="button" class="btn btn-dark btn-block"><i class="far fa-file-pdf"></i> PDF</a>
-                    <h4>Downloads :</h4>
-                    <div class="d-flex align-items-center">
-                        <button class="btn btn-primary mr-2"><i class="fas fa-file-download"></i></button> 
-                        <div class="font-weight-bold">Workbook</div>
-                    </div>
-                    <div class="d-flex align-items-center mt-2">
-                        <button class="btn btn-primary mr-2"><i class="fas fa-file-download"></i></button> 
-                        <div class="font-weight-bold">Answer Key</div>
-                    </div>
-                </div>
             </div>
 
             <div class="col-lg-4">
-                <a href="javascript: void(0);" class="read-btn">
+                <a href="javascript: void(0);" data-toggle="modal" data-target="#ielts-level-1" data-title="A day in the life">
                     <div class="widget-simple text-center card-box border-top border-primary border-2">
                         <i class="fas fa-book-open fa-4x text-primary mb-2"></i>
-                        <h4 class="text-primary counter my-0">Example 2</h4>
+                        <h4 class="text-primary counter my-0">A day in the life</h4>
                     </div>
                 </a>
-
-                <div class="card-box pt-1 border border-muted reading-content">
-                    <h4><ins>Example 2</ins></h4>
-                    <h4>Read :</h4>
-                    <a href="#" role="button" class="btn btn-dark btn-block"><i class="far fa-file-pdf"></i> PDF</a>
-                    <h4>Downloads :</h4>
-                    <div class="d-flex align-items-center">
-                        <button class="btn btn-primary mr-2"><i class="fas fa-file-download"></i></button> 
-                        <div class="font-weight-bold">Workbook</div>
-                    </div>
-                    <div class="d-flex align-items-center mt-2">
-                        <button class="btn btn-primary mr-2"><i class="fas fa-file-download"></i></button> 
-                        <div class="font-weight-bold">Answer Key</div>
-                    </div>
-                </div>
             </div>
 
             <div class="col-lg-4">
-                <a href="javascript: void(0);" class="read-btn">
+                <a href="javascript: void(0);" data-toggle="modal" data-target="#ielts-level-1" data-title="Ali's day">
                     <div class="widget-simple text-center card-box border-top border-primary border-2">
                         <i class="fas fa-book-open fa-4x text-primary mb-2"></i>
-                        <h4 class="text-primary counter my-0">Example 3</h4>
+                        <h4 class="text-primary counter my-0">Ali's day</h4>
                     </div>
                 </a>
+            </div>
 
-                <div class="card-box pt-1 border border-muted reading-content">
-                    <h4><ins>Example 3</ins></h4>
-                    <h4>Read :</h4>
-                    <a href="#" role="button" class="btn btn-dark btn-block"><i class="far fa-file-pdf"></i> PDF</a>
-                    <h4>Downloads :</h4>
-                    <div class="d-flex align-items-center">
-                        <button class="btn btn-primary mr-2"><i class="fas fa-file-download"></i></button> 
-                        <div class="font-weight-bold">Workbook</div>
+            <div class="col-lg-4">
+                <a href="javascript: void(0);" data-toggle="modal" data-target="#ielts-level-1" data-title="Ananda and his monkey">
+                    <div class="widget-simple text-center card-box border-top border-primary border-2">
+                        <i class="fas fa-book-open fa-4x text-primary mb-2"></i>
+                        <h4 class="text-primary counter my-0">Ananda and his monkey</h4>
                     </div>
-                    <div class="d-flex align-items-center mt-2">
-                        <button class="btn btn-primary mr-2"><i class="fas fa-file-download"></i></button> 
-                        <div class="font-weight-bold">Answer Key</div>
-                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div id="ielts-level-1" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="display: none;">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header bg-primary py-2">
+                <h4 class="modal-title text-white" id="full-width-modalLabel"></h4>
+                <button type="button" class="close text-white" data-dismiss="modal" aria-hidden="true">×</button>
+            </div>
+            <div class="modal-body p-2">
+                <h4 class="mt-0">Read :</h4>
+                <a id="read" href="" target="_blank" role="button" class="btn btn-dark btn-block"><i class="far fa-file-pdf"></i> Story</a>
+                <h4>Downloads :</h4>
+                <div class="d-flex align-items-center">
+                    <a id="workbook" href="" class="btn btn-primary mr-2" download><i class="fas fa-file-download"></i></a> 
+                    <div class="font-weight-bold">Workbook (PDF downloadable)</div>
+                </div>
+                <div class="d-flex align-items-center mt-2">
+                    <a id="answerkey" href="" class="btn btn-primary mr-2" download><i class="fas fa-file-download"></i></a> 
+                    <div class="font-weight-bold">Answer Key (PDF downloadable)</div>
                 </div>
             </div>
         </div>
@@ -110,13 +99,32 @@
 
 @section('javascript')
 <script>
-    $('.reading-content').hide();
+    $('#ielts-level-1').on('show.bs.modal', function(e) {
+        let btn = $(e.relatedTarget);
+        
+        let title = btn.data('title');
+        let slugUrl;
 
-    $('.read-btn').each((index, item) => {
-        $(item).click(function() {
-            $(item).children().toggleClass('bg-primary');
-            $(item).next().slideToggle();
-        });
-    });
+        if(title.includes("'")) {
+            slugUrl = title.toLowerCase().replaceAll(' ', '-').replaceAll("'", "");
+        } else {
+            slugUrl = title.toLowerCase().replaceAll(' ', '-');
+        }
+
+        let readPdf = slugUrl + '-story.pdf#toolbar=0';
+        let workbook = slugUrl + '-workbook.pdf';
+        let answerkey = slugUrl + '-answerkey.pdf';
+
+        let modal = $(this);
+
+        modal.find('h4.modal-title').text(title)
+        modal.find('#read').attr('href', `{{ asset('public/assets/pdf/L1/${readPdf}') }}`)
+        modal.find('#workbook').attr('href', `{{ asset('public/assets/pdf/L1/${workbook}') }}`)
+        modal.find('#answerkey').attr('href', `{{ asset('public/assets/pdf/L1/${answerkey}') }}`)
+    })
+
+    $('#ielts-level-3').on('hide.bs.modal', function (e) {
+        $('a[data-target="#ielts-level-1"]').children().removeClass('bg-primary')
+    })
 </script>
 @stop
