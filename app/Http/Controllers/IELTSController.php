@@ -10,7 +10,7 @@ class IELTSController extends Controller
 {
     public function index($group = '') {
 
-        $views = File::allFiles(resource_path('views/ielts'));
+        $views = collect(File::allFiles(resource_path('views/ielts')))->sort();
 
         $exams = array();
 
