@@ -6,7 +6,7 @@
         <div class="d-flex flex-column flex-sm-row justify-content-sm-between align-items-center">
             @php 
                 $route = Route::current()->parameters;
-                $topicTitle = ['group-1' => 'Topic 1 - 5', 'group-2' => 'Topic 6 - 10', 'group-3' => 'Topic 11 - 15', 'group-4' => 'Topic 16 - 20'];
+                $topicTitle = ['group-1' => 'Topic 1 - 10', 'group-2' => 'Topic 11 - 20', 'group-3' => 'Topic 21 - 30'];
             @endphp
             <h4>{{ $topicTitle[$route['group']] }}</h4>
             <ol class="breadcrumb m-0 pt-0 p-sm-2">

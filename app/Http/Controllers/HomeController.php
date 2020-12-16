@@ -22,7 +22,7 @@ class HomeController extends Controller
         
         $buttons = $collection->filter(function ($value, $key) {
             return $value->getFilename() != 'index.blade.php';
-        })->chunk(5);
+        })->chunk(10);
 
         return view('home', ['buttons' => $buttons->all()]);
     }

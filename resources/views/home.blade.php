@@ -48,7 +48,7 @@
                 @php 
                     $group = 1;
                     $start = 1;
-                    $end = 5;
+                    $end = 10;
                 @endphp
 
                 @foreach($buttons as $key => $button)
@@ -58,7 +58,7 @@
                         $end = $end;
                     } else {
                         $start = $end + 1;
-                        $end = $end + 5;
+                        $end = $end + 10;
                     }
                 @endphp
                 <a href="{{ url('ielts/group-'.$group++) }}" class="btn btn-success mb-2">{{ 'Topic '.$start.' - '.$end }}</a>

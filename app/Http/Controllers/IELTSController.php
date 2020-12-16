@@ -10,11 +10,14 @@ class IELTSController extends Controller
 {
     public function index($group = '') {
 
-        $views = collect(File::allFiles(resource_path('views/ielts')))->sort();
-
+        $views = collect(File::allFiles(resource_path('views/ielts')))
+                ->sortBy(function ($file) {
+                    return $file->getCTime();
+                });
+                
         $exams = array();
 
-        $length = 5;
+        $length = 10;
         $group_num = 1;
 
         foreach($views as $key => $view) {
