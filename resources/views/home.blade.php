@@ -66,6 +66,22 @@
             </div>
         </div>
     </div>
+    <div class="col-md-4 mb-3 mb-lg-0">
+        <a href="javascript: void(0);" class="hover-scale" id="general-english">
+            <div class="widget-simple text-center card-box border-top border-purple border-2">
+                <i class="fas fa-book text-purple fa-4x mb-2"></i>
+                <h3 class="text-purple counter my-0">IELTS Tests</h3>
+            </div>
+        </a>
+
+        <div id="ielts-tests" style="display: none;">
+            <div class="d-flex flex-column">
+                <a href="{{ url('GE/L1') }}" class="btn btn-primary mb-2">Level 1</a>
+                <a href="{{ url('GE/L2') }}" class="btn btn-primary mb-2">Level 2</a>
+                <a href="{{ url('GE/L3') }}" class="btn btn-primary">Level 3</a>
+            </div>
+        </div>
+    </div>
 </div>
 @endsection
 
