@@ -20,7 +20,13 @@ class IELTSController extends Controller
         foreach($views as $key => $view) {
             $fileName = substr($view->getFilename(), 0, -10);
             $fileNameFormat = str_replace('-', ' ', $fileName);
-        
+
+            if($fileNameFormat == 'mulus mighty mountain') {
+                $fileNameFormat = "mulu's mighty mountain";
+            } else if($fileNameFormat == 'lets go fly a kite') {
+                $fileNameFormat = "Let's Go Fly A Kite";
+            }
+            
             if($fileNameFormat !== 'index') {
 
                 $exams['group-'.$group_num][$key] = ucwords($fileNameFormat);

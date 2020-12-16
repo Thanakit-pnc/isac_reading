@@ -52,7 +52,13 @@
         let title = button.data('title') ;
         let modal = $(this)
 
-        let url_slug = title.replaceAll(' ', '-').toLowerCase()
+        let url_slug;
+
+        if(title.includes("'")) {
+            url_slug = title.replaceAll(' ', '-').replace("'", "").toLowerCase()
+        } else {
+            url_slug = title.replaceAll(' ', '-').toLowerCase()
+        }
 
         let practice = url_slug + '/P';
         let test = url_slug + '/T';
