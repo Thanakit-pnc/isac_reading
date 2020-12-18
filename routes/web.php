@@ -23,6 +23,10 @@ Route::get('/login', 'LoginCustomController@showLoginForm');
 Route::post('/login', 'LoginCustomController@login')->name('login');
 Route::post('logout', 'LoginCustomController@logout')->name('logout');
 
+Route::get('coming-soon', function() {
+    return view('coming-soon');
+});
+
 Route::middleware(['auth:student'])->group(function () {
     Route::get('/home', 'HomeController@index');
     Route::prefix('GE')->group(function () {
