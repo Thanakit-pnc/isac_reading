@@ -1249,4 +1249,334 @@ class IELTSController extends Controller
 
         return response()->json(['message' => 'success', 'results' => $results]);
     }
+
+    // Shadow Plays
+    public function exam_twenty($mode) {
+        
+        if($mode == 'T') {
+            $timer = 1;
+        } else {
+            $timer = 0;
+        }
+
+        return view('ielts.shadow-plays', compact('timer'));
+    }
+    public function store_exam_twenty(Request $request) {
+
+        $answers = array(
+            'q1' => 'NOT GIVEN',
+            'q2' => 'TRUE',
+            'q3' => 'TRUE',
+            'q4' => 'FALSE',
+            'q5' => 'NOT GIVEN',
+            'q6' => 'C',
+            'q7' => 'D',
+            'q8' => 'B',
+            'q9' => 'A',
+            'q10' => 'C',
+            'q11' => 'India',
+            'q12' => 'Bali',
+            'q13' => ['clown servants', 'clown-servants']
+        );
+        
+        $q13 = collect($answers['q13'])->map(function($v) {
+            return strtoupper($v);
+        });
+
+        $score = 0;
+        $count = count($answers);
+        
+        // 1 = Right | 0 = Wrong
+        $status = 0;
+
+        $get_string = $request->input('data');
+        parse_str($get_string, $get_array);
+        $results = [];
+        
+        try {
+            foreach($answers as $key => $answer) {
+                if(isset($get_array[$key])) {
+                    if(is_array($answer)) {
+                        if(in_array($get_array['q13'], $q13->toArray())) {
+                            $score++;
+                            $status = 1;
+                        } else {
+                            $status = 0;
+                        }
+                    } else {
+                        if(strtolower($get_array[$key]) == strtolower($answer)) {
+                            $score++;
+                            $status = 1;
+                        } else {
+                            $status = 0;
+                        }
+                    }
+                } else {
+                    $status = 0;
+                }
+                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
+            } 
+
+        } catch(Exception $e) {
+            return response()->json(['message' => 'Something went wrong!!']);
+        }
+
+        return response()->json(['message' => 'success', 'results' => $results]);
+    }
+
+    // Shield Maker
+    public function exam_twentyone($mode) {
+        
+        if($mode == 'T') {
+            $timer = 1;
+        } else {
+            $timer = 0;
+        }
+
+        return view('ielts.shield-maker', compact('timer'));
+    }
+    public function store_exam_twentyone(Request $request) {
+
+        $answers = array(
+            'q1' => 'C',
+            'q2' => 'C',
+            'q3' => 'D',
+            'q4' => 'B',
+            'q5' => 'A',
+            'q6' => 'I',
+            'q7' => 'K',
+            'q8' => 'E',
+            'q9' => 'H',
+            'q10' => 'C',
+            'q11' => 'F',
+            'q12' => 'A',
+            'q13' => 'B',
+            'q14' => 'H',
+        );
+
+        $score = 0;
+        $count = count($answers);
+        
+        // 1 = Right | 0 = Wrong
+        $status = 0;
+
+        $get_string = $request->input('data');
+        parse_str($get_string, $get_array);
+
+        $results = [];
+        
+        try {
+            foreach($answers as $key => $answer) {
+                if(isset($get_array[$key])) {
+                    if($get_array[$key] == $answer) {
+                        $score++;
+                        $status = 1;
+                    } else {
+                        $status = 0;
+                    }
+                } else {
+                    $status = 0;
+                }
+                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
+            } 
+
+        } catch(Exception $e) {
+            return response()->json(['message' => 'Something went wrong!!']);
+        }
+
+        return response()->json(['message' => 'success', 'results' => $results]);
+    }
+
+    // Sniffer dogs
+    public function exam_twentytwo($mode) {
+        
+        if($mode == 'T') {
+            $timer = 1;
+        } else {
+            $timer = 0;
+        }
+
+        return view('ielts.sniffer-dogs', compact('timer'));
+    }
+    public function store_exam_twentytwo(Request $request) {
+
+        $answers = array(
+            'q1' => 'C',
+            'q2' => 'C',
+            'q3' => 'B',
+            'q4' => 'A',
+            'q5' => 'C',
+            'q6' => 'FALSE',
+            'q7' => 'NOT GIVEN',
+            'q8' => 'TRUE',
+            'q9' => 'TRUE',
+            'q10' => 'TRUE',
+            'q11' => 'B',
+            'q12' => 'C',
+            'q13' => 'C',
+        );
+
+        $score = 0;
+        $count = count($answers);
+        
+        // 1 = Right | 0 = Wrong
+        $status = 0;
+
+        $get_string = $request->input('data');
+        parse_str($get_string, $get_array);
+
+        $results = [];
+        
+        try {
+            foreach($answers as $key => $answer) {
+                if(isset($get_array[$key])) {
+                    if(strtolower($get_array[$key]) == strtolower($answer)) {
+                        $score++;
+                        $status = 1;
+                    } else {
+                        $status = 0;
+                    }
+                } else {
+                    $status = 0;
+                }
+                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
+            } 
+
+        } catch(Exception $e) {
+            return response()->json(['message' => 'Something went wrong!!']);
+        }
+
+        return response()->json(['message' => 'success', 'results' => $results]);
+    }
+
+    // Stone fortness of brunei
+    public function exam_twentythree($mode) {
+        
+        if($mode == 'T') {
+            $timer = 1;
+        } else {
+            $timer = 0;
+        }
+
+        return view('ielts.stone-fortness-of-brunei', compact('timer'));
+    }
+    public function store_exam_twentythree(Request $request) {
+
+        $answers = array(
+            'q1' => 'C',
+            'q2' => 'D',
+            'q3' => 'D',
+            'q4' => 'B',
+            'q5' => 'D',
+            'q6' => 'H',
+            'q7' => 'F',
+            'q8' => 'B',
+            'q9' => 'E',
+            'q10' => 'C',
+            'q11' => 'D',
+            'q12' => 'B',
+            'q13' => 'F',
+            'q14' => 'G',
+        );
+
+        $score = 0;
+        $count = count($answers);
+        
+        // 1 = Right | 0 = Wrong
+        $status = 0;
+
+        $get_string = $request->input('data');
+        parse_str($get_string, $get_array);
+
+        $results = [];
+        
+        try {
+            foreach($answers as $key => $answer) {
+                if(isset($get_array[$key])) {
+                    if($get_array[$key] == $answer) {
+                        $score++;
+                        $status = 1;
+                    } else {
+                        $status = 0;
+                    }
+                } else {
+                    $status = 0;
+                }
+                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
+            } 
+
+        } catch(Exception $e) {
+            return response()->json(['message' => 'Something went wrong!!']);
+        }
+
+        return response()->json(['message' => 'success', 'results' => $results]);
+    }
+
+    // Synesthesia
+    public function exam_twentyfour($mode) {
+        
+        if($mode == 'T') {
+            $timer = 1;
+        } else {
+            $timer = 0;
+        }
+
+        return view('ielts.synesthesia', compact('timer'));
+    }
+    public function store_exam_twentyfour(Request $request) {
+
+        $answers = array(
+            'q1' => 'TRUE',
+            'q2' => 'NOT GIVEN',
+            'q3' => 'FALSE',
+            'q4' => 'TRUE',
+            'q5' => 'NOT GIVEN',
+            'q6' => 'D',
+            'q7' => 'D',
+            'q8' => 'C',
+            'q9' => 'A',
+            'q10' => 'synesthetes',
+            'q11' => 'misnomer',
+            'q12' => 'inducer',
+            'q13' => 'metaphors'
+        );
+
+        $score = 0;
+        $count = count($answers);
+        
+        // 1 = Right | 0 = Wrong
+        $status = 0;
+
+        $get_string = $request->input('data');
+        parse_str($get_string, $get_array);
+        $results = [];
+        
+        try {
+            foreach($answers as $key => $answer) {
+                if(isset($get_array[$key])) {
+        
+                    if(strtolower($get_array[$key]) == strtolower($answer)) {
+                        $score++;
+                        $status = 1;
+                    } else {
+                        $status = 0;
+                    }
+
+                } else {
+                    $status = 0;
+                }
+                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
+            } 
+
+        } catch(Exception $e) {
+            return response()->json(['message' => 'Something went wrong!!']);
+        }
+
+        return response()->json(['message' => 'success', 'results' => $results]);
+    }
 }

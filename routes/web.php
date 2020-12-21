@@ -93,5 +93,20 @@ Route::middleware(['auth:student'])->group(function () {
 
     Route::get('whats-on-the-menu-for-british-diners/{mode}', 'IELTSController@exam_nineteen');
     Route::post('store_exam_nineteen', 'IELTSController@store_exam_nineteen')->name('store.exam-nineteen');
+
+    Route::get('shadow-plays/{mode}', 'IELTSController@exam_twenty');
+    Route::post('store_exam_twenty', 'IELTSController@store_exam_twenty')->name('store.exam-twenty');
+
+    Route::get('shield-maker/{mode}', 'IELTSController@exam_twentyone');
+    Route::post('store_exam_twentyone', 'IELTSController@store_exam_twentyone')->name('store.exam-twentyone');
+
+    Route::get('sniffer-dogs/{mode}', 'IELTSController@exam_twentytwo');
+    Route::post('store_exam_twentytwo', 'IELTSController@store_exam_twentytwo')->name('store.exam-twentytwo');
+
+    Route::get('stone-fortness-of-brunei/{mode}', 'IELTSController@exam_twentythree');
+    Route::post('store_exam_twentythree', 'IELTSController@store_exam_twentythree')->name('store.exam-twentythree');
+
+    Route::get('synesthesia/{mode}', 'IELTSController@exam_twentyfour');
+    Route::post('store_exam_twentyfour', 'IELTSController@store_exam_twentyfour')->name('store.exam-twentyfour');
 });
 
