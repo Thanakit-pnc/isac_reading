@@ -67,6 +67,51 @@
                     </div>
                 </a>
             </div>
+
+            <div class="col-lg-4">
+                <a href="javascript: void(0);" data-toggle="modal" data-target="#ielts-level-3" data-title="The Cat and the Cockroaches">
+                    <div class="widget-simple text-center card-box border-top border-primary border-2">
+                        <i class="fas fa-book-open fa-4x text-primary mb-2"></i>
+                        <h4 class="text-primary counter my-0">The Cat and the Cockroaches</h4>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-lg-4">
+                <a href="javascript: void(0);" data-toggle="modal" data-target="#ielts-level-3" data-title="The Robbery">
+                    <div class="widget-simple text-center card-box border-top border-primary border-2">
+                        <i class="fas fa-book-open fa-4x text-primary mb-2"></i>
+                        <h4 class="text-primary counter my-0">The Robbery</h4>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-lg-4">
+                <a href="javascript: void(0);" data-toggle="modal" data-target="#ielts-level-3" data-title="Tiger!">
+                    <div class="widget-simple text-center card-box border-top border-primary border-2">
+                        <i class="fas fa-book-open fa-4x text-primary mb-2"></i>
+                        <h4 class="text-primary counter my-0">Tiger!</h4>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-lg-4">
+                <a href="javascript: void(0);" data-toggle="modal" data-target="#ielts-level-3" data-title="The ice cream">
+                    <div class="widget-simple text-center card-box border-top border-primary border-2">
+                        <i class="fas fa-book-open fa-4x text-primary mb-2"></i>
+                        <h4 class="text-primary counter my-0">The ice cream</h4>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-lg-4">
+                <a href="javascript: void(0);" data-toggle="modal" data-target="#ielts-level-3" data-title="The Nasty taxi-driver">
+                    <div class="widget-simple text-center card-box border-top border-primary border-2">
+                        <i class="fas fa-book-open fa-4x text-primary mb-2"></i>
+                        <h4 class="text-primary counter my-0">The Nasty taxi-driver</h4>
+                    </div>
+                </a>
+            </div>
         </div>
     </div>
 </div>
@@ -102,10 +147,14 @@
     $('#ielts-level-3').on('show.bs.modal', function(e) {
         let btn = $(e.relatedTarget);
         
-
         let title = btn.data('title');
 
-        let slugUrl = title.toLowerCase().replaceAll(' ', '-');
+        if(title.includes("!")) {
+            slugUrl = title.toLowerCase().replaceAll(' ', '-').replaceAll("!", "");
+        } else {
+            slugUrl = title.toLowerCase().replaceAll(' ', '-');
+        }
+
         let readPdf = slugUrl + '-story.pdf#toolbar=0';
         let workbook = slugUrl + '-workbook.pdf';
         let answerkey = slugUrl + '-answerkey.pdf';
