@@ -14,6 +14,12 @@ class IELTSTestController extends Controller
             $timer = 0;
         }
 
-        return view('ielts_tests.practice-test-01', compact('timer'));
+        return view('ielts_tests.test01.index', compact('timer'));
+    }
+
+    public function store_test_01(Request $request) {
+        $get_string = $request->input('data');
+        parse_str($get_string, $get_array);
+        dd($get_array);
     }
 }

@@ -112,6 +112,7 @@ Route::middleware(['auth:student'])->group(function () {
 
     // IELTS Tests
     Route::get('practice-test-01/{mode}', 'IELTSTestController@practice_test_01');
+    Route::post('store_test_01', 'IELTSTestController@store_test_01')->name('store.test-01');
     
 });
 
