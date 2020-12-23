@@ -67,18 +67,30 @@
         </div>
     </div>
     <div class="col-md-4 mb-3 mb-lg-0">
-        <a href="javascript: void(0);" class="hover-scale" id="general-english">
+        <a href="javascript: void(0);" class="hover-scale" id="ielts-tests">
             <div class="widget-simple text-center card-box border-top border-purple border-2">
                 <i class="fas fa-book text-purple fa-4x mb-2"></i>
                 <h3 class="text-purple counter my-0">IELTS Tests</h3>
             </div>
         </a>
 
-        <div id="ielts-tests" style="display: none;">
+        <div id="ielts-tests-level" style="display: none;">
             <div class="d-flex flex-column">
-                <a href="{{ url('GE/L1') }}" class="btn btn-primary mb-2">Level 1</a>
-                <a href="{{ url('GE/L2') }}" class="btn btn-primary mb-2">Level 2</a>
-                <a href="{{ url('GE/L3') }}" class="btn btn-primary">Level 3</a>
+                <button data-toggle="modal" data-target="#ielts-tests-modal" data-title="Practice test 01" class="btn btn-purple">Practice test 01</button>
+            </div>
+        </div>
+
+        <div class="modal fade" id="ielts-tests-modal" tabindex="-1" role="dialog" aria-labelledby="myCenterModalLabel" aria-hidden="true" style="display: none;">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header py-1 text-center">
+                        <h3 class="modal-title my-0 mx-auto"></h3>
+                    </div>
+                    <div class="modal-body text-center pt-2">
+                        <a href="" id="practice" class="btn btn-primary waves-effect mr-2"><i class="fas fa-location-arrow"></i> Practice</a>
+                        <a href="" id="test" class="btn btn-success waves-effect" value="test"><i class="fas fa-clock"></i> Test</a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -87,8 +99,6 @@
 
 @section('javascript')
 <script>
-    $('#general-level').hide();
-    $('#ielts-topics-content').hide();
 
     $('#general-english').click(function() {
         $('#general-level').slideToggle();
@@ -97,5 +107,30 @@
     $('#ielts-topics').click(function() {
         $('#ielts-topics-content').slideToggle();
     });
+
+    $('#ielts-tests').click(function() {
+        $('#ielts-tests-level').slideToggle();
+    })
+
+    $('#ielts-tests-modal').on('show.bs.modal', function (event) {
+        let button = $(event.relatedTarget) 
+        let title = button.data('title') ;
+        let modal = $(this)
+
+        let url_slug;
+
+        if(title.includes("'")) {
+            url_slug = title.replaceAll(' ', '-').replace("'", "").toLowerCase()
+        } else {
+            url_slug = title.replaceAll(' ', '-').toLowerCase()
+        }
+
+        let practice = url_slug + '/P';
+        let test = url_slug + '/T';
+
+        modal.find('#practice').attr('href', '{!! url("'+ practice +'") !!}');
+        modal.find('#test').attr('href', '{!! url("'+ test +'") !!}');
+        modal.find('h3.modal-title').text(title);
+    })
 </script>
 @stop

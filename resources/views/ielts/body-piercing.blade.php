@@ -126,7 +126,7 @@
                 <div class="bg-dark my-2 border border-dark"></div>
 
                 <h4 class="mt-0 mb-1">Questions 6 - 10</h4>
-                <p class="mb-0">Classify the following statements as referring to the different years.</p>
+                <p class="mb-0">Classify the following statements as referring to different body piercing.</p>
                 <p class="mb-0">For Questions 6 – 10 select a letter, A, B, C, or D.</p>
                 <p>NB You may use each letter more than once.</p>
                 <div class="row">

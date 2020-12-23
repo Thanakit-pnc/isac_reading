@@ -108,5 +108,10 @@ Route::middleware(['auth:student'])->group(function () {
 
     Route::get('synesthesia/{mode}', 'IELTSController@exam_twentyfour');
     Route::post('store_exam_twentyfour', 'IELTSController@store_exam_twentyfour')->name('store.exam-twentyfour');
+
+
+    // IELTS Tests
+    Route::get('practice-test-01/{mode}', 'IELTSTestController@practice_test_01');
+    
 });
 
