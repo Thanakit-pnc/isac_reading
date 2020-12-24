@@ -171,19 +171,18 @@
 <p class="mb-0">Complete the following passage using words from the box.</p>
 <p>For Questions 36 – 40, select the letters a – j.</p>
 
-<div class="border p-2 mx-auto">
-    <div class="row justify-content-center">
-        <div class="col-md-2">a. relative</div>
-        <div class="col-md-2">b. family</div>
-        <div class="col-md-2">c. collect</div>
-        <div class="col-md-2">d. gigantic</div>
-        <div class="col-md-2">e. consume</div>
-        <div class="w-100"></div>
-        <div class="col-md-2">f. minute</div>
-        <div class="col-md-2">g. openings</div>
-        <div class="col-md-2">h. relax</div>
-        <div class="col-md-2">i. basking</div>
-        <div class="col-md-2">j. sift</div>
+<div class="border px-2 mx-auto">
+    <div class="row">
+        <div class="col-md-3">a. relative</div>
+        <div class="col-md-3">b. family</div>
+        <div class="col-md-3">c. collect</div>
+        <div class="col-md-3">d. gigantic</div>
+        <div class="col-md-3">e. consume</div>
+        <div class="col-md-3">f. minute</div>
+        <div class="col-md-3">g. openings</div>
+        <div class="col-md-3">h. relax</div>
+        <div class="col-md-3">i. basking</div>
+        <div class="col-md-3">j. sift</div>
     </div>
 </div>
 
