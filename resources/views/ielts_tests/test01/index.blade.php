@@ -64,7 +64,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="card-box height" id="sandbox">
-                                        <h3 class="text-center mt-0">Calcutta</h3>
+                                        <h3 class="mt-0">Calcutta</h3>
                                         <p class="text-justify">
                                             <span class="font-weight-bold mr-2">A</span>
                                             <span>
