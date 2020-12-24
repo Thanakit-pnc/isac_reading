@@ -6,8 +6,8 @@
         height: 60vh;
         overflow-y: auto;
     }
-    .high {
-        background-color: yellow;
+    .border-custom:not(:last-of-type) {
+        border-bottom: 1px solid #777;
     }
 </style>
 @stop
@@ -21,7 +21,7 @@
         <div class="col-md-6">
             @isset($timer)
                 @if($timer == 1)
-                <h4 class="text-right" id="time"><span class="text-danger">40</span> minutes <span class="text-danger">00</span> seconds</h4>
+                <h4 class="text-right" id="time"><span class="text-danger">60</span> minutes <span class="text-danger">00</span> seconds</h4>
                 @endif
             @endisset
         </div>
@@ -216,7 +216,7 @@
                             <a href="javascript: void(0);" class="btn btn-secondary button-previous">Previous</a>
                         </li>
                         <li class="show list-inline-item">
-                            <button type="button" class="btn btn-purple waves-effect waves-light d-none" data-toggle="modal" data-target="#modal-score" id="btn-score"><i class="fas fa-star"></i> Your Score</button>
+                            <button type="button" class="btn btn-purple waves-effect waves-light d-none" data-toggle="modal" data-target="#modal-score" id="btn-score"><i class="fas fa-star"></i> Show Result</button>
                          </li>
                         <li class="next list-inline-item float-right">
                             <a href="javascript: void(0);" class="btn btn-secondary button-next">Next</a>
@@ -237,7 +237,7 @@
     <div class="modal-dialog modal-lg">
         <div class="modal-content">
             <div class="modal-header bg-primary">
-                <h4 class="modal-title text-white" id="myModalLabel"><i class="fas fa-star"></i> Results Score</h4>
+                <h4 class="modal-title text-white" id="myModalLabel"><i class="fas fa-star"></i> Show Result</h4>
                 <button type="button" class="close text-white" data-dismiss="modal" aria-hidden="true">×</button>
             </div>
             <div class="modal-body">
@@ -311,29 +311,29 @@
                 <h4 class="mt-0">${data.total}</h4>
             </div>
             <div class="row text-dark">
-                <div class="col-md-6 box-1"></div>
-                <div class="col-md-6 box-2"></div>
+                <div class="col-md-6 p-0 box-1 border border-dark"></div>
+                <div class="col-md-6 p-0 box-2 border border-dark border-left-0"></div>
             </div>
         `)
 
         results.forEach((result, idx) => {
             if(idx < 20) {
                 $('.box-1').append(`
-                    <div class="mb-2 d-flex">
+                    <div class="d-flex p-1 border-custom">
                         <span class="font-weight-bold" style="flex: 50%;">${idx + 1}. ${result.stdAnswer == '' ? 'No answer' : result.stdAnswer}</span>
                         <div style="flex: 50%;">
                             <span class="mr-1">${ result.status == 'R' ? '<i class="fas fa-check text-success"></i>' : '<i class="fas fa-times text-danger"></i>'}</span>
-                            <span class="text-success">${result.rightAnswer}</span>
+                            <span class="text-success font-weight-bold">${result.rightAnswer}</span>
                         </div>
                     </div>
                 `)
             } else {
                 $('.box-2').append(`
-                    <div class="mb-2 d-flex">
+                    <div class="d-flex p-1 border-custom">
                         <span class="font-weight-bold" style="flex: 50%;">${idx + 1}. ${result.stdAnswer == '' ? 'No answer' : result.stdAnswer}</span>
                         <div style="flex: 50%;">
                             <span class="mr-1">${ result.status == 'R' ? '<i class="fas fa-check text-success"></i>' : '<i class="fas fa-times text-danger"></i>'}</span>
-                            <span class="text-success">${result.rightAnswer}</span>
+                            <span class="text-success font-weight-bold">${result.rightAnswer}</span>
                         </div>
                     </div>
                 `)

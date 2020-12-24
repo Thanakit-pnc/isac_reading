@@ -1,4 +1,4 @@
-const time = 40;
+const time = 60;
 let totalTime = time * 60;
 let timer;
 

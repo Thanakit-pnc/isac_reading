@@ -85,7 +85,7 @@ class IELTSTestController extends Controller
                     $status = 'W';
                 }  
 
-                $results['total'] = "Your score : ".$score.'/'.$total;
+                $results['total'] = "Your scores : ".$score.'/'.$total;
                 $results['exam'][$key] = ['stdAnswer' => $get_array[$key], 'status' => $status, 'rightAnswer' => $answers[$key]];
             }
         } catch(Exception $e) {
