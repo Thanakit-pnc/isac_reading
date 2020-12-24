@@ -5,43 +5,28 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use File;
 use Route;
+use App\IELTSTopic;
 
 class IELTSController extends Controller
 {
     public function index($group = '') {
+        
+        $views = IELTSTopic::topics();
 
-        $views = collect(File::allFiles(resource_path('views/ielts')))
-                ->sortBy(function ($file) {
-                    return $file->getCTime();
-                });
-                
         $exams = array();
 
         $length = 10;
         $group_num = 1;
 
         foreach($views as $key => $view) {
-            $fileName = substr($view->getFilename(), 0, -10);
-            $fileNameFormat = str_replace('-', ' ', $fileName);
 
-            if($fileNameFormat == 'mulus mighty mountain') {
-                $fileNameFormat = "mulu's mighty mountain";
-            } else if($fileNameFormat == 'lets go fly a kite') {
-                $fileNameFormat = "Let's Go Fly A Kite";
-            }
-            
-            if($fileNameFormat !== 'index') {
+            $exams['group-'.$group_num][$key] = $view;
 
-                $exams['group-'.$group_num][$key] = ucwords($fileNameFormat);
-
-                if(count($exams['group-'.$group_num]) == $length) {
-                    $exams['group-'.$group_num++][$key] = ucwords($fileNameFormat);
-                } 
-
+            if(count($exams['group-'.$group_num]) == $length) {
+                $exams['group-'.$group_num++][$key] = $view;
             } 
-            
         }
- 
+
         return view('ielts.index', ['exams' => $exams[$group]]);
     }
 

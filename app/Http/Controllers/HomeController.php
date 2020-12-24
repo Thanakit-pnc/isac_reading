@@ -6,23 +6,22 @@ use Illuminate\Http\Request;
 use Auth;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
 use App\Student;
+use App\IELTSTopic;
 use DB;
 use File;
 use Route;
-use Exception;
+
 
 class HomeController extends Controller
 {
 
     public function index() {
 
-        $views = File::allFiles(resource_path('views/ielts'));
+        $views = IELTSTopic::topics();
 
         $collection = collect($views);
         
-        $buttons = $collection->filter(function ($value, $key) {
-            return $value->getFilename() != 'index.blade.php';
-        })->chunk(10);
+        $buttons = $collection->chunk(10);
 
         return view('home', ['buttons' => $buttons->all()]);
     }

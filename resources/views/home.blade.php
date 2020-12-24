@@ -120,7 +120,7 @@
         let url_slug;
 
         if(title.includes("'")) {
-            url_slug = title.replaceAll(' ', '-').replace("'", "").toLowerCase()
+            url_slug = title.replaceAll(' ', '').replace("'", "").toLowerCase()
         } else {
             url_slug = title.replaceAll(' ', '-').toLowerCase()
         }
