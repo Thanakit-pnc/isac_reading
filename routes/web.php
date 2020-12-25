@@ -111,7 +111,7 @@ Route::middleware(['auth:student'])->group(function () {
 
 
     // IELTS Tests
-    Route::namespace('IELTSTests')->group(function () {
+    Route::prefix('')->namespace('IELTSTests')->group(function () {
 
         // Academic
         Route::get('/academic', 'AcademicController@academic');
