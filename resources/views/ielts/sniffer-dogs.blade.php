@@ -66,7 +66,7 @@
             <div class="card-box font-16 text-dark overflow-custom">
             
                 <h4 class="mt-0 mb-1">Questions 1 - 5</h4>
-                <p class="mb-0">Classify the following statements as referring to</p>
+                <p class="mb-0">Classify the following statements as referring to the studies</p>
                 <p>Select a letter, A, B, or C.</p>
 
                 <div class="row">
