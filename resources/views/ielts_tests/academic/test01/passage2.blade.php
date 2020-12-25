@@ -163,8 +163,7 @@
 
 <!-- Questions 25 - 27 -->
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 25 – 27</h4>
-<p class="mb-0">Choose the correct answer from the given options.</p>
-<p>For Questions 25-27, select a, b, c, or d.</p>
+<p>Choose the correct letter a, b, c, or d.</p>
 
 <div class="mt-1 d-flex">
     <label class="mr-1">25.</label>

@@ -202,8 +202,7 @@
                 <div class="bg-dark my-2 border border-dark"></div>
 
                 <h4 class="mt-0 mb-1">Questions 11 - 13</h4>
-                <p class="mb-0">Choose the correct answer from the given options.</p>
-                <p>For Questions 11-13, select a, b, c, or d</p>
+                <p>Choose the correct letter a, b, c, or d.</p>
                 
                 <div class="form-group">
                     <label for="col-form-label" class="d-flex"><span class="mr-1">11.</span> <span>Which of the following messages is <b><i><u>NOT</u></i></b> usually communicated by the sense of smell?</span></label>

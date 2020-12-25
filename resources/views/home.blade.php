@@ -74,23 +74,10 @@
             </div>
         </a>
 
-        <div id="ielts-tests-level" style="display: none;">
+        <div id="ielts-tests-mode" style="display: none;">
             <div class="d-flex flex-column">
-                <button data-toggle="modal" data-target="#ielts-tests-modal" data-title="Practice test 01" class="btn btn-purple">Practice test 01</button>
-            </div>
-        </div>
-
-        <div class="modal fade" id="ielts-tests-modal" tabindex="-1" role="dialog" aria-labelledby="myCenterModalLabel" aria-hidden="true" style="display: none;">
-            <div class="modal-dialog modal-dialog-centered">
-                <div class="modal-content">
-                    <div class="modal-header py-1 text-center">
-                        <h3 class="modal-title my-0 mx-auto"></h3>
-                    </div>
-                    <div class="modal-body text-center pt-2">
-                        <a href="" id="practice" class="btn btn-primary waves-effect mr-2"><i class="fas fa-location-arrow"></i> Practice</a>
-                        <a href="" id="test" class="btn btn-success waves-effect" value="test"><i class="fas fa-clock"></i> Test</a>
-                    </div>
-                </div>
+                <a href="{{ url('academic') }}" class="btn btn-purple mb-2">Academic</a>
+                <a href="{{ url('general-training') }}" class="btn btn-purple">General Training</a>
             </div>
         </div>
     </div>
@@ -109,28 +96,7 @@
     });
 
     $('#ielts-tests').click(function() {
-        $('#ielts-tests-level').slideToggle();
-    })
-
-    $('#ielts-tests-modal').on('show.bs.modal', function (event) {
-        let button = $(event.relatedTarget) 
-        let title = button.data('title') ;
-        let modal = $(this)
-
-        let url_slug;
-
-        if(title.includes("'")) {
-            url_slug = title.replaceAll(' ', '').replace("'", "").toLowerCase()
-        } else {
-            url_slug = title.replaceAll(' ', '-').toLowerCase()
-        }
-
-        let practice = url_slug + '/P';
-        let test = url_slug + '/T';
-
-        modal.find('#practice').attr('href', '{!! url("'+ practice +'") !!}');
-        modal.find('#test').attr('href', '{!! url("'+ test +'") !!}');
-        modal.find('h3.modal-title').text(title);
+        $('#ielts-tests-mode').slideToggle();
     })
 </script>
 @stop

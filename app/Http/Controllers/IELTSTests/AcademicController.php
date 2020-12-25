@@ -1,21 +1,24 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace App\Http\Controllers\IELTSTests;
 
 use Illuminate\Http\Request;
-use App\IELTSTests;
+use App\Http\Controllers\Controller;
 
-class IELTSTestController extends Controller
+class AcademicController extends Controller
 {
-
-    public function index($type) {
+    public function academic() {
         
-        $practices = IELTSTests::practices($type);
+        $type = 'Academic';
+        
+        $practices = [
+            '1' => "Academic test 01"
+        ];
 
-        return view('ielts_tests.index', compact('practices'));
+        return view('ielts_tests.index', compact('practices', 'type'));
     }
 
-    public function practice_test_01($mode) {
+    public function academic_test_01($mode) {
 
         if($mode == 'T') {
             $timer = 1;
@@ -23,10 +26,10 @@ class IELTSTestController extends Controller
             $timer = 0;
         }
 
-        return view('ielts_tests.test01.index', compact('timer'));
+        return view('ielts_tests.academic.test01.index', compact('timer'));
     }
 
-    public function store_test_01(Request $request) {
+    public function ac_test_01(Request $request) {
 
         $answers = [
             'q1' => 'c',

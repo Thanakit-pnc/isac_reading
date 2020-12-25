@@ -16,7 +16,7 @@
 <form id="form-exam" method="post">
     <div class="row mt-1">
         <div class="col-md-6">
-            <h3>Practice Test 01</h3>
+            <h3>Academic Test 01</h3>
         </div>
         <div class="col-md-6">
             @isset($timer)
@@ -117,7 +117,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="card-box height">
-                                        @include('ielts_tests.test01.passage1')
+                                        @include('ielts_tests.academic.test01.passage1')
                                     </div>
                                 </div>
                             </div>
@@ -160,7 +160,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="card-box height">
-                                        @include('ielts_tests.test01.passage2')
+                                        @include('ielts_tests.academic.test01.passage2')
                                     </div>
                                 </div>
                             </div>
@@ -203,7 +203,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="card-box height">
-                                        @include('ielts_tests.test01.passage3')
+                                        @include('ielts_tests.academic.test01.passage3')
                                     </div>
                                 </div>
                             </div>
@@ -282,7 +282,7 @@
         let data = $("#form-exam").serialize();
         $.ajax({
             type: "post",
-            url: "{{ route('store.test-01') }}",
+            url: "{{ route('store.ac-test-01') }}",
             data: {_token: "{{ csrf_token() }}", data},
             dataType: "json",
             success: function(data) {

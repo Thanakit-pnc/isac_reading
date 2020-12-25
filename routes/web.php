@@ -111,8 +111,17 @@ Route::middleware(['auth:student'])->group(function () {
 
 
     // IELTS Tests
-    Route::get('practice-test-01/{mode}', 'IELTSTestController@practice_test_01');
-    Route::post('store_test_01', 'IELTSTestController@store_test_01')->name('store.test-01');
+    Route::namespace('IELTSTests')->group(function () {
+
+        // Academic
+        Route::get('/academic', 'AcademicController@academic');
+        Route::get('academic-test-01/{mode}', 'AcademicController@academic_test_01');
+        Route::post('ac_test_01', 'AcademicController@ac_test_01')->name('store.ac-test-01');
+
+        // General Training
+        Route::get('/general-training', 'GeneralController@general');
+
+    });
     
 });
 
