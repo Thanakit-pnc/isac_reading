@@ -146,7 +146,7 @@
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">4.</span> What do we know about the Majlis Gallery?? </label>
+                            <label for="col-form-label" class="d-flex"><span class="mr-1">4.</span> What do we know about the Majlis Gallery?</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q4-1" name="q4" class="custom-control-input" value="A">
