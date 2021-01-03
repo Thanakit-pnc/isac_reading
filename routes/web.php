@@ -132,7 +132,8 @@ Route::middleware(['auth:student'])->group(function () {
 
         // General Training
         Route::get('/general-training', 'GeneralController@general');
-
+        Route::get('general-training-test-01/{mode}', 'GeneralController@general_test_01');
+        Route::post('gt_test_01', 'GeneralController@gt_test_01')->name('store.gt-test-01');
     });
     
 });

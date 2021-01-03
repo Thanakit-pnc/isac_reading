@@ -12,11 +12,11 @@ class AcademicController extends Controller
         $type = 'Academic';
         
         $practices = [
-            '1' => "Academic test 01",
-            '2' => "Academic test 02",
-            '3' => "Academic test 03",
-            '4' => "Academic test 04",
-            '5' => "Academic test 05",
+            '1' => "Academic Test 01",
+            '2' => "Academic Test 02",
+            '3' => "Academic Test 03",
+            '4' => "Academic Test 04",
+            '5' => "Academic Test 05",
         ];
 
         return view('ielts_tests.index', compact('practices', 'type'));
