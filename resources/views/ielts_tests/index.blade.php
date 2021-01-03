@@ -16,7 +16,7 @@
 <div class="row mt-1">
     @isset($practices)
         @foreach($practices as $practice)
-        <div class="col-lg-4">
+        <div class="col-lg-3">
             <div class="card card-body text-center">
                 <h4 class="card-title">{{ $practice }}</h4>
                 <button data-toggle="modal" data-target="#ielts-tests-modal" data-title="{{ $practice }}" class="btn btn-primary text-uppercase">Start</button>
