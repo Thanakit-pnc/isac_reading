@@ -3,10 +3,10 @@
 <p>For Questions 15 to 20, select a job number, 1 to 6.</p>
 
 <div class="row mb-2">
-    <div class="col-6 align-self-center">
-        <p class="mb-0"><span class="font-weight-bold">15</span> This job does not require qualifications.</p>
+    <div class="col align-self-center">
+        <p class="mb-0 d-flex"><span class="font-weight-bold mr-1">15</span> This job does not require qualifications.</p>
     </div>
-    <div class="col-6">
+    <div class="col-auto ml-auto">
         <p class="mb-0 mx-2 d-inline-block">Job number </p>
         <select name="q15" class="form-control w-auto d-inline-block">
             <option value="">-Select-</option>
@@ -21,10 +21,10 @@
 </div>
 
 <div class="row mb-2">
-    <div class="col-6 align-self-center">
-        <p class="mb-0"><span class="font-weight-bold">16</span> If you work extra hours you get paid for them.</p>
+    <div class="col align-self-center">
+        <p class="mb-0 d-flex"><span class="font-weight-bold mr-1">16</span> If you work extra hours you get paid for them.</p>
     </div>
-    <div class="col-6">
+    <div class="col-auto ml-auto">
         <p class="mb-0 mx-2 d-inline-block">Job number </p>
         <select name="q16" class="form-control w-auto d-inline-block">
             <option value="">-Select-</option>
@@ -39,10 +39,10 @@
 </div>
 
 <div class="row mb-2">
-    <div class="col-6 align-self-center">
-        <p class="mb-0"><span class="font-weight-bold">17</span> In this job you don’t work Monday and Tuesday.</p>
+    <div class="col align-self-center">
+        <p class="mb-0 d-flex"><span class="font-weight-bold mr-1">17</span> In this job you don’t work Monday and Tuesday.</p>
     </div>
-    <div class="col-6">
+    <div class="col-auto ml-auto">
         <p class="mb-0 mx-2 d-inline-block">Job number </p>
         <select name="q17" class="form-control w-auto d-inline-block">
             <option value="">-Select-</option>
@@ -57,10 +57,10 @@
 </div>
 
 <div class="row mb-2">
-    <div class="col-6 align-self-center">
-        <p class="mb-0"><span class="font-weight-bold">18</span> You can decide the hours you work in this job.</p>
+    <div class="col align-self-center">
+        <p class="mb-0 d-flex"><span class="font-weight-bold mr-1">18</span> You can decide the hours you work in this job.</p>
     </div>
-    <div class="col-6">
+    <div class="col-auto ml-auto">
         <p class="mb-0 mx-2 d-inline-block">Job number </p>
         <select name="q18" class="form-control w-auto d-inline-block">
             <option value="">-Select-</option>
@@ -75,10 +75,10 @@
 </div>
 
 <div class="row mb-2">
-    <div class="col-6 align-self-center">
-        <p class="mb-0"><span class="font-weight-bold">19</span> This job has the highest basic salary.</p>
+    <div class="col align-self-center">
+        <p class="mb-0 d-flex"><span class="font-weight-bold mr-1">19</span> This job has the highest basic salary.</p>
     </div>
-    <div class="col-6">
+    <div class="col-auto ml-auto">
         <p class="mb-0 mx-2 d-inline-block">Job number </p>
         <select name="q19" class="form-control w-auto d-inline-block">
             <option value="">-Select-</option>
@@ -93,10 +93,10 @@
 </div>
 
 <div class="row">
-    <div class="col-6 align-self-center">
-        <p class="mb-0"><span class="font-weight-bold">20</span> You get a company car with this job.</p>
+    <div class="col align-self-center">
+        <p class="mb-0 d-flex"><span class="font-weight-bold mr-1">20</span> You get a company car with this job.</p>
     </div>
-    <div class="col-6">
+    <div class="col-auto ml-auto">
         <p class="mb-0 mx-2 d-inline-block">Job number </p>
         <select name="q20" class="form-control w-auto d-inline-block">
             <option value="">-Select-</option>

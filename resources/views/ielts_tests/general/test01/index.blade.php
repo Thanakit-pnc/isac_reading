@@ -9,6 +9,11 @@
     .border-custom:not(:last-of-type) {
         border-bottom: 1px solid #777;
     }
+    @media(max-width: 1280px) {
+        input[type=text] {
+            width: 75% !important;
+        }
+    }
 </style>
 @stop
 
@@ -455,7 +460,7 @@
 <script src="{{ asset('public/assets/js/pages/form-wizard.init.js') }}"></script>
 <script src="{{ asset('public/assets/js/wizard.js') }}"></script>
 <script>
-    // $('.nav-item a[href="#section3"]').tab('show')
+    $('.nav-item a[href="#section2"]').tab('show')
     
     $('#finish').on('click', function() {
         Swal({
