@@ -134,6 +134,12 @@ Route::middleware(['auth:student'])->group(function () {
         Route::get('/general-training', 'GeneralController@general');
         Route::get('general-training-test-01/{mode}', 'GeneralController@general_test_01');
         Route::post('gt_test_01', 'GeneralController@gt_test_01')->name('store.gt-test-01');
+
+        Route::get('general-training-test-02/{mode}', 'GeneralController@general_test_02');
+        Route::post('gt_test_02', 'GeneralController@gt_test_02')->name('store.gt-test-02');
+
+        Route::get('general-training-test-03/{mode}', 'GeneralController@general_test_03');
+        Route::post('gt_test_03', 'GeneralController@gt_test_03')->name('store.gt-test-03');
     });
     
 });

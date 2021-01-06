@@ -3,7 +3,7 @@
     if(empty(Auth::guard('student')->user()->crm_std_id)) {
         $imgURL = "public/assets/images/users/icon-man.png";
     } else {
-        $crm_id = DB::connection('crm')->table('enquiry')->where('enquiry_id', Auth::guard('student')->user()->crm_std_id)->get();
+        $crm_id = DB::connection('crm')->table('student')->where('student_id', Auth::guard('student')->user()->crm_std_id)->get();
         if($crm_id[0]->gender == 'm') {
             $imgURL = "public/assets/images/users/icon-man.png";
         } else {
