@@ -455,7 +455,7 @@ class GeneralController extends Controller
     public function gt_test_05(Request $request) {
 
         $answers = [
-            'q1' => ['£49000', '£49,000', '49,000 pounds', '49000 pounds', '49000', '49,000'],
+            'q1' => ['49,000 pounds', '49000 pounds', '49000', '49,000'],
             'q2' => 'children\'s orphanage',
             'q3' => '6.30 am',
             'q4' => 'T-shirt',
