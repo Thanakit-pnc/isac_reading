@@ -112,63 +112,6 @@
 
 <hr>
 
-
-<div class="row">
-    <div class="col-12">
-        <h4 class="text-center"><u>TERMS OF EMPLOYMENT</u></h4>
-
-        <p class="font-weight-bold mb-0">Length of Agreement</p>
-        <p>
-            Your employment will commence on 1<sup>st</sup> Jan 2012 until 31<sup>st</sup> December 2012 There is a probationary period of three calendar months, during which time either party can terminate this agreement by giving at least two weeks’ notice in writing. In the case of giving notice, a clear reason must be stated by either party to this agreement.
-        </p>
-
-        <p class="font-weight-bold mb-0">Remuneration</p>
-        <p>
-            Your monthly income will be <span class="font-weight-bold">$2,100</span> per month gross.
-        </p>
-
-        <p class="font-weight-bold mb-0">Working Month</p>
-        <p>
-            You will be expected to work an average of 87 contact hours per calendar month. Any work-load above the average 87 hours in any one quarter period will be paid at over-time rate of $30 per hour. Overtime payment will be made at the end of each quarter (March, June, September, December)
-        </p>
-
-        <p class="font-weight-bold mb-0">Recreational Leave</p>
-        <p>
-            You will be entitled to <span class="font-weight-bold">15</span> working days paid recreational leave. You are asked to co-ordinate your leave in line with the quieter working periods.
-        </p>
-
-        <p class="font-weight-bold mb-0">Sick Leave</p>
-        <p>
-            You will be entitled to <span class="font-weight-bold">30</span> days paid sick leave. Three or more consecutive days’ absence due to sickness will require a medical certificate. 
-        </p>
-
-        <p class="font-weight-bold mb-0">Legal working status</p>
-        <p>
-            The employer will cover all costs incurred as a result of processes deemed necessary by law to ensure that your working status will be completely legal.
-        </p>
-
-        <p class="font-weight-bold mb-0">Insurance</p>
-        <p>
-        The employer will provide group medical insurance from a reputable insurance agency.
-        </p>
-        </p>
-
-        <p class="font-weight-bold mb-0">Termination</p>
-        <p class="mb-0">
-            <span class="font-weight-bold">[1]</span> You will be required to provide written notice to terminate this contract at least one calendar month prior to termination of your employment.
-        </p>
-        <p class="mb-0">
-            <span class="font-weight-bold">[2]</span> The employer is required to give you one calendar month’s notice of termination of your employment in writing, except in the case of <span class="font-weight-bold">[4]</span> below.
-        </p>
-        <p class="mb-0">
-            <span class="font-weight-bold">[3]</span> The employer is required to give you one calendar month’s notice of renewal / non-renewal of your employment in writing prior to the expiry of this agreement.
-        </p>
-        <p>
-            <span class="font-weight-bold">[4]</span> If you are found guilty of gross professional misconduct or of not maintaining required standards, the employer reserves the right to terminate this agreement immediately with payment being made up to and including the date of dismissal.
-        </p>
-    </div>
-</div>
-
 <!-- Questions 21 - 24 -->
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 21 – 24</h4>
 <p class="mb-0">Do the following statements agree with the information given in the text?</p>

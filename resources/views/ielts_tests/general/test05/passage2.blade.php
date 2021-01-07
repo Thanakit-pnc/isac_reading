@@ -91,51 +91,6 @@
 
 <hr>
 
-<div class="row">
-    <div class="col-12">
-        <h4>Questions 22 – 27</h4>
-        <p>Read the text below and answer Questions 22 to 27.</p>
-        <h4 class="mb-0">Minimum Wage</h4>
-        <p>The National Minimum Wage (NMW) is a minimum amount per hour that most workers in the UK are entitled to be paid. </p>
-        <h4 class="mb-0">Entitlement to the NMW</h4>
-        <p>Most workers in the UK over school leaving age are legally entitled to be paid at least the NMW and all employers have to pay it to you if you are entitled to it. It makes no difference:</p>
-        <ul class="mb-0">
-            <li>if you are paid weekly or monthly, by cheque, in cash or in another way</li>
-            <li>if you work full time, part time or any other working pattern</li>
-            <li>if you work at your employer’s own premises or elsewhere</li>
-            <li>what size your employer is</li>
-            <li>where you work in the UK</li>
-        </ul>
-        <p>
-            You are entitled to the NMW even if you sign a contract agreeing to be paid at a lower rate. 
-        </p>
-        <h4 class="mb-0">Who is a worker for NMW purposes?</h4>
-        <p>You will be a worker who is entitled to the NMW if:</p>
-        <ul class="mb-0">
-            <li>you have a contract of employment</li>
-            <li>you have a contract to perform work or provide services personally for your employer</li>
-            <li>you are not self-employed under the contract</li>
-        </ul>
-        <p>The contract does not have to be in writing, it can be oral or implied. </p>
-        <h4 class="mb-0">People not entitled to the National Minimum Wage</h4>
-        <p>Below is a list of people who are not entitled to be paid the National Minimum Wage (NMW). </p>
-        <h4 class="mb-0">Self-employed</h4>
-        <p>If you are self-employed you are not entitled to receive the National Minimum Wage. If you believe you are a worker but your ‘employer’ says you are self-employed, they are responsible for proving you are self-employed if a National Minimum Wage dispute goes to an Employment Tribunal or civil court.</p>
-        <h4 class="mb-0">Volunteers</h4>
-        <p>
-            You are likely to be a volunteer if you do not have an employment or worker's contract (e.g. you are not a worker). It doesn’t matter who you volunteer for; it can be anyone, not just voluntary        organisations. Just because you are described as a volunteer does not necessarily mean that you are not entitled to the National Minimum Wage. If the arrangements under which you ‘volunteer’ add up to an employment or worker's contract, you will be entitled to the National Minimum Wage.
-        </p>
-        <h4 class="mb-0">Voluntary workers</h4>
-        <p>
-            Voluntary workers are different to volunteers for National Minimum Wage purposes. For National Minimum Wage purposes, to be a voluntary worker you must have an employment contract or contract to perform work or provide services for a charity, voluntary organisation, associated fund raising body or statutory body. You should receive no more than limited expenses and benefits in kind and are not entitled to be paid the National Minimum Wage.
-        </p>
-        <h4 class="mb-0">Work experience</h4>
-        <p>
-            If you are a student doing work experience as part of a higher or further education course you are not entitled to the National Minimum Wage if the work experience doesn’t last longer than a year.
-        </p>
-    </div>
-</div>
-
 <!-- Questions 22 - 27 -->
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 22 – 27</h4>
 <p class="mb-0 font-15">Decide which of the following would qualify for the National Minimum Wage.</p>

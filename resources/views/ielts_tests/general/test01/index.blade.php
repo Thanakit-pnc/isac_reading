@@ -62,13 +62,13 @@
                         <div class="tab-pane" id="section1">
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <h4 class="mt-0 mb-0">SECTION 1 Questions 1 – 14</h4>
-                                    <p>
-                                        Read the text below and answer Questions 1-6.
-                                    </p>
+                                    <h4 class="mt-0">SECTION 1 Questions 1 – 14</h4>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="card-box height" id="sandbox">
+                                        <h5 class="mt-0 mb-3">
+                                            Read the text below and answer Questions 1-6.
+                                        </h5>
                                         <h3 class="mt-0 text-center">WELCOME TO BELLA VISTA HOLIDAY RESORT</h3>
                                         <h4 class="text-center">Choose from our wide range of holiday accommodation:</h4>
 
@@ -179,6 +179,91 @@
                                             </div>
                                         </div>
 
+                                        <div class="pt-1 bg-dark my-2"></div>
+
+                                        <h5 class="mb-3">Read the text below and answer Questions 7-14.</h5>
+
+                                        <div>
+                                            <h5 class="text-center">BELLA VISTA 21<sup>st</sup> BIRTHDAY CELEBRATION!</h5>
+                                            <div class="row">
+                                                <div class="col-2">
+                                                    When:
+                                                </div>
+                                                <div class="col-10">
+                                                    Sunday 17 April from 8.00 am until 7.00 pm
+                                                </div>
+                                                <div class="col-2">
+                                                    Where:
+                                                </div>
+                                                <div class="col-10">
+                                                    On the beach
+                                                </div>
+                                                <div class="col-2">
+                                                    Cost:
+                                                </div>
+                                                <div class="col-10">
+                                                    ABSOLUTELY FREE!
+                                                </div>
+                                            </div>
+
+                                            <p class="mb-0 mt-3">Programme of events:</p>
+                                            <div class="row mb-2">
+                                                <div class="col-4">
+                                                    8.00 – 10.00 am
+                                                </div>
+                                                <div class="col">
+                                                    Sandcastle competition Open to all children over 5: prizes for best 3 sandcastles.
+                                                </div>
+                                            </div>
+                                            <div class="row mb-2">
+                                                <div class="col-4">
+                                                    8.30 – 12 noon
+                                                </div>
+                                                <div class="col">
+                                                    Donkey rides Suitable for children aged 8+ years
+                                                </div>
+                                            </div>
+                                            <div class="row mb-2">
+                                                <div class="col-4">
+                                                    10.00 – 12 noon
+                                                </div>
+                                                <div class="col">
+                                                    Treasure Hunt Suitable for the very young (3 – 5 years) plus their parents.
+                                                </div>
+                                            </div>
+                                            <div class="row mb-2">
+                                                <div class="col-4">
+                                                    12 noon – 1.00 pm
+                                                </div>
+                                                <div class="col">
+                                                    BBQ LUNCH Sausage sizzle with salads. Burgers and buns Vegetarian food also available.
+                                                </div>
+                                            </div>
+                                            <div class="row mb-2">
+                                                <div class="col-4">
+                                                    1.00 – 2.30 pm
+                                                </div>
+                                                <div class="col">
+                                                    Beach soccer Ages: 9 – 12 years, boys and girls mixed teams
+                                                </div>
+                                            </div>
+                                            <div class="row mb-2">
+                                                <div class="col-4">
+                                                    3.00 – 5.00
+                                                </div>
+                                                <div class="col">
+                                                    Mini-triathlon: swimming, running and cycling For older children only (12 – 16 years old)
+                                                </div>
+                                            </div>
+                                            <div class="row mb-2">
+                                                <div class="col-4">
+                                                    5.00 – 6.00
+                                                </div>
+                                                <div class="col">
+                                                    Prize-giving ceremony, followed by huge FIREWORK DISPLAY
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -192,13 +277,12 @@
                         <div class="tab-pane" id="section2">
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <h4 class="mt-0 mb-0">SECTION 2 Questions 15 – 27</h4>
-                                    <p>Read the text below and answer Questions 15-20.
-                                    </p>
+                                    <h4 class="mt-0">SECTION 2 Questions 15 – 27</h4>
                                 </div>
 
                                 <div class="col-lg-6">
                                     <div class="card-box height">
+                                        <h5 class="mt-0 mb-3">Read the text below and answer Questions 15-20.</h5>
                                         <h3 class="mt-0 text-center">JOB SEARCH</h3>
                                         <div class="row mt-3">
                                             <div class="col-lg-6">
@@ -351,7 +435,66 @@
                                                 </div>
                                             </div>
                                         </div>
+                                        
+                                        <div class="pt-1 bg-dark my-2"></div>
 
+                                        <h5 class="mb-3">Read the text below and answer Questions 21-27.</h5>
+                                        
+                                        <div class="row">
+                                            <div class="col-12">
+                                                <h4 class="text-center"><u>TERMS OF EMPLOYMENT</u></h4>
+
+                                                <p class="font-weight-bold mb-0">Length of Agreement</p>
+                                                <p>
+                                                    Your employment will commence on 1<sup>st</sup> Jan 2012 until 31<sup>st</sup> December 2012 There is a probationary period of three calendar months, during which time either party can terminate this agreement by giving at least two weeks’ notice in writing. In the case of giving notice, a clear reason must be stated by either party to this agreement.
+                                                </p>
+
+                                                <p class="font-weight-bold mb-0">Remuneration</p>
+                                                <p>
+                                                    Your monthly income will be <span class="font-weight-bold">$2,100</span> per month gross.
+                                                </p>
+
+                                                <p class="font-weight-bold mb-0">Working Month</p>
+                                                <p>
+                                                    You will be expected to work an average of 87 contact hours per calendar month. Any work-load above the average 87 hours in any one quarter period will be paid at over-time rate of $30 per hour. Overtime payment will be made at the end of each quarter (March, June, September, December)
+                                                </p>
+
+                                                <p class="font-weight-bold mb-0">Recreational Leave</p>
+                                                <p>
+                                                    You will be entitled to <span class="font-weight-bold">15</span> working days paid recreational leave. You are asked to co-ordinate your leave in line with the quieter working periods.
+                                                </p>
+
+                                                <p class="font-weight-bold mb-0">Sick Leave</p>
+                                                <p>
+                                                    You will be entitled to <span class="font-weight-bold">30</span> days paid sick leave. Three or more consecutive days’ absence due to sickness will require a medical certificate. 
+                                                </p>
+
+                                                <p class="font-weight-bold mb-0">Legal working status</p>
+                                                <p>
+                                                    The employer will cover all costs incurred as a result of processes deemed necessary by law to ensure that your working status will be completely legal.
+                                                </p>
+
+                                                <p class="font-weight-bold mb-0">Insurance</p>
+                                                <p>
+                                                The employer will provide group medical insurance from a reputable insurance agency.
+                                                </p>
+                                                </p>
+
+                                                <p class="font-weight-bold mb-0">Termination</p>
+                                                <p class="mb-0">
+                                                    <span class="font-weight-bold">[1]</span> You will be required to provide written notice to terminate this contract at least one calendar month prior to termination of your employment.
+                                                </p>
+                                                <p class="mb-0">
+                                                    <span class="font-weight-bold">[2]</span> The employer is required to give you one calendar month’s notice of termination of your employment in writing, except in the case of <span class="font-weight-bold">[4]</span> below.
+                                                </p>
+                                                <p class="mb-0">
+                                                    <span class="font-weight-bold">[3]</span> The employer is required to give you one calendar month’s notice of renewal / non-renewal of your employment in writing prior to the expiry of this agreement.
+                                                </p>
+                                                <p>
+                                                    <span class="font-weight-bold">[4]</span> If you are found guilty of gross professional misconduct or of not maintaining required standards, the employer reserves the right to terminate this agreement immediately with payment being made up to and including the date of dismissal.
+                                                </p>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -365,13 +508,13 @@
                         <div class="tab-pane" id="section3">
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <h4 class="mt-0 mb-0">SECTION 3 Questions 28 – 40</h4>
-                                    <p>Read the text below and answer Questions 28 – 40.
-                                    </p>
+                                    <h4 class="mt-0">SECTION 3 Questions 28 – 40</h4>
                                 </div>
 
                                 <div class="col-lg-6 ">
                                     <div class="card-box height">
+                                        
+                                        <h5 class="mt-0 mb-3">Read the text below and answer Questions 28 – 40.</h5>
                                         <p class="d-flex">
                                             <span class="font-weight-bold mr-2">A.</span>
                                             <span class="text-justify">By the year 2020, an estimated two billion people – more than a third of the world's population - will speak English. For some 500 million people, the majority of whom are living in the United States and the United Kingdom, English will be their first language. But for another 1.5 billion, English will be a second or even third language, essential to both their professional and their personal lives.</span>

@@ -62,13 +62,13 @@
                         <div class="tab-pane" id="section1">
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <h4 class="mt-0 mb-0">SECTION 1 Questions 1 – 14</h4>
-                                    <p>
-                                        Read the text below and answer Questions 1-6.
-                                    </p>
+                                    <h4 class="mt-0">SECTION 1 Questions 1 – 14</h4>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="card-box height" id="sandbox">
+                                        <h5 class="mt-0 mb-3">
+                                            Read the text below and answer Questions 1-6.
+                                        </h5>
                                         <h4 class="mt-0 text-center font-16">WELCOME TO Kingsway Shopping Mall: the Future of Shopping!</h4>
                                         <h5 class="text-center">Take a look at some of the shops in the Mall:</h5>
 
@@ -158,6 +158,117 @@
                                             </div>
                                         </div>
 
+                                        <div class="pt-1 bg-dark my-2"></div>
+
+                                        <h5 class="mb-3">Read the text below and answer Questions 7-14.</h5>
+                                        <div>
+                                            <h5 class="text-center">KINGSWAY SHOPPING MALL OPENING CELEBRATION!</h5>
+                                            <div class="row">
+                                                <div class="col-2">
+                                                    When:
+                                                </div>
+                                                <div class="col-10">
+                                                    SATURDAY 23 JULY (doors open 10.00 am)
+                                                </div>
+                                                <div class="col-2">
+                                                    Where:
+                                                </div>
+                                                <div class="col-10">
+                                                    Kingsway Shopping Mall
+                                                </div>
+                                            </div>
+
+                                            <p class="mb-0 mt-3">Programme of events:</p>
+                                            <div class="row mb-2">
+                                                <div class="col-4">
+                                                    10.00 – 11.00 am
+                                                </div>
+                                                <div class="col">
+                                                    <span class="font-weight-bold">Crazy Sale</span> <br> Everything in the Fashion Mall at 50% Discount.
+                                                </div>
+                                            </div>
+                                            <div class="row mb-2">
+                                                <div class="col-4">
+                                                    11.00
+                                                </div>
+                                                <div class="col">
+                                                    Opening speech by the Lord Mayor of Kingsway
+                                                </div>
+                                            </div>
+                                            <div class="row mb-2">
+                                                <div class="col-4">
+                                                    11.15 – 12.30
+                                                </div>
+                                                <div class="col">
+                                                    <span class="font-weight-bold">Talent Competition</span> <br>
+                                                    For children aged  5 – 10 years old <br>
+                                                    <span class="font-weight-bold">TO BE RECORDED LIVE ON KINGSWAY TV</span>
+                                                </div>
+                                            </div>
+                                            <div class="row mb-2">
+                                                <div class="col-4">
+                                                    12.30 – 1.30 pm
+                                                </div>
+                                                <div class="col">
+                                                    <span class="font-weight-bold">BUFFET LUNCH</span> <br>
+                                                    A wide selection prepared by the Mall’s food outlets including
+                                                    <ul class="mb-0">
+                                                        <li>Curry dishes</li>
+                                                        <li>Fish and chips</li>
+                                                        <li>Pizza and spaghetti</li>
+                                                        <li>Puddings and desserts</li>
+                                                        <li>Vegetarian food also available.</li>
+                                                        <li>Just $5.00 per person – children under 10 free.</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="row mb-2">
+                                                <div class="col-4">
+                                                    1.30 – 2.30 pm
+                                                </div>
+                                                <div class="col">
+                                                    <span class="font-weight-bold">3 on 1 Basketball Tournament</span> <br>
+                                                    Ages: 12 – 16 years, boys and girls mixed teams
+                                                </div>
+                                            </div>
+                                            <div class="row mb-2">
+                                                <div class="col-4">
+                                                    2.30 – 4.00
+                                                </div>
+                                                <div class="col">
+                                                    <span class="font-weight-bold">Fashion Show</span> <br>
+                                                    Cat-walk models show off some of the Mall’s high fashion followed <br>
+                                                    By Young Model of the Year competition
+                                                </div>
+                                            </div>
+                                            <div class="row mb-2">
+                                                <div class="col-4">
+                                                    4.00 – 6.00
+                                                </div>
+                                                <div class="col">
+                                                    <span class="font-weight-bold">Pet Show</span> <br>
+                                                    All animals welcome <br>
+                                                    Prizes for top 3 pets
+                                                </div>
+                                            </div>
+                                            <div class="row mb-2">
+                                                <div class="col-4">
+                                                    6.00 – 9.00	
+                                                </div>
+                                                <div class="col">
+                                                    <span class="font-weight-bold">SHOP TILL YOU DROP!</span> <br>
+                                                    Fabulous discounts on all items in all stores
+                                                </div>
+                                            </div>
+                                            <div class="row mb-2">
+                                                <div class="col-4">
+                                                    9.00 – 10.00 pm
+                                                </div>
+                                                <div class="col">
+                                                    <span class="font-weight-bold">FIREWORKS DISPLAY</span>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -171,13 +282,12 @@
                         <div class="tab-pane" id="section2">
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <h4 class="mt-0 mb-0">SECTION 2 Questions 15 – 27</h4>
-                                    <p>Read the text below and answer Questions 15-20.
-                                    </p>
+                                    <h4 class="mt-0">SECTION 2 Questions 15 – 27</h4>
                                 </div>
 
                                 <div class="col-lg-6">
                                     <div class="card-box height">
+                                        <h5 class="mt-0 mb-3">Read the text below and answer Questions 15-20.</h5>
                                         <h3 class="mt-0 text-center">JOB SEARCH</h3>
                                         <div class="row mt-3">
                                             <div class="col-lg-6">
@@ -329,7 +439,134 @@
                                                 </div>
                                             </div>
                                         </div>
+                                        
+                                        <div class="pt-1 bg-dark my-2"></div>
 
+                                        <div class="row">
+                                            <div class="col-12">
+                                                <h5 class="mb-3">Read the text below and answer Questions 21-27.</h5>
+                                        
+                                                <div class="border p-2 font-13">
+                                                    <h4 class="text-center mt-0">Curriculum Vitae</h4>
+                                                    <div class="row">
+                                                        <div class="col-4 font-weight-bold">Name:</div>
+                                                        <div class="col">
+                                                            Pauline Jones
+                                                        </div>
+                                                    </div>
+                                                    <div class="row">
+                                                        <div class="col-4 font-weight-bold">d.o.b.:</div>
+                                                        <div class="col">
+                                                            19 February 1989
+                                                        </div>
+                                                    </div>
+                                                    <div class="row">
+                                                        <div class="col-4 font-weight-bold">Address:</div>
+                                                        <div class="col">
+                                                            17 Madison Square, Clevedon, Perth, 6148 Western Australia
+                                                        </div>
+                                                    </div>
+                                                    <div class="row">
+                                                        <div class="col-4 font-weight-bold">Contact number:</div>
+                                                        <div class="col">
+                                                            085 983426 (evenings only)
+                                                        </div>
+                                                    </div>
+                                                    <div class="row">
+                                                        <div class="col-4 font-weight-bold">e-mail:</div>
+                                                        <div class="col">
+                                                            pauline.jones@kmail.net
+                                                        </div>
+                                                    </div>
+                                        
+                                                    <br>
+                                        
+                                                    <div class="row">
+                                                        <div class="col-4 font-weight-bold">Education:</div>
+                                                        <div class="col">
+                                                            <div class="row">
+                                                                <div class="col-4">2006 – 2010</div>
+                                                                <div class="col">Clevedon High School</div>
+                                                            </div>
+                                                            <div class="row">
+                                                                <div class="col-4">2011</div>
+                                                                <div class="col">Vocational College Diploma in IT (computer programming)</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                        
+                                                    <br>
+                                        
+                                                    <div class="row">
+                                                        <div class="col-4 font-weight-bold">Work experience:</div>
+                                                        <div class="col">
+                                                            <div class="row">
+                                                                <div class="col-4">2012 – now </div>
+                                                                <div class="col">Austech IT Services Assistant programmer</div>
+                                                            </div>
+                                                            <div class="row">
+                                                                <div class="col-4">2008 – 2010</div>
+                                                                <div class="col">Selley’s Catering Services Waitress (Part-time)</div>
+                                                            </div>
+                                                            <div class="row">
+                                                                <div class="col-4">2006 – 2008</div>
+                                                                <div class="col">Clevedon Post Office Counter assistant (Evenings and weekends)</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                        
+                                                    <br>
+                                        
+                                                    <div class="row">
+                                                        <div class="col-4 font-weight-bold">Other skills:</div>
+                                                        <div class="col">
+                                                            High degree of IT proficiency <br>
+                                                            Confident and hard-working <br>
+                                                            Able to work effectively as part of a team <br>
+                                                            Flexible work hours <br>
+                                                            Willing to work in any location
+                                                        </div>
+                                                    </div>
+                                        
+                                                    <br>
+                                        
+                                                    <div class="row">
+                                                        <div class="col-4 font-weight-bold">Hobbies:</div>
+                                                        <div class="col">
+                                                            Swimming <br>
+                                                            Reading fiction <br>
+                                                            Playing guitar 
+                                                        </div>
+                                                    </div>
+                                        
+                                                    <br>
+                                        
+                                                    <div class="row">
+                                                        <div class="col-4 font-weight-bold">Referees:</div>
+                                                        <div class="col">
+                                                            <div class="row">
+                                                                <div class="col">
+                                                                    Ms Justine Thyme <br>
+                                                                    Clevedon Post Office <br>
+                                                                    High Street <br>
+                                                                    Clevedon <br>
+                                                                    j.thyme@yahoo .com
+                                                                </div>
+                                                                <div class="col">
+                                                                    Peter Jones <br>
+                                                                    CEO Austech IT Services <br>
+                                                                    The Mall <br>
+                                                                    Shenton <br>
+                                                                    peter@austech.com
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <p class="mb-0">I am available for interview at any time.</p>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -344,12 +581,11 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <h4 class="mt-0 mb-0">SECTION 3 Questions 28 – 40</h4>
-                                    <p>Read the text below and answer Questions 28 – 40.
-                                    </p>
                                 </div>
 
                                 <div class="col-lg-6 ">
                                     <div class="card-box height">
+                                        <h5 class="mt-0 mb-3">Read the text below and answer Questions 28 – 40.</h5>
                                         <h4>Calcutta</h4>
                                         <p class="text-justify font-weight-bold">
                                             <span class="mr-2">A</span>

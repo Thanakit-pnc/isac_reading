@@ -48,39 +48,6 @@
 <hr>
 
 <!-- Questions 7 - 14 -->
-<h4 class="mb-1">Questions 7 - 14</h4>
-<p>Read the following descriptions of new books and answer Questions 7 – 14.</p>
-
-<div class="border border-dark p-2">
-    <h4 class="text-center mt-0">NEW BOOKS</h4>
-    <p class="d-flex">
-        <span class="mr-2">A.</span> An auto-biography by Jennie Smith, solo yachts-woman as she travelled around the globe from Perth to Southampton. An insight into the trials and tribulations of undertaking such a journey single-handedly.
-    </p>
-    <p class="d-flex">
-        <span class="mr-2">B.</span> A cook book with a difference: how to survive in the outback using Aboriginal skills to find hidden food and water sources. Includes a list of edible and non-edible plants with illustrations.
-    </p>
-    <p class="d-flex">
-        <span class="mr-2">C.</span> A biography of how a famous athlete battled a terminal illness and achieved number one status in his sport.
-    </p>
-    <p class="d-flex">
-        <span class="mr-2">D.</span> A series of inspirational short stories about migrants who arrived in Australia with only the clothes they were wearing and achieved respect and wealth through hard work and their ability to integrate into their new country.
-    </p>
-    <p class="d-flex">
-        <span class="mr-2">E.</span> Ever faced an emergency in the home and not know how to respond? This concise manual describes a number of real-life crises around the house and garden, with suggestions for dealing with them.
-    </p>
-    <p class="d-flex">
-        <span class="mr-2">F.</span> Guidelines for families on a tight budget, including ways to reduce household bills and smart shopping techniques.
-    </p>
-    <p class="d-flex">
-        <span class="mr-2">G.</span> A list of species which have become extinct over the last fifty years and strategies we need to put into place to protect currently endangered species.
-    </p>
-    <p class="d-flex">
-        <span class="mr-2">H.</span> Suggestions for using plants to keep the temperatures around your home at a comfortable level. Includes a list of suitable trees and plants to suit a variety of different growing conditions for all states in Australia. 
-    </p>
-</div>
-
-<hr>
-
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 7 - 14</h4>
 <p class="mb-0">Choose the correct title for each of the books.</p>
 <p>For Questions 7-14, select the correct number, i – xii.</p>

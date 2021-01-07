@@ -66,13 +66,13 @@
                         <div class="tab-pane" id="section1">
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <h4 class="mt-0 mb-0">SECTION 1 Questions 1 – 14</h4>
-                                    <p>
-                                        Read the text below and answer Questions 1-6.
-                                    </p>
+                                    <h4 class="mt-0">SECTION 1 Questions 1 – 14</h4>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="card-box height" id="sandbox">
+                                        <h5 class="mt-0 mb-3">
+                                            Read the text below and answer Questions 1-6.
+                                        </h5>
                                         <div class="border border-dark px-2">
                                             <h4 class="text-center">SPONSORED RUN</h4>
                                             <p class="mb-0">
@@ -148,7 +148,39 @@
                                                     Enjoy a BBQ after the event. Spectators and families welcome! (Meat sponsored by Mason’s Family Butchers; all drinks provided free by Pearson Mini-Mart)
                                                 </div>
                                             </div>
+                                        </div>
 
+                                        
+                                        <div class="pt-1 bg-dark my-3"></div>
+
+                                        <h5 class="mb-3">Read the following descriptions of new books and answer <br> Questions 7 – 14.</h5>
+
+                                        <div class="border border-dark p-2">
+                                            <h4 class="text-center mt-0">NEW BOOKS</h4>
+                                            <p class="d-flex">
+                                                <span class="mr-2">A.</span> An auto-biography by Jennie Smith, solo yachts-woman as she travelled around the globe from Perth to Southampton. An insight into the trials and tribulations of undertaking such a journey single-handedly.
+                                            </p>
+                                            <p class="d-flex">
+                                                <span class="mr-2">B.</span> A cook book with a difference: how to survive in the outback using Aboriginal skills to find hidden food and water sources. Includes a list of edible and non-edible plants with illustrations.
+                                            </p>
+                                            <p class="d-flex">
+                                                <span class="mr-2">C.</span> A biography of how a famous athlete battled a terminal illness and achieved number one status in his sport.
+                                            </p>
+                                            <p class="d-flex">
+                                                <span class="mr-2">D.</span> A series of inspirational short stories about migrants who arrived in Australia with only the clothes they were wearing and achieved respect and wealth through hard work and their ability to integrate into their new country.
+                                            </p>
+                                            <p class="d-flex">
+                                                <span class="mr-2">E.</span> Ever faced an emergency in the home and not know how to respond? This concise manual describes a number of real-life crises around the house and garden, with suggestions for dealing with them.
+                                            </p>
+                                            <p class="d-flex">
+                                                <span class="mr-2">F.</span> Guidelines for families on a tight budget, including ways to reduce household bills and smart shopping techniques.
+                                            </p>
+                                            <p class="d-flex">
+                                                <span class="mr-2">G.</span> A list of species which have become extinct over the last fifty years and strategies we need to put into place to protect currently endangered species.
+                                            </p>
+                                            <p class="d-flex">
+                                                <span class="mr-2">H.</span> Suggestions for using plants to keep the temperatures around your home at a comfortable level. Includes a list of suitable trees and plants to suit a variety of different growing conditions for all states in Australia. 
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -163,12 +195,12 @@
                         <div class="tab-pane" id="section2">
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <h4 class="mt-0 mb-0">SECTION 2 Questions 15 – 27</h4>
-                                    <p>Read the text below and answer Questions 15 to 21.</p>
+                                    <h4 class="mt-0">SECTION 2 Questions 15 – 27</h4>
                                 </div>
 
                                 <div class="col-lg-6">
                                     <div class="card-box height">
+                                        <h5 class="mt-0 mb-3">Read the text below and answer Questions 15 to 21.</h5>
                                         <h4 class="mt-0">Qualities of a good CNA (Certified Nurse’s Assistant)</h4>
                                         <p class="text-justify">
                                             There’s a variety of different types of nurses you can be. The one at the top is a nurse practitioner (NP), which can be obtained with a master’s degree. NP’s are at or close the level of a doctor and can prescribe medicine, with concomitant high remuneration. Then there are registered nurses (RN), who are required to complete nursing school and pass the NCLEX (National Council Licensure Examination). RN’s can administer medication that a doctor prescribes.
@@ -193,6 +225,53 @@
                                         <p class="text-justify">
                                             CNA’s should be prepared to handle all sorts of people, from different ages, genders and personalities. Some hospital guests, including those who’ve gone through a detoxification process (addressing addiction to alcohol, heroin, or prescription drugs) can be especially difficult to deal with. But a CNA needs to be prepared to handle them all, regardless of the circumstances.
                                         </p>
+
+                                        <div class="pt-1 bg-dark my-3"></div>
+
+                                        <div class="row">
+                                            <div class="col-12">
+                                                <h5 class="mt-0 mb-3">Read the text below and answer Questions 22 to 27.</h5>
+                                                <h4 class="mb-0">Minimum Wage</h4>
+                                                <p>The National Minimum Wage (NMW) is a minimum amount per hour that most workers in the UK are entitled to be paid. </p>
+                                                <h4 class="mb-0">Entitlement to the NMW</h4>
+                                                <p>Most workers in the UK over school leaving age are legally entitled to be paid at least the NMW and all employers have to pay it to you if you are entitled to it. It makes no difference:</p>
+                                                <ul class="mb-0">
+                                                    <li>if you are paid weekly or monthly, by cheque, in cash or in another way</li>
+                                                    <li>if you work full time, part time or any other working pattern</li>
+                                                    <li>if you work at your employer’s own premises or elsewhere</li>
+                                                    <li>what size your employer is</li>
+                                                    <li>where you work in the UK</li>
+                                                </ul>
+                                                <p>
+                                                    You are entitled to the NMW even if you sign a contract agreeing to be paid at a lower rate. 
+                                                </p>
+                                                <h4 class="mb-0">Who is a worker for NMW purposes?</h4>
+                                                <p>You will be a worker who is entitled to the NMW if:</p>
+                                                <ul class="mb-0">
+                                                    <li>you have a contract of employment</li>
+                                                    <li>you have a contract to perform work or provide services personally for your employer</li>
+                                                    <li>you are not self-employed under the contract</li>
+                                                </ul>
+                                                <p>The contract does not have to be in writing, it can be oral or implied. </p>
+                                                <h4 class="mb-0">People not entitled to the National Minimum Wage</h4>
+                                                <p>Below is a list of people who are not entitled to be paid the National Minimum Wage (NMW). </p>
+                                                <h4 class="mb-0">Self-employed</h4>
+                                                <p>If you are self-employed you are not entitled to receive the National Minimum Wage. If you believe you are a worker but your ‘employer’ says you are self-employed, they are responsible for proving you are self-employed if a National Minimum Wage dispute goes to an Employment Tribunal or civil court.</p>
+                                                <h4 class="mb-0">Volunteers</h4>
+                                                <p>
+                                                    You are likely to be a volunteer if you do not have an employment or worker's contract (e.g. you are not a worker). It doesn’t matter who you volunteer for; it can be anyone, not just voluntary        organisations. Just because you are described as a volunteer does not necessarily mean that you are not entitled to the National Minimum Wage. If the arrangements under which you ‘volunteer’ add up to an employment or worker's contract, you will be entitled to the National Minimum Wage.
+                                                </p>
+                                                <h4 class="mb-0">Voluntary workers</h4>
+                                                <p>
+                                                    Voluntary workers are different to volunteers for National Minimum Wage purposes. For National Minimum Wage purposes, to be a voluntary worker you must have an employment contract or contract to perform work or provide services for a charity, voluntary organisation, associated fund raising body or statutory body. You should receive no more than limited expenses and benefits in kind and are not entitled to be paid the National Minimum Wage.
+                                                </p>
+                                                <h4 class="mb-0">Work experience</h4>
+                                                <p>
+                                                    If you are a student doing work experience as part of a higher or further education course you are not entitled to the National Minimum Wage if the work experience doesn’t last longer than a year.
+                                                </p>
+                                            </div>
+                                        </div>
+
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -206,13 +285,12 @@
                         <div class="tab-pane" id="section3">
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <h4 class="mt-0 mb-0">SECTION 3 Questions 28 – 40</h4>
-                                    <p>Read the text below and answer Questions 28 – 40.
-                                    </p>
+                                    <h4 class="mt-0">SECTION 3 Questions 28 – 40</h4>
                                 </div>
 
                                 <div class="col-lg-6 ">
                                     <div class="card-box height">
+                                        <h5 class="mt-0 mb-3">Read the text below and answer Questions 28 – 40.</h5>
                                         <h4 class="mt-0">The Dreamtime</h4>
                                         <p class="text-justify">
                                             According to Australian Aboriginal belief, all life as we know it today, human, bird, animal and fish, is part of one unchanging, related network whose origin goes back to what the Aborigines refer to as the Dreamtime. <br>
