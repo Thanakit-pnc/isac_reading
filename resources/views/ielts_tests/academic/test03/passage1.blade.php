@@ -204,7 +204,7 @@
 <p class="mb-0">Complete the following passage using words from the box.</p>
 <p>For Questions 11 – 14, select the letters a – h.</p>
 
-<div class="border p-2 w-75 mx-auto">
+<div class="border p-2 w-100 mx-auto">
     <div class="row">
         <div class="col-md-4">a. cartoon</div>
         <div class="col-md-4">b. popular</div>
