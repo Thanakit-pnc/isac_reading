@@ -191,7 +191,7 @@
 <div class="mt-1 d-flex">
     <label class="mr-1">26.</label>
     <div>
-        <label>In the early twentieth century, why did the water evaporate faster than expected?</label>
+        <label>In the early twenty-first century, why did the water evaporate faster than expected?</label>
         <div class="custom-control custom-radio">
             <input type="radio" id="q26-1" name="q26" class="custom-control-input" value="a">
             <label class="custom-control-label" for="q26-1">a. Because the sea had split into 4 smaller lakes.</label>

@@ -63,7 +63,7 @@
                                     </p>
                                 </div>
                                 <div class="col-lg-6">
-                                    <div class="card-box height" id="sandbox">
+                                    <div class="card-box height sandbox">
                                         <h3 class="mt-0">Diamonds</h3>
                                         <p class="text-justify">
                                             <span class="font-weight-bold mr-2">A</span>
@@ -121,7 +121,7 @@
                                 </div>
 
                                 <div class="col-lg-6">
-                                    <div class="card-box height">
+                                    <div class="card-box height sandbox">
                                         <h3 class="mt-0">The wealth of happiness</h3>
                                         <p class="text-justify">
                                         It comes as no surprise to learn from a study published this week that, although Britons are twice as rich as they were in 1987, they are no happier.
@@ -170,7 +170,7 @@
                                 </div>
 
                                 <div class="col-lg-6 ">
-                                    <div class="card-box height">
+                                    <div class="card-box height sandbox">
                                         <h3 class="mt-0">What’s on the menu for British diners?</h3>
                                         <p class="text-justify">
                                         Western diners should get used to the idea of eating insects because by 2020 it is "inevitable" they will form an important part of our diet, according to the entomologist who heads up the world's first university centre focusing on insects as a food source.      

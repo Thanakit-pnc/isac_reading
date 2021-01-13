@@ -25,7 +25,7 @@
             @endisset
         </div>
         <div class="col-md-6">
-            <div class="card-box font-16 text-dark overflow-custom">
+            <div class="card-box font-16 text-dark overflow-custom sandbox">
                 <p>
                 It comes as no surprise to learn from a study published this week that, although Britons are twice as rich as they were in 1987, they are no happier.
                 </p>

@@ -63,7 +63,7 @@
                                     </p>
                                 </div>
                                 <div class="col-lg-6">
-                                    <div class="card-box height" id="sandbox">
+                                    <div class="card-box height sandbox">
                                         <h3 class="mt-0">Comic strips</h3>
                                         <p class="text-justify">
                                             <span class="font-weight-bold mr-2">A</span>
@@ -133,7 +133,7 @@
                                 </div>
 
                                 <div class="col-lg-6">
-                                    <div class="card-box height">
+                                    <div class="card-box height sandbox">
                                         <h3 class="mt-0">Face blindness</h3>
                                         <p class="text-justify">
                                         Prosopagnosia is a disorder of face perception where the ability to recognize faces is impaired, while the ability to recognize other objects may be relatively intact. The term originally referred to a condition following acute brain damage, but a congenital form of the disorder has been proposed, which may be inherited by about 2.5% of the population. 
@@ -190,7 +190,7 @@
                                 </div>
 
                                 <div class="col-lg-6 ">
-                                    <div class="card-box height">
+                                    <div class="card-box height sandbox">
                                         <h3 class="mt-0">A meal to die for</h3>
                                         <p class="text-justify">
                                         In Japan, eating fugu (blowfish) is the ideal of gourmet dining and the cooking version of Russian roulette. But the fish is a popular delicacy in places outside Japan as well. A Japanese wholesaler exported the first 90 kg of vacuum-packed fugu to Hong Kong in October 1995.  Hong Kong is the second market to import fugu from Japan.  New York, which started importing the fish in 1989, currently sells about 1 tons of fugu every year, according to the wholesaler. Fugu's trade volume is rising because of people's curiosity in eating such fish.      

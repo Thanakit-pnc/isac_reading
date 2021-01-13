@@ -65,7 +65,7 @@
                                     <h4 class="mt-0">SECTION 1 Questions 1 – 14</h4>
                                 </div>
                                 <div class="col-lg-6">
-                                    <div class="card-box height">
+                                    <div class="card-box height sandbox">
 
                                         <div class="row">
                                             
@@ -222,7 +222,7 @@
                                 </div>
 
                                 <div class="col-lg-6">
-                                    <div class="card-box height">
+                                    <div class="card-box height sandbox">
                                         <div class="row">
                                             <div class="col-lg-12">
                                                 <h5 class="mt-0 mb-3">Read the text below and answer Questions 15-20.</h5>
@@ -291,7 +291,7 @@
                                 </div>
 
                                 <div class="col-lg-6 ">
-                                    <div class="card-box height">
+                                    <div class="card-box height sandbox">
                                         <h5 class="mt-0 mb-3">Read the text below and answer Questions 28 – 40.</h5>
                                         <h4>Marianne’s Visions</h4>
                                         <p class="text-justify">

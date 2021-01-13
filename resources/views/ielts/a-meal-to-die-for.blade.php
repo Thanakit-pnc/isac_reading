@@ -25,7 +25,7 @@
             @endisset
         </div>
         <div class="col-md-6">
-            <div class="card-box font-16 text-dark overflow-custom">
+            <div class="card-box font-16 text-dark overflow-custom sandbox">
                 <p>
                 In Japan, eating fugu (blowfish) is the ideal of gourmet dining and the cooking version of Russian roulette. But the fish is a popular delicacy in places outside Japan as well. A Japanese wholesaler exported the first 90 kg of vacuum-packed fugu to Hong Kong in October 1995.  Hong Kong is the second market to import fugu from Japan.  New York, which started importing the fish in 1989, currently sells about 1 tons of fugu every year, according to the wholesaler. Fugu's trade volume is rising because of people's curiosity in eating such fish. 
                 </p>

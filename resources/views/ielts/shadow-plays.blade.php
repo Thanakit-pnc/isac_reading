@@ -25,7 +25,7 @@
             @endisset
         </div>
         <div class="col-md-6">
-            <div class="card-box font-16 text-dark overflow-custom">
+            <div class="card-box font-16 text-dark overflow-custom sandbox">
                 <p>
                 Wayang is a generic term denoting traditional theatre in Indonesia. There is no evidence that wayang existed before Hinduism came to Southeast Asia sometime in the first century CE, brought in by Indian traders. The first record of a wayang performance is from an inscription dated 930 CE. However, there very well may have been indigenous storytelling traditions that had a profound impact on the development of the traditional puppet theatre. Certainly, from that time till today it seems certain features of traditional puppet theatre have remained.
                 </p>

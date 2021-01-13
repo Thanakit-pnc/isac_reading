@@ -25,7 +25,7 @@
             @endisset
         </div>
         <div class="col-md-6">
-            <div class="card-box font-16 text-dark overflow-custom">
+            <div class="card-box font-16 text-dark overflow-custom sandbox">
                 <p>
                 It is generally accepted that kites were first developed approximately 2,800 years ago in China, where materials ideal for kite building were readily available: silk fabric for sail material; fine, high-tensile-strength silk for flying line; and resilient bamboo for a strong, lightweight framework. The kite was said to be the invention of the famous 5th century BC Chinese philosophers Mozi and Lu Ban. By at least 549 AD paper kites were being flown, as it was recorded in that year a paper kite was used as a message for a rescue mission.  Ancient and medieval Chinese sources list other uses of kites for measuring distances, testing the wind, lifting men, signalling, and communication for military operations.  The earliest known Chinese kites were flat (not bowed) and often rectangular. Later, tailless kites incorporated a stabilizing bowline. Kites were decorated with mythological motifs and legendary figures; some were fitted with strings and whistles to make musical sounds while flying. 
                 </p>

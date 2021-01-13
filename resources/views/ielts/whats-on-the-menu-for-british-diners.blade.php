@@ -25,7 +25,7 @@
             @endisset
         </div>
         <div class="col-md-6">
-            <div class="card-box font-16 text-dark overflow-custom">
+            <div class="card-box font-16 text-dark overflow-custom sandbox">
                 <p>
                 Western diners should get used to the idea of eating insects because by 2020 it is "inevitable" they will form an important part of our diet, according to the entomologist who heads up the world's first university centre focusing on insects as a food source.
                 </p>

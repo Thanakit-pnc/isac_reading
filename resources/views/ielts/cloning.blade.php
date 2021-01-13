@@ -25,7 +25,7 @@
             @endisset
         </div>
         <div class="col-md-6">
-            <div class="card-box font-16 text-dark overflow-custom">
+            <div class="card-box font-16 text-dark overflow-custom sandbox">
                 <h4 class="text-center mt-0">CLONING: HAS TECHNOLOGY GONE TOO FAR?</h4>
                 <p>
                 When Jim Armstrong presented his paper to the congregation of scientists at a meeting in Canada recently, the reaction was a positive round of congratulations; the members of the society even voted to award him the conference's first prize. Every scientist in the conference room applauded Armstrong’s contribution to medical science but nobody seemed keen to pursue the one fact that made this experiment - in which he started with 17 microscopic embryos and multiplied them like magic into 48 - any different from those which preceded it. When the news hit the front pages of the national press, everyone focused on the one aspect that the scientists at the Canadian conference seemed willing to overlook: the cells Armstrong had manipulated came not from plant-life or pigs, rabbits or rats, but from human beings.

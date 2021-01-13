@@ -63,7 +63,7 @@
                                     </p>
                                 </div>
                                 <div class="col-lg-6">
-                                    <div class="card-box height" id="sandbox">
+                                    <div class="card-box height sandbox">
                                         <h3 class="mt-0">Dubai</h3>
                                         <p class="text-justify">
                                             <span class="font-weight-bold mr-2">A</span>
@@ -133,7 +133,7 @@
                                 </div>
 
                                 <div class="col-lg-6">
-                                    <div class="card-box height">
+                                    <div class="card-box height sandbox">
                                         <h3 class="mt-0">Insects as food: taboo or tradition?</h3>
                                         <p class="text-justify">
                                         If you think eating insects is gross, you may be in the cultural minority. Throughout history, people have relished and relied on insects as a source of food. Today, many cultures still do.
@@ -187,7 +187,7 @@
                                 </div>
 
                                 <div class="col-lg-6 ">
-                                    <div class="card-box height">
+                                    <div class="card-box height sandbox">
                                         <h3 class="mt-0">Synesthesia</h3>
                                         <p class="text-justify">
                                             <span class="font-weight-bold mr-2">A</span>

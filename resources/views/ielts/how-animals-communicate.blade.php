@@ -25,7 +25,7 @@
             @endisset
         </div>
         <div class="col-md-6">
-            <div class="card-box font-16 text-dark overflow-custom">
+            <div class="card-box font-16 text-dark overflow-custom sandbox">
                 <p>
                 Have you ever heard a fish talk? Have you ever seen monkeys speaking to each other? Well, perhaps not, but animals do ‘talk’ to each other. It’s just that they don’t use words and sentences like people do. Animals show their feelings and give out information in different ways. They use their senses to do this.
                 </p>

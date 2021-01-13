@@ -23,7 +23,9 @@ class HomeController extends Controller
         
         $buttons = $collection->chunk(10);
 
-        return view('home', ['buttons' => $buttons->all()]);
+        $no_highlight = 'no';
+
+        return view('home', ['buttons' => $buttons->all(), 'no_highlight' => $no_highlight]);
     }
 
     public function pdf($level, $fileName) {

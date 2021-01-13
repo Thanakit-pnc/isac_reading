@@ -18,8 +18,10 @@ class GeneralController extends Controller
             '4' => "General Training Test 04",
             '5' => "General Training Test 05",
         ];
+
+        $no_highlight = 'no';
         
-        return view('ielts_tests.index', compact('practices', 'type'));
+        return view('ielts_tests.index', compact('practices', 'type', 'no_highlight'));
     }
 
     // Test01

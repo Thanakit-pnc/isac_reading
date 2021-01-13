@@ -25,7 +25,7 @@
             @endisset
         </div>
         <div class="col-md-6">
-            <div class="card-box font-16 text-dark overflow-custom">
+            <div class="card-box font-16 text-dark overflow-custom sandbox">
                 <p>
                 The Aral Sea was a lake that lay between Kazakhstan in the north and Karakalpakstan, an autonomous region of Uzbekistan, in the south. The name roughly translates as "Sea of Islands", referring to more than 1,534 islands that once dotted its waters.
                 </p>
@@ -238,7 +238,7 @@
                 </div>
 
                 <div class="form-group">
-                    <label for="col-form-label" class="d-flex"><span class="mr-1">12.</span> In the early twentieth century, why did the water evaporate faster than expected?</label>
+                    <label for="col-form-label" class="d-flex"><span class="mr-1">12.</span> In the early twenty-first century, why did the water evaporate faster than expected?</label>
                     <div>
                         <div class="custom-control custom-radio">
                             <input type="radio" id="q12-1" name="q12" class="custom-control-input" value="A">

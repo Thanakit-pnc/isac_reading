@@ -25,7 +25,7 @@
             @endisset
         </div>
         <div class="col-md-6">
-            <div class="card-box font-16 text-dark overflow-custom">
+            <div class="card-box font-16 text-dark overflow-custom sandbox">
                 <p>
                 If you think eating insects is gross, you may be in the cultural minority. Throughout history, people have relished and relied on insects as a source of food. Today, many cultures still do. 
                 </p>

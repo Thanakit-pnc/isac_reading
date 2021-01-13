@@ -69,7 +69,7 @@
                                     <h4 class="mt-0">SECTION 1 Questions 1 – 14</h4>
                                 </div>
                                 <div class="col-lg-6">
-                                    <div class="card-box height" id="sandbox">
+                                    <div class="card-box height sandbox">
                                         <h5 class="mt-0 mb-3">
                                             Read the text below and answer Questions 1-6.
                                         </h5>
@@ -199,7 +199,7 @@
                                 </div>
 
                                 <div class="col-lg-6">
-                                    <div class="card-box height">
+                                    <div class="card-box height sandbox">
                                         <h5 class="mt-0 mb-3">Read the text below and answer Questions 15 to 21.</h5>
                                         <h4 class="mt-0">Qualities of a good CNA (Certified Nurse’s Assistant)</h4>
                                         <p class="text-justify">
@@ -289,7 +289,7 @@
                                 </div>
 
                                 <div class="col-lg-6 ">
-                                    <div class="card-box height">
+                                    <div class="card-box height sandbox">
                                         <h5 class="mt-0 mb-3">Read the text below and answer Questions 28 – 40.</h5>
                                         <h4 class="mt-0">The Dreamtime</h4>
                                         <p class="text-justify">

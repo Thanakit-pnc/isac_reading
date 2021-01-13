@@ -12,7 +12,9 @@ class IELTSTestController extends Controller
         
         $practices = IELTSTests::practices($type);
 
-        return view('ielts_tests.index', compact('practices'));
+        $no_highlight = 'no';
+
+        return view('ielts_tests.index', compact('practices', 'no_highlight'));
     }
 
     public function practice_test_01($mode) {

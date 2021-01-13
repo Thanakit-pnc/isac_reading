@@ -65,7 +65,7 @@
                                     <h4 class="mt-0">SECTION 1 Questions 1 – 14</h4>
                                 </div>
                                 <div class="col-lg-6">
-                                    <div class="card-box height" id="sandbox">
+                                    <div class="card-box height sandbox">
                                         <h5 class="mt-0 mb-3">
                                             Read the text below and answer Questions 1-6.
                                         </h5>
@@ -286,7 +286,7 @@
                                 </div>
 
                                 <div class="col-lg-6">
-                                    <div class="card-box height">
+                                    <div class="card-box height sandbox">
                                         <h5 class="mt-0 mb-3">Read the text below and answer Questions 15-20.</h5>
                                         <h3 class="mt-0 text-center">JOB SEARCH</h3>
                                         <div class="row mt-3">
@@ -584,7 +584,7 @@
                                 </div>
 
                                 <div class="col-lg-6 ">
-                                    <div class="card-box height">
+                                    <div class="card-box height sandbox">
                                         <h5 class="mt-0 mb-3">Read the text below and answer Questions 28 – 40.</h5>
                                         <h4>Calcutta</h4>
                                         <p class="text-justify font-weight-bold">

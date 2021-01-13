@@ -25,7 +25,7 @@
             @endisset
         </div>
         <div class="col-md-6">
-            <div class="card-box font-16 text-dark overflow-custom">
+            <div class="card-box font-16 text-dark overflow-custom sandbox">
                 <p>
                 <span class="font-weight-bold">Sniffer dogs</span> have been used at borders and airports for many years to sniff out the presence of illegal drugs and unwanted foodstuffs in passengers’ luggage. While not everyone welcomes the use of these animals in this intrusive manner, two recent studies have found a further way to exploit these natural skills. And no one is likely to question the benefits derived from such usage. The reason: sniffer dogs may be able to spot the early signs of cancer, well before the sufferers and the medical professionals ever could.
                 </p>

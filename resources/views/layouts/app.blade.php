@@ -56,6 +56,30 @@
             .line-height {
                 line-height: 1.9;
             }
+
+            .color-picker {
+                display: block;
+                margin: 10px 0 5px;
+                text-align: center;
+            }
+
+            .color-picker div {
+                width: 23px;
+                height: 23px;
+                border: 1px solid #111;
+                border-radius: 12px;
+                margin: 5px 8px;
+                display: inline-block;
+                cursor: pointer;
+            }
+
+            .color-picker div:hover {
+                border: 1px solid #444;
+            }
+
+            .color-picker div.selected {
+                box-shadow: #666 0 0 4px 2px;
+            }
         </style>
         @yield('css')
     </head>
@@ -67,7 +91,21 @@
 
             <!-- Topbar Start -->
             <div class="navbar-custom">
-                <div class="container-fluid">
+                <div class="container-fluid position-relative">
+                    
+                    @if(!isset($no_highlight))
+                    <div class="position-absolute d-flex justify-content-center align-items-center" style="top: 5px; left: 50%; transform: translateX(-50%);">
+                        <span class="text-white">Highlight : </span>
+                        <div class="color-picker mx-2">
+                            <div class="selected"></div>
+                            <div></div>
+                            <div></div>
+                            <div></div>
+                        </div>
+                        <button id="remove" class="btn btn-warning btn-sm">Remove All</button>
+                    </div>
+                    @endif
+
                     <ul class="list-unstyled topnav-menu float-right mb-0">
 
                         <li class="dropdown notification-list">
@@ -161,7 +199,30 @@
         <script src="{{ asset('public/assets/libs/sweetalert2/sweetalert2.min.js') }}"></script>
         <!-- Sweet alert init js-->
         <script src="{{ asset('public/assets/js/pages/sweet-alerts.init.js') }}"></script>
-        
+
+        @if(!isset($no_highlight))
+        <script type="text/javascript" src="{{ asset('public/assets/js/text-highlight/ColorPicker.js') }}"></script>
+        <script type="text/javascript" src="{{ asset('public/assets/js/text-highlight/TextHighlighter.js') }}"></script>
+        <script>
+            let removeBtn = document.getElementById('remove');
+            let sandbox = document.querySelectorAll('.sandbox');
+            
+            sandbox.forEach(sand => {
+                let colors = new ColorPicker(document.querySelector('.color-picker'));
+                let hltr = new TextHighlighter(sand);
+                colors.onColorChange(function (color) {
+                    hltr.setColor(color);
+                });
+
+                removeBtn.addEventListener('click', function () {
+                    hltr.removeHighlights();
+                });
+            })
+
+            
+        </script>
+        @endif
+
         @yield('javascript')
         <script>
             $('input[type="text"]').attr({

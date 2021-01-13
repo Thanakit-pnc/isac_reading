@@ -17,6 +17,8 @@ class GeneralController extends Controller
             $level = 'level_3';
         }
 
-        return view('general_english.'.$level);
+        $no_highlight = 'no';
+
+        return view('general_english.'.$level, compact('no_highlight'));
     } 
 }

@@ -27,7 +27,9 @@ class IELTSController extends Controller
             } 
         }
 
-        return view('ielts.index', ['exams' => $exams[$group]]);
+        $no_highlight = 'no';
+
+        return view('ielts.index', ['exams' => $exams[$group], 'no_highlight' => $no_highlight]);
     }
 
     // an environmental disaster

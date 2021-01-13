@@ -25,7 +25,7 @@
             @endisset
         </div>
         <div class="col-md-6">
-            <div class="card-box font-16 text-dark overflow-custom">
+            <div class="card-box font-16 text-dark overflow-custom sandbox">
                 <p>
                 <span class="font-weight-bold">A</span>
                 Synesthesia is a neurological condition in which stimulation of one sensory or cognitive pathway leads to automatic, involuntary experiences in a second sensory or cognitive pathway. People who report such experiences are known as synesthetes. Recently, difficulties have been recognized in finding an adequate definition of synesthesia, as many different phenomena have been covered by this term and in many cases the term synesthesia seems to be a misnomer. A more accurate term for the phenomenon may be ideasthesia.

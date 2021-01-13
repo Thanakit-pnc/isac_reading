@@ -19,7 +19,9 @@ class AcademicController extends Controller
             '5' => "Academic Test 05",
         ];
 
-        return view('ielts_tests.index', compact('practices', 'type'));
+        $no_highlight = 'no';
+
+        return view('ielts_tests.index', compact('practices', 'type', 'no_highlight'));
     }
 
     // Test01

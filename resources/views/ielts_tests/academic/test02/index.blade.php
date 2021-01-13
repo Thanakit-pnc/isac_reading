@@ -63,7 +63,7 @@
                                     </p>
                                 </div>
                                 <div class="col-lg-6">
-                                    <div class="card-box height" id="sandbox">
+                                    <div class="card-box height sandbox">
                                         <h3 class="mt-0">The Mysterious Kris</h3>
                                         <p class="text-justify">
                                             <span class="font-weight-bold mr-2">A</span>
@@ -127,7 +127,7 @@
                                 </div>
 
                                 <div class="col-lg-6">
-                                    <div class="card-box height">
+                                    <div class="card-box height sandbox">
                                         <h3 class="mt-0">An environmental disaster</h3>
                                         <p class="text-justify">
                                         The Aral Sea was a lake that lay between Kazakhstan in the north and Karakalpakstan, an autonomous region of Uzbekistan, in the south. The name roughly translates as "Sea of Islands", referring to more than 1,534 islands that once dotted its waters.
@@ -179,7 +179,7 @@
                                 </div>
 
                                 <div class="col-lg-6 ">
-                                    <div class="card-box height">
+                                    <div class="card-box height sandbox">
                                         <h3 class="mt-0">Body piercing: an act of self-mutilation?</h3>
                                         <p class="text-justify">
                                         Body piercing, a form of body modification, is the practice of puncturing or cutting a part of the human body, creating an opening in which jewellery may be worn. Although the history of body piercing is obscured by popular misinformation and by a lack of scholarly reference, ample evidence exists to document that it has been practised in various forms by both sexes since ancient times throughout the world. 

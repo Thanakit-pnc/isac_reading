@@ -63,7 +63,7 @@
                                     </p>
                                 </div>
                                 <div class="col-lg-6">
-                                    <div class="card-box height" id="sandbox">
+                                    <div class="card-box height sandbox">
                                         <h3 class="mt-0">Calcutta</h3>
                                         <p class="text-justify">
                                             <span class="font-weight-bold mr-2">A</span>
@@ -133,7 +133,7 @@
                                 </div>
 
                                 <div class="col-lg-6">
-                                    <div class="card-box height">
+                                    <div class="card-box height sandbox">
                                         <h3 class="mt-0">How animals communicate</h3>
                                         <p class="text-justify">
                                         Have you ever heard a fish talk? Have you ever seen monkeys speaking to each other? Well, perhaps not, but animals do ‘talk’ to each other. It’s just that they don’t use words and sentences like people do. Animals show their feelings and give out information in different ways. They use their senses to do this.
@@ -176,7 +176,7 @@
                                 </div>
 
                                 <div class="col-lg-6 ">
-                                    <div class="card-box height">
+                                    <div class="card-box height sandbox">
                                         <h3 class="mt-0">Water, Water Everywhere</h3>
                                         <p class="text-justify">
                                         Most of our planet is covered by water. There is so much of it that if all the mountains of the world were levelled and their debris dumped into the oceans, then the surface of the globe would be entirely submerged beneath water to a depth of several thousand metres. The great basins between the continents, in which all this water lies, are themselves more varied, topographically, than the surface of the land. The highest terrestrial mountain, Mount Everest, would fit into the deepest part of the ocean with its peak a kilometre beneath the surface. On the other hand, the biggest mountains in the sea are so high that they rise above the surface of the waters to form chains of islands. Mauna Kea, the highest of the Hawaiian volcanoes, measured from its base on the ocean floor, is more than 10,000 metres high and so can claim to be the highest mountain on the planet. 

@@ -25,7 +25,7 @@
             @endisset
         </div>
         <div class="col-md-6">
-            <div class="card-box font-16 text-dark overflow-custom">
+            <div class="card-box font-16 text-dark overflow-custom sandbox">
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">A</span>
                     <p>
@@ -328,8 +328,8 @@
                             </div>
                         </div>
 
-                        <div class="mt-3 line-height">
-                        The procedure of making the kris is much the same today as it was in the past, the only difference being the different <span class="font-weight-bold">11</span> 
+                        <div class="mt-3" style="line-height: 3rem;">
+                        Along a ‘Comic Strip Route’ established by the Brussels Tourist Board, wanderers can meet some of Belgium’s most  <span class="font-weight-bold">11</span> 
                         <div class="d-inline-block position-relative">
                             <select name="q11" class="form-control">
                                 <option value="">Select Answer</option>
@@ -343,7 +343,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        available today. A piece of metal is repeatedly heated and hammered until it is flat.  After this the blade is shaped, <span class="font-weight-bold">12</span>
+                        comic strip characters.  <span class="font-weight-bold">12</span>
                         <div class="d-inline-block position-relative">
                             <select name="q12" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -357,7 +357,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        , filed and polished, and any impurities are removed from the blade.  The finished blade is then placed in vinegar for at least 24 hours to enhance the engraved <span class="font-weight-bold">13</span>
+                        strips also enliven three of Brussels’ underground stations.  In the Stockel underground, two 135 metre long friezes  <span class="font-weight-bold">13</span>
                         <div class="d-inline-block position-relative">
                             <select name="q13" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -371,7 +371,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        .  The handle and cover are usually made from hard, fine-grained wood that both looks good and lasts a long time. In <span class="font-weight-bold">14</span>
+                        140 characters of Herge’s comic strips <span class="font-weight-bold">14</span>
                         <div class="d-inline-block position-relative">
                             <select name="q14" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -385,7 +385,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        days, horn and ivory were also occasionally utilized.
+                        the walls.
                         </div>
                     </div>
                 </div>

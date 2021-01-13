@@ -25,7 +25,7 @@
             @endisset
         </div>
         <div class="col-md-6">
-            <div class="card-box font-16 text-dark overflow-custom">
+            <div class="card-box font-16 text-dark overflow-custom sandbox">
                 <p>
                 Body piercing, a form of body modification, is the practice of puncturing or cutting a part of the human body, creating an opening in which jewellery may be worn. Although the history of body piercing is obscured by popular misinformation and by a lack of scholarly reference, ample evidence exists to document that it has been practised in various forms by both sexes since ancient times throughout the world.
                 </p>
