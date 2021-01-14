@@ -97,7 +97,7 @@
 <div class="mt-1 d-flex">
     <label class="mr-1">5.</label>
     <div>
-        <label>Which of the following did not take place in Belgium to celebrate the centenary of Brussels?</label>
+        <label>Which of the following did <strong class="font-weight-bold"><i><u>NOT</u></i></strong> take place in Belgium to celebrate the centenary of Brussels?</label>
         <div class="custom-control custom-radio">
             <input type="radio" id="q5-1" name="q5" class="custom-control-input" value="a">
             <label class="custom-control-label" for="q5-1">a. A large number of exhibitions were held.</label>
