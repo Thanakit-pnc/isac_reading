@@ -1,7 +1,7 @@
 <!-- Questionds 28 - 32 -->
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 28 – 32</h4>
 <p class="mb-0">Do the following statements agree with the information given in the passage?</p>
-<p>For Questions 28-32 select</p>
+<p>For Questions 28 - 32, select</p>
 
 <div class="row justify-content-center">
     <div class="col-md-auto">
@@ -156,6 +156,8 @@
         <option value="D">D</option>
     </select>
 </div>
+
+<hr>
 
 <!-- Questions 38 - 40 -->
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 38 – 40</h4>

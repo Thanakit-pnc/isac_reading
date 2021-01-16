@@ -8,19 +8,19 @@
         <label>Apart from being a weapon, a kris was also</label>
         <div class="custom-control custom-radio">
             <input type="radio" id="q1-1" name="q1" class="custom-control-input" value="a">
-            <label class="custom-control-label" for="q1-1">a. a royal insignia worn only at Court</label>
+            <label class="custom-control-label" for="q1-1">a. a royal insignia worn only at Court.</label>
         </div>
         <div class="custom-control custom-radio">
             <input type="radio" id="q1-2" name="q1" class="custom-control-input" value="b">
-            <label class="custom-control-label" for="q1-2">b. a religious symbol</label>
+            <label class="custom-control-label" for="q1-2">b. a religious symbol.</label>
         </div>
         <div class="custom-control custom-radio">
             <input type="radio" id="q1-3" name="q1" class="custom-control-input" value="c">
-            <label class="custom-control-label" for="q1-3">c. a reminder of Hang Tuah and other famous warriors</label>
+            <label class="custom-control-label" for="q1-3">c. a reminder of Hang Tuah and other famous warriors.</label>
         </div>
         <div class="custom-control custom-radio">
             <input type="radio" id="q1-4" name="q1" class="custom-control-input" value="d">
-            <label class="custom-control-label" for="q1-4">d. an indicator of a person's position in society</label>
+            <label class="custom-control-label" for="q1-4">d. an indicator of a person's position in society.</label>
         </div>
     </div>
 </div>
@@ -212,7 +212,7 @@
     </div>
 </div>
 
-<div class="d-inline-block mt-3" style="line-height: 1.8;">
+<div class="d-inline-block mt-3" style="line-height: 2rem;">
     The procedure of making the kris is much the same today as it was in the past, the only difference being the different 
     <label>11.</label> 
     <select name="q11" class="form-control w-auto d-inline-block">
@@ -226,7 +226,7 @@
         <option value="g">g</option>
         <option value="h">h</option>
     </select>
-    available today.  A piece of metal is repeatedly heated and hammered until it is flat.  After this the blade is shaped,
+    available today.  A piece of metal is repeatedly heated and hammered until it is flat. After this, the blade is shaped,
     <label>12.</label> 
     <select name="q12" class="form-control w-auto d-inline-block">
         <option value="">-Select-</option>

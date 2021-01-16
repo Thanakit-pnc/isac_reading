@@ -77,19 +77,19 @@
         <label>Where does the name ‘Calcutta’ come from?</label>
         <div class="custom-control custom-radio">
             <input type="radio" id="q4-1" name="q4" class="custom-control-input" value="a">
-            <label class="custom-control-label" for="q4-1">a. The name given by early settlers.</label>
+            <label class="custom-control-label" for="q4-1">a. The name given by early settlers</label>
         </div>
         <div class="custom-control custom-radio">
             <input type="radio" id="q4-2" name="q4" class="custom-control-input" value="b">
-            <label class="custom-control-label" for="q4-2">b. The name of a fishing village.</label>
+            <label class="custom-control-label" for="q4-2">b. The name of a fishing village</label>
         </div>
         <div class="custom-control custom-radio">
             <input type="radio" id="q4-3" name="q4" class="custom-control-input" value="c">
-            <label class="custom-control-label" for="q4-3">c. The place where weavers made textiles.</label>
+            <label class="custom-control-label" for="q4-3">c. The place where weavers made textiles</label>
         </div>
         <div class="custom-control custom-radio">
             <input type="radio" id="q4-4" name="q4" class="custom-control-input" value="d">
-            <label class="custom-control-label" for="q4-4">d. The name given by the merchant bankers.</label>
+            <label class="custom-control-label" for="q4-4">d. The name given by the merchant bankers</label>
         </div>
     </div>
 </div>
@@ -122,7 +122,7 @@
 <!-- Questions 6 - 10 -->
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 6 - 10</h4>
 <p class="mb-0">In which paragraphs can the following information be found?</p>
-<p>For Questions 6 – 10 select the letters A-H.</p>
+<p>For Questions 6 – 10, select the letters A-H.</p>
 
 <div class="text-right">Paragraph</div>
 

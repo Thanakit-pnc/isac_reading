@@ -74,7 +74,7 @@
 <div class="mt-1 d-flex">
     <label class="mr-1">4.</label>
     <div>
-        <label>Which of the following can you <strong class="font-weight-bold"><i><u>NOT</u></i></strong> see in the Belgian Centre for Comic Strips?</label>
+        <label>Which of the following can you <strong class="font-weight-bold mx-1"><i><u>NOT</u></i></strong> see in the Belgian Centre for Comic Strips?</label>
         <div class="custom-control custom-radio">
             <input type="radio" id="q4-1" name="q4" class="custom-control-input" value="a">
             <label class="custom-control-label" for="q4-1">a. Examples of work by Belgian comic strip artists of the late twentieth century.</label>
@@ -97,7 +97,7 @@
 <div class="mt-1 d-flex">
     <label class="mr-1">5.</label>
     <div>
-        <label>Which of the following did <strong class="font-weight-bold"><i><u>NOT</u></i></strong> take place in Belgium to celebrate the centenary of Brussels?</label>
+        <label>Which of the following did <strong class="font-weight-bold mx-1"><i><u>NOT</u></i></strong> take place in Belgium to celebrate the centenary of Brussels?</label>
         <div class="custom-control custom-radio">
             <input type="radio" id="q5-1" name="q5" class="custom-control-input" value="a">
             <label class="custom-control-label" for="q5-1">a. A large number of exhibitions were held.</label>

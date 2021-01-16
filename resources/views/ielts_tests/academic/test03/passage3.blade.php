@@ -1,7 +1,7 @@
 <!-- Questionds 28 - 32 -->
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 28 – 32</h4>
 <p class="mb-0">Do the following statements agree with the information given in the passage?</p>
-<p>For Questions 28-32 select</p>
+<p>For Questions 28 - 32, select</p>
 
 <div class="row justify-content-center">
     <div class="col-md-auto">
@@ -96,7 +96,7 @@
 <!-- Questions 33 - 37 -->
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 33 – 37</h4>
 <p class="mb-0">Classify the following statements as referring to the senses.</p>
-<p>For Questions 33 – 37, select a letter, A, B, or C.</p>
+<p>For Questions 33 – 37, select a letter A, B, or C.</p>
 
 <div class="d-flex flex-column">
     <strong class="font-weight-bold">A.	Fugu caught at sea</strong>
@@ -149,6 +149,8 @@
         <option value="C">C</option>
     </select>
 </div>
+
+<hr>
 
 <!-- Questions 38 - 40 -->
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 38 – 40</h4>

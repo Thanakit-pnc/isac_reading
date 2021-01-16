@@ -1,7 +1,7 @@
 <!-- Questionds 28 - 32 -->
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 28 – 32</h4>
 <p class="mb-0">Do the following statements agree with the information given in the passage?</p>
-<p>For Questions 28-32 select</p>
+<p>For Questions 28 - 32, select</p>
 
 <div class="row justify-content-center">
     <div class="col-md-auto">
@@ -247,7 +247,7 @@ of the ray, the basking shark, catches its food in much the same way. It grows e
     <option value="i">i</option>
     <option value="j">j</option>
 </select>
-through1000 tonnes of water in an hour. Its top speed is around 5 kilometres an hour, so slow that for a long time people thought it was merely
+through 1000 tonnes of water in an hour. Its top speed is around 5 kilometres an hour, so slow that for a long time people thought it was merely
 <label>40.</label>
 <select name="q40" class="form-control d-inline-block w-auto">
     <option value="">-Select-</option>

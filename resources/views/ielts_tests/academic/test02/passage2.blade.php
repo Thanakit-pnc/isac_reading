@@ -1,6 +1,6 @@
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 15 - 19</h4>
 <p class="mb-0">Do the following statements agree with the information given in the passage?</p>
-<p>For Questions 15 - 19 select</p>
+<p>For Questions 15 - 19, select</p>
 
 <div class="row justify-content-center">
     <div class="col-md-auto">
@@ -22,7 +22,7 @@
 <div class="d-flex mt-2">
     <label class="mr-1">15.</label>
     <div>
-        <label>here are more than fifteen hundred islands in the Aral Sea.</label>
+        <label>There are more than fifteen hundred islands in the Aral Sea.</label>
         <div class="d-flex align-items-center mb-2">
             <select name="q15" class="form-control w-auto">
                 <option value="">-Select-</option>
@@ -99,7 +99,7 @@
 <!-- Questions 20 - 24 -->
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 20 – 24</h4>
 <p class="mb-0">Classify the following statements as referring to the different years.</p>
-<p>For Questions 20 – 24 select a letter, A, B, C, or D.</p>
+<p>For Questions 20 – 24, select a letter A, B, C, or D.</p>
 <p>NB You may use each letter more than once.</p>
 
 <div class="d-flex flex-column">
