@@ -121,7 +121,7 @@
 <!-- Questions 6 - 10 -->
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 6 - 10</h4>
 <p class="mb-0">Identify the paragraphs which contain the following information. </p>
-<p>For Questions 6 to 10, select the letters A – H.</p>
+<p>For Questions 6 - 10, select the letters A – H.</p>
 
 <div class="text-right">Paragraph</div>
 

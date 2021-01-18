@@ -80,6 +80,15 @@
             .color-picker div.selected {
                 box-shadow: #666 0 0 4px 2px;
             }
+
+            hr {
+                border-width: 2px;
+                border-color: #666;
+            }
+
+            label {
+                font-weight: normal;
+            }
         </style>
         @yield('css')
     </head>

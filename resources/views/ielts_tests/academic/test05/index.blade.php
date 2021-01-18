@@ -117,7 +117,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="card-box height">
-                                        @include('ielts_tests.academic.test05.passage1')
+                                        @include('ielts_tests.academic.test05.passage1') 
                                     </div>
                                 </div>
                             </div>
@@ -128,7 +128,7 @@
                                 <div class="col-lg-12">
                                     <h4 class="mt-0 mb-0">READING PASSAGE 2</h4>
                                     <p>
-                                    You should spend about 20 minutes on <span class="font-weight-bold">Questions 15 - 27</span> , which are based on Reading Passage 2.
+                                    You should spend about 20 minutes on <span class="font-weight-bold">Questions 15 - 27</span>, which are based on Reading Passage 2.
                                     </p>
                                 </div>
 
