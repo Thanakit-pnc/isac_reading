@@ -3,28 +3,20 @@
 <p class="mb-0">Do the following statements agree with the information given in the passage?</p>
 <p>For Questions 28 – 32, select</p>
 
-<div class="row">
-    <div class="col-auto col-xl-3">
-        <strong class="font-weight-bold">TRUE</strong>
+<div class="row justify-content-center">
+    <div class="col-md-auto">
+        <div class="d-flex flex-column">
+            <strong class="font-weight-bold">TRUE</strong>
+            <strong class="font-weight-bold">FALSE</strong>
+            <strong class="font-weight-bold">NOT GIVEN</strong>
+        </div>
     </div>
-    <div class="col-auto col-xl-auto">
-        <p class="mb-0">if the statement agrees with the information</p>
-    </div>
-</div>
-<div class="row">
-    <div class="col-auto col-xl-3">
-        <strong class="font-weight-bold">FALSE</strong>
-    </div>
-    <div class="col-auto col-xl-auto">
-        <p class="mb-0">if the statement contradicts the information</p>
-    </div>
-</div>
-<div class="row">
-    <div class="col-auto col-xl-3">
-        <strong class="font-weight-bold">NOT GIVEN</strong>
-    </div>
-    <div class="col-auto col-xl-auto">
-        <p class="mb-0">if there is no information on this</p>
+    <div class="col-md-auto">
+        <div class="d-flex flex-column">
+            <p class="mb-0">if the statement agrees with the information</p>
+            <p class="mb-0">if the statement contradicts the information</p>
+            <p class="mb-0">if there is no information on this</p>
+        </div>
     </div>
 </div>
 
