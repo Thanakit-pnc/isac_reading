@@ -94,7 +94,7 @@
 <!-- Questions 22 - 27 -->
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 22 – 27</h4>
 <p class="mb-0 font-15">Decide which of the following would qualify for the National Minimum Wage.</p>
-<p>For Questions 22 to 27, select a letter, A or B.</p>
+<p>For Questions 22 - 27, select a letter, A or B.</p>
 
 <div class="row">
     <div class="col-auto border border-dark mx-auto">

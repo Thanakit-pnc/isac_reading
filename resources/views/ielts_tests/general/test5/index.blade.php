@@ -153,7 +153,7 @@
                                         
                                         <div class="pt-1 bg-dark my-3"></div>
 
-                                        <h5 class="mb-3">Read the following descriptions of new books and answer <br> Questions 7 – 14.</h5>
+                                        <h5 class="mb-3">Read the following descriptions of new books and answer Questions 7 – 14.</h5>
 
                                         <div class="border border-dark p-2">
                                             <h4 class="text-center mt-0">NEW BOOKS</h4>
@@ -200,7 +200,7 @@
 
                                 <div class="col-lg-6">
                                     <div class="card-box height sandbox">
-                                        <h5 class="mt-0 mb-3">Read the text below and answer Questions 15 to 21.</h5>
+                                        <h5 class="mt-0 mb-3">Read the text below and answer Questions 15 - 21.</h5>
                                         <h4 class="mt-0">Qualities of a good CNA (Certified Nurse’s Assistant)</h4>
                                         <p class="text-justify">
                                             There’s a variety of different types of nurses you can be. The one at the top is a nurse practitioner (NP), which can be obtained with a master’s degree. NP’s are at or close the level of a doctor and can prescribe medicine, with concomitant high remuneration. Then there are registered nurses (RN), who are required to complete nursing school and pass the NCLEX (National Council Licensure Examination). RN’s can administer medication that a doctor prescribes.

@@ -1,29 +1,21 @@
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 15 - 20</h4>
 <p class="mb-0">Do the following statements agree with the information given in the text?</p>
-<p>For Questions 15-21, select</p>
+<p>For Questions 15 - 21, select</p>
 
-<div class="row">
-    <div class="col-auto col-xl-3">
-        <strong class="font-weight-bold">TRUE</strong>
+<div class="row justify-content-center">
+    <div class="col-md-auto">
+        <div class="d-flex flex-column">
+            <strong class="font-weight-bold">TRUE</strong>
+            <strong class="font-weight-bold">FALSE</strong>
+            <strong class="font-weight-bold">NOT GIVEN</strong>
+        </div>
     </div>
-    <div class="col-auto col-xl-auto">
-        <p class="mb-0">If the statement agrees with the passage</p>
-    </div>
-</div>
-<div class="row">
-    <div class="col-auto col-xl-3">
-        <strong class="font-weight-bold">FALSE</strong>
-    </div>
-    <div class="col-auto col-xl-auto">
-        <p class="mb-0">If the statement contradicts the passage</p>
-    </div>
-</div>
-<div class="row">
-    <div class="col-auto col-xl-3">
-        <strong class="font-weight-bold">NOT GIVEN</strong>
-    </div>
-    <div class="col-auto col-xl-auto">
-        <p class="mb-0">If not enough information is given.</p>
+    <div class="col-md-auto">
+        <div class="d-flex flex-column">
+            <p class="mb-0">If the statement agrees with the passage</p>
+            <p class="mb-0">If the statement contradicts the passage</p>
+            <p class="mb-0">If not enough information is given.</p>
+        </div>
     </div>
 </div>
 
@@ -131,7 +123,7 @@
 <!-- Questions 22 - 25 -->
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 22 – 25</h4>
 <p class="mb-0">Find the numbers.</p>
-<p>For Questions 22 to 25 WRITE A NUMBER</p>
+<p>For Questions 22 - 25 <strong class="font-weight-bold">WRITE A NUMBER</strong></p>
 
 <div class="d-flex mt-2">
     <label class="mr-1">22.</label>

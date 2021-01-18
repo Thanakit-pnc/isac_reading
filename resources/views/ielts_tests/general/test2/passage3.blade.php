@@ -118,7 +118,7 @@
 <!-- Questions 33 - 37 -->
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 33 – 37</h4>
 <p class="mb-0">Identify the paragraphs which contain the following information. </p>
-<p>For Questions 33-37, select the letters A – J.</p>
+<p>For Questions 33 - 37, select the letters A – J.</p>
 
 <table class="table table-sm table-bordered text-dark">
     <thead>
@@ -130,7 +130,7 @@
     </thead>
     <tbody>
         <tr>
-            <td class="align-middle">33</td>
+            <td class="align-middle">33.</td>
             <td class="align-middle">A number of places around the world which she visited.</td>
             <td>
                 <select name="q33" class="form-control w-auto d-inline-block">
@@ -149,7 +149,7 @@
             </td>
         </tr>
         <tr>
-            <td class="align-middle">34</td>
+            <td class="align-middle">34.</td>
             <td class="align-middle">An evaluation of Marianne North’s painting skills.</td>
             <td>
                 <select name="q34" class="form-control w-auto d-inline-block">
@@ -168,7 +168,7 @@
             </td>
         </tr>
         <tr>
-            <td class="align-middle">35</td>
+            <td class="align-middle">35.</td>
             <td class="align-middle">A negative impact of her travels.</td>
             <td>
                 <select name="q35" class="form-control w-auto d-inline-block">
@@ -187,7 +187,7 @@
             </td>
         </tr>
         <tr>
-            <td class="align-middle">36</td>
+            <td class="align-middle">36.</td>
             <td class="align-middle">The time when she stayed in a ruler’s palace.</td>
             <td>
                 <select name="q36" class="form-control w-auto d-inline-block">
@@ -206,7 +206,7 @@
             </td>
         </tr>
         <tr>
-            <td class="align-middle">37</td>
+            <td class="align-middle">37.</td>
             <td class="align-middle">Two plants which are generally associated with the rainforest.</td>
             <td>
                 <select name="q37" class="form-control w-auto d-inline-block">
@@ -249,7 +249,7 @@
 
 <p class="d-inline-block mt-3" style="line-height: 2rem;">
     Brought up in an intellectual environment, she taught herself all about art and botany. She excelled in 
-    <label>38</label>
+    <label class="font-weight-bold">38</label>
     <select name="q38" class="form-control w-auto d-inline-block">
         <option value="">-Select-</option>
         <option value="a">a</option>
@@ -262,7 +262,7 @@
         <option value="h">h</option>
     </select>
     to such an extent that she had five species of plants named after her.  Although her paintings are colourful and vibrant, she was not a great artist in the accepted sense of the term.  But to 
-    <label>39</label>
+    <label class="font-weight-bold">39</label>
     <select name="q39" class="form-control w-auto d-inline-block">
         <option value="">-Select-</option>
         <option value="a">a</option>
@@ -275,7 +275,7 @@
         <option value="h">h</option>
     </select>
     her work in terms of the art alone is to miss the point.  Rather, it serves as a visible record of the extraordinary life of a woman who refused to conform to the
-    <label>40</label>
+    <label class="font-weight-bold">40</label>
     <select name="q40" class="form-control w-auto d-inline-block">
         <option value="">-Select-</option>
         <option value="a">a</option>

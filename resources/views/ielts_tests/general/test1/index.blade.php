@@ -603,7 +603,7 @@
 <script src="{{ asset('public/assets/js/pages/form-wizard.init.js') }}"></script>
 <script src="{{ asset('public/assets/js/wizard.js') }}"></script>
 <script>
-    $('.nav-item a[href="#section3"]').tab('show')
+    // $('.nav-item a[href="#section3"]').tab('show')
     
     $('#finish').on('click', function() {
         Swal({

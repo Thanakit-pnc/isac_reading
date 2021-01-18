@@ -69,7 +69,7 @@
 <div class="mt-1 d-flex">
     <label class="mr-1">34.</label>
     <div>
-        <label>Which of the following did NOT occur in the year of 2011?</label>
+        <label>Which of the following did <strong class="font-weight-bold">NOT</strong> occur in the year of 2011?</label>
         <div class="custom-control custom-radio">
             <input type="radio" id="q34-1" name="q34" class="custom-control-input" value="a">
             <label class="custom-control-label d-flex" for="q34-1"><span class="mr-1">a.</span> A cold front from the Antarctic brought a large amount of snowfall to the area.</label>
@@ -159,7 +159,7 @@
 
 <!-- Questions 38 - 40 -->
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 38 - 40</h4>
-<p>Type NO MORE THAN TWO WORDS for each answer.</p>
+<p>Type <strong class="font-weight-bold">NO MORE THAN TWO WORDS</strong> for each answer.</p>
 
 <p>
     Why is the Atacama Desert so dry? <br>

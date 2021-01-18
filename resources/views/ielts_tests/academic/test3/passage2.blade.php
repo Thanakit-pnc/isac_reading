@@ -157,7 +157,7 @@
 
 <!-- Questions 25 - 27 -->
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 25 – 27</h4>
-<p>Complete the sentences.</p>
+<p class="mb-0">Complete the sentences.</p>
 <p>Type <strong class="font-weight-bold">NO MORE THAN ONE WORD</strong> for each answer.</p>
 
 <div class="mt-1 d-flex align-items-baseline">

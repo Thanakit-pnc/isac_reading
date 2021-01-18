@@ -287,7 +287,7 @@
                         <div class="tab-pane" id="section3">
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <h4 class="mt-0 mb-0">SECTION 3 Questions 28 – 40</h4>
+                                    <h4 class="mt-0">SECTION 3 Questions 28 – 40</h4>
                                 </div>
 
                                 <div class="col-lg-6 ">
@@ -312,7 +312,7 @@
                                         </p>
                                         <p class="text-justify">
                                             <span class="font-weight-bold mr-2">E.</span>
-                                            <span>All this colour and beauty came about through grief.  North never married and devoted her life to caring for her father.  When he died, she was nearly 40 years old, reasonably wealthy and heartbroken.  To assuage her grief she travelled and painted. </span>
+                                            <span>All this colour and beauty came about through grief.  North never married and devoted her life to caring for her father.  When he died, she was nearly 40 years old, reasonably wealthy and heartbroken. To assuage her grief, she travelled and painted. </span>
                                         </p>
                                         <p class="text-justify">
                                             <span class="font-weight-bold mr-2">F.</span>

@@ -2,29 +2,20 @@
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 28 – 32</h4>
 <p>Decide if the following sentences are: </p>
 
-
-<div class="row">
-    <div class="col-auto col-xl-auto">
-        <strong class="font-weight-bold">TRUE</strong>
+<div class="row justify-content-center">
+    <div class="col-md-auto">
+        <div class="d-flex flex-column">
+            <strong class="font-weight-bold">TRUE</strong>
+            <strong class="font-weight-bold">FALSE</strong>
+            <strong class="font-weight-bold">NOT GIVEN</strong>
+        </div>
     </div>
-    <div class="col-auto col-xl-auto">
-        <p class="mb-0">If the statement agrees with the information in the passage.</p>
-    </div>
-</div>
-<div class="row">
-    <div class="col-auto col-xl-auto">
-        <strong class="font-weight-bold">FALSE</strong>
-    </div>
-    <div class="col-auto col-xl-auto">
-        <p class="mb-0">If the statement contradicts the information in the passage.</p>
-    </div>
-</div>
-<div class="row">
-    <div class="col-auto col-xl-auto">
-        <strong class="font-weight-bold">NOT GIVEN</strong>
-    </div>
-    <div class="col-auto col-xl-auto">
-        <p class="mb-0">If not enough information is given.</p>
+    <div class="col-md-auto">
+        <div class="d-flex flex-column">
+            <p class="mb-0">If the statement agrees with the information in the passage.</p>
+            <p class="mb-0">If the statement contradicts the information in the passage.</p>
+            <p class="mb-0">If not enough information is given.</p>
+        </div>
     </div>
 </div>
 
@@ -220,17 +211,17 @@
 
 <!-- Questions 38 - 40 -->
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 38 - 40</h4>
-<p>Type NO MORE THAN THREE WORDS for each answer.</p>
+<p>Type <strong class="font-weight-bold">NO MORE THAN THREE WORDS</strong> for each answer.</p>
 
 <p style="line-height: 2rem">
     According to the Dreamtime belief, all Aborigines have a relationship with an animal or a plant species. This animal or plant is known as the person’s
-    <label>38</label>
+    <label class="font-weight-bold">38</label>
     <input type="text" class="form-control w-auto d-inline-block" name="q38"> .
     The relationship with this creature helps the Aborigine to keep in contact with people who lived many years ago, known as the
-    <label>39</label>
+    <label class="font-weight-bold">39</label>
     <input type="text" class="form-control w-auto d-inline-block" name="q39"> .
     This communication takes the form of dancing, singing and wearing traditional costumes. But art also plays its part and the Wandjina rock paintings in Western Australia form part of this tradition. These large drawings represent rain, thunder and lightning, referred to as the 
-    <label>40</label>
+    <label class="font-weight-bold">40</label>
     <input type="text" class="form-control w-auto d-inline-block" name="q40"> .
     As long as the Aborigines take care of these paintings, they are ensured rain and fertility for future generations.
 </p>

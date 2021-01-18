@@ -3,11 +3,16 @@
 <p>For Questions 15 to 20, select a job number, 1 to 6.</p>
 
 <div class="row mb-2">
+    <div class="col-12 text-right font-weight-bold">
+        Job Number
+    </div>
+</div>
+
+<div class="row mb-2">
     <div class="col align-self-center">
-        <p class="mb-0 d-flex"><span class="font-weight-bold mr-1">15</span> This job is paid on an hourly basis.</p>
+        <p class="mb-0 d-flex"><span class="mr-1">15.</span> This job is paid on an hourly basis.</p>
     </div>
     <div class="col-auto ml-auto">
-        <p class="mb-0 mx-2 d-inline-block">Job number </p>
         <select name="q15" class="form-control w-auto d-inline-block">
             <option value="">-Select-</option>
             <option value="1">1</option>
@@ -22,10 +27,9 @@
 
 <div class="row mb-2">
     <div class="col align-self-center">
-        <p class="mb-0 d-flex"><span class="font-weight-bold mr-1">16</span> In this job you will be working with animals.</p>
+        <p class="mb-0 d-flex"><span class="mr-1">16.</span> In this job you will be working with animals.</p>
     </div>
     <div class="col-auto ml-auto">
-        <p class="mb-0 mx-2 d-inline-block">Job number </p>
         <select name="q16" class="form-control w-auto d-inline-block">
             <option value="">-Select-</option>
             <option value="1">1</option>
@@ -40,10 +44,9 @@
 
 <div class="row mb-2">
     <div class="col align-self-center">
-        <p class="mb-0 d-flex"><span class="font-weight-bold mr-1">17</span> For this job it’s good if you speak a foreign language. </p>
+        <p class="mb-0 d-flex"><span class="mr-1">17.</span> For this job it’s good if you speak a foreign language. </p>
     </div>
     <div class="col-auto ml-auto">
-        <p class="mb-0 mx-2 d-inline-block">Job number </p>
         <select name="q17" class="form-control w-auto d-inline-block">
             <option value="">-Select-</option>
             <option value="1">1</option>
@@ -58,10 +61,9 @@
 
 <div class="row mb-2">
     <div class="col align-self-center">
-        <p class="mb-0 d-flex"><span class="font-weight-bold mr-1">18</span> You can decide the hours you work in this job.</p>
+        <p class="mb-0 d-flex"><span class="mr-1">18.</span> You can decide the hours you work in this job.</p>
     </div>
     <div class="col-auto ml-auto">
-        <p class="mb-0 mx-2 d-inline-block">Job number </p>
         <select name="q18" class="form-control w-auto d-inline-block">
             <option value="">-Select-</option>
             <option value="1">1</option>
@@ -76,10 +78,9 @@
 
 <div class="row mb-2">
     <div class="col align-self-center">
-        <p class="mb-0 d-flex"><span class="font-weight-bold mr-1">19</span> This job pays a bonus.</p>
+        <p class="mb-0 d-flex"><span class="mr-1">19.</span> This job pays a bonus.</p>
     </div>
     <div class="col-auto ml-auto">
-        <p class="mb-0 mx-2 d-inline-block">Job number </p>
         <select name="q19" class="form-control w-auto d-inline-block">
             <option value="">-Select-</option>
             <option value="1">1</option>
@@ -94,10 +95,9 @@
 
 <div class="row">
     <div class="col align-self-center">
-        <p class="mb-0 d-flex"><span class="font-weight-bold mr-1">20</span> There is no weekend work with this job.	</p>
+        <p class="mb-0 d-flex"><span class="mr-1">20.</span> There is no weekend work with this job.	</p>
     </div>
     <div class="col-auto ml-auto">
-        <p class="mb-0 mx-2 d-inline-block">Job number </p>
         <select name="q20" class="form-control w-auto d-inline-block">
             <option value="">-Select-</option>
             <option value="1">1</option>
@@ -116,28 +116,20 @@
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 21 – 25</h4>
 <p>Decide if the following sentences are: </p>
 
-<div class="row">
-    <div class="col-auto col-xl-3">
-        <strong class="font-weight-bold">TRUE</strong>
+<div class="row justify-content-center">
+    <div class="col-md-auto">
+        <div class="d-flex flex-column">
+            <strong class="font-weight-bold">TRUE</strong>
+            <strong class="font-weight-bold">FALSE</strong>
+            <strong class="font-weight-bold">NOT GIVEN</strong>
+        </div>
     </div>
-    <div class="col-auto col-xl-auto">
-        <p class="mb-0">If the statement agrees with details in the CV</p>
-    </div>
-</div>
-<div class="row">
-    <div class="col-auto col-xl-3">
-        <strong class="font-weight-bold">FALSE</strong>
-    </div>
-    <div class="col-auto col-xl-auto">
-        <p class="mb-0">If the statement contradicts the details in the CV</p>
-    </div>
-</div>
-<div class="row">
-    <div class="col-auto col-xl-3">
-        <strong class="font-weight-bold">NOT GIVEN</strong>
-    </div>
-    <div class="col-auto col-xl-auto">
-        <p class="mb-0">If not enough information is given.</p>
+    <div class="col-md-auto">
+        <div class="d-flex flex-column">
+            <p class="mb-0">If the statement agrees with details in the CV</p>
+            <p class="mb-0">If the statement contradicts the details in the CV</p>
+            <p class="mb-0">If not enough information is given.</p>
+        </div>
     </div>
 </div>
 

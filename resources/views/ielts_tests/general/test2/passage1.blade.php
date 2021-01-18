@@ -4,10 +4,10 @@
 <p>Select the correct letter, A-D.</p>
 
 <!-- Questions 1 - 6 -->
-<p><span class="font-weight-bold">N.B.</span> You may use any letter more than once.</p>
+<p><span class="font-weight-bold">NB</span> You may use any letter more than once.</p>
 
 <div class="d-flex align-items-baseline mt-3">
-    <label>1</label>
+    <label>1.</label>
     <span class="mx-2">This restaurant provides free drinks.</span>
     <select name="q1" class="form-control w-auto ml-auto">
         <option value="">-Select-</option>
@@ -18,7 +18,7 @@
     </select>
 </div>
 <div class="d-flex align-items-baseline mt-3">
-    <label>2</label>
+    <label>2.</label>
     <span class="mx-2">You’ll probably need to book a table for this restaurant.</span>
     <select name="q2" class="form-control w-auto ml-auto">
         <option value="">-Select-</option>
@@ -29,7 +29,7 @@
     </select>
 </div>
 <div class="d-flex align-items-baseline mt-3">
-    <label>3</label>
+    <label>3.</label>
     <span class="mx-2">You can hear live music here on Saturdays. </span>
     <select name="q3" class="form-control w-auto ml-auto">
         <option value="">-Select-</option>
@@ -40,7 +40,7 @@
     </select>
 </div>
 <div class="d-flex align-items-baseline mt-3">
-    <label>4</label>
+    <label>4.</label>
     <span class="mx-2">This restaurant is probably the most expensive of all four.</span>
     <select name="q4" class="form-control w-auto ml-auto">
         <option value="">-Select-</option>
@@ -51,7 +51,7 @@
     </select>
 </div>
 <div class="d-flex align-items-baseline mt-3">
-    <label>5</label>
+    <label>5.</label>
     <span class="mx-2">This is a good place for young people to eat.</span>
     <select name="q5" class="form-control w-auto ml-auto">
         <option value="">-Select-</option>
@@ -62,7 +62,7 @@
     </select>
 </div>
 <div class="d-flex align-items-baseline mt-3">
-    <label>6</label>
+    <label>6.</label>
     <span class="mx-2">You can call this restaurant to order food at home.</span>
     <select name="q6" class="form-control w-auto ml-auto">
         <option value="">-Select-</option>
@@ -148,7 +148,7 @@
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 11 - 14</h4>
 <p class="mb-0">For which of the courses are the following statements true?</p>
 <p class="mb-0">Select the correct letter, a –h</p>
-<p>NB. You may use each letter more than once.</p>
+<p><strong class="font-weight-bold">NB</strong> You may use each letter more than once.</p>
 
 <div class="d-flex align-items-baseline mt-3">
     <label>11</label>

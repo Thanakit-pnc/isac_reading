@@ -102,7 +102,7 @@
                                         </div>
 
                                         <div class="row mt-2">
-                                            <div class="col-lg-6">
+                                            <div class="col-lg-6 align-self-center">
                                                 <div class="border px-1">
                                                     <h5 class="font-italic text-center"><u>Diamonds are forever!</u></h5>
                                                     <ul>
@@ -126,7 +126,7 @@
                                                         <li>All makes of phones</li>
                                                         <li>Cameras</li>
                                                     </ul>
-                                                    <p class="font-weight-bold">We also do repairs: 24-hour service.</p>
+                                                    <p class="font-weight-bold text-center">We also do repairs: 24-hour service.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -580,43 +580,43 @@
                         <div class="tab-pane" id="section3">
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <h4 class="mt-0 mb-0">SECTION 3 Questions 28 – 40</h4>
+                                    <h4 class="mt-0">SECTION 3 Questions 28 – 40</h4>
                                 </div>
 
                                 <div class="col-lg-6 ">
                                     <div class="card-box height sandbox">
                                         <h5 class="mt-0 mb-3">Read the text below and answer Questions 28 – 40.</h5>
                                         <h4>Calcutta</h4>
-                                        <p class="text-justify font-weight-bold">
-                                            <span class="mr-2">A</span>
+                                        <p class="text-justify">
+                                            <span class="mr-2 font-weight-bold">A</span>
                                             Calcutta, the world’s fourth largest city, inhabited by over fifteen million people of radically different backgrounds, religions and beliefs, is  a hotbed of literature and the arts, of culture and fiercely defended political causes; it leaves no-one indifferent, this crowded, noisy melting-pot in which extreme poverty and a show of great wealth are but a hair’s breadth apart
                                         </p>
-                                        <p class="text-justify font-weight-bold">
-                                            <span class="mr-2">B</span>
+                                        <p class="text-justify">
+                                            <span class="mr-2 font-weight-bold">B</span>
                                             Misunderstood, maligned and defended in turns, Calcutta is swamped by the fall-out of India’s population explosion, much of this being accounted for by urban migration, the search for opportunities in the large city.  Yet rather than being a drain on the country’s resources, this, the biggest city in India, is a huge, grimy, sweaty dynamo, its industrial, port and rail workers toiling away so that the Indian economy can flourish.  One of the chief commercial nerve centres of the country, it groans under a cloud of factory pollution, reverberates to the noise of steamer horns and, as the starting-point of two great rail networks, recovers twice daily after a rush-hour in which 1.6 million people pass through the chaos of the main railway station.
                                         </p>
-                                        <p class="text-justify font-weight-bold">
-                                            <span class="mr-2">C</span>
+                                        <p class="text-justify">
+                                            <span class="mr-2 font-weight-bold">C</span>
                                             On the streets of Calcutta, one is besieged not just by beggars, but by shoe-shine boys, hawkers and salesmen of all descriptions.  Rich in the heart of it all, on the Esplanade, the late 19th century buildings such as the Oberoi Grand, the Indian Museum and a whole collection of once majestic public buildings, symbolise Calcutta’s faded grandeur.  They overlook the Maidan, a vast two-mile long and one-mile wide park, with the second largest cricket stadium and the only Ladies Golf Club in the world.  But describing the Maidan in terms of its monuments and sports facilities gives no indication as to how lively it is.  In the 19th century, fervent Bengali nationalists organised great fairs on the Maidan, with music, dance, theatre and lectures.  It was here that India’s first Nobel Laureate, the great Bengali literary figure Rabindranath Tagore, made his public debut, aged fifteen.
                                         </p>
-                                        <p class="text-justify font-weight-bold">
-                                            <span class="mr-2">D</span>
+                                        <p class="text-justify">
+                                            <span class="mr-2 font-weight-bold">D</span>
                                             Nowadays the Maidan is still a twenty-four hour show, where Calcutta hangs out, exercises and relaxes.  Executive joggers make their sunrise appearance on the Maidan stage first, along with early morning, de-stressing yoga enthusiasts.  The West Bengal Mounted Police ride their horses here, the Army does a few morning drills, goats and sheep act as lawn mowers at the Calcutta Golf Club.  Cricket and football take over during the course of the day; and then in the evening couples and families promenade respectably, seeing and being seen in the Square opposite the Victoria Memorial.  At night Hindu sandhus or holy men and all kinds of musicians gather audiences near the Gandhi statue.
                                         </p>
-                                        <p class="text-justify font-weight-bold">
-                                            <span class="mr-2">E</span>
+                                        <p class="text-justify">
+                                            <span class="mr-2 font-weight-bold">E</span>
                                             Calcutta, unlike Delhi and Agra, is not a historical city in the conventional sense of the word.  In fact it’s one of the world’s youngest major cities, rising from humble rural beginnings to be a major centre of the British Empire, over the course of 150 years.  Yet little more than three centuries ago, neither the British nor any other empire ruled this region; indeed the banks of the Hooghly River were the site of three fishing villages of mud huts, one of which was Kalikata, from which the name Calcutta emerged.  The city’s historic oblivion changed in 1690 when Job Charnock, an agent from the British East India Company, stopped at another of the three villages, Sutanati, the home of the traditional Bengali weavers and of  the Seths, the “merchant-bankers” of the day, who controlled the local textile trade.
                                         </p>
-                                        <p class="text-justify font-weight-bold">
-                                            <span class="mr-2">F</span>
+                                        <p class="text-justify">
+                                            <span class="mr-2 font-weight-bold">F</span>
                                             Job Charnock and the British came to India as traders, at a time when the Mughals were supreme rulers.  They were concerned with securing raw materials and future markets.  Bengal was particularly attractive because of its legendary wealth of textiles, especially silk and cotton, though the Company also had its eye on the sugar, rice and salt.  It was almost by accident, or greed — in order to protect its investment that by the 1850s, almost the whole of the sub-continent had come under British control, with Calcutta  as headquarters.  They chose the three tranquil villages as the site of a port and settlement, at first renting them from the Mughal emperor Aurangzeb. Ships were the beginning of Calcutta’s entry into history, the Hooghly River the key to its fortunes.  The East Indiamen boats and clippers made way for motorised cargo vessels and in 1773 the British capital was transferred from Madras to Calcutta.
                                         </p>
-                                        <p class="text-justify font-weight-bold">
-                                            <span class="mr-2">G</span>
+                                        <p class="text-justify">
+                                            <span class="mr-2 font-weight-bold">G</span>
                                             The people of Calcutta are hungry for the wonderful poetry, theatre, films, music and visual arts created there.  At two annual book-fairs, more than forty-five million Rupees worth of books are sold and there are over 500 stalls for second-hand books.  Around 60 quality films are made a year, whose emphasis is on stark realism, rather than the mythical romances of Bollywood.  Satyajit Ray earned international acclaim, as have Arpana Sen and several others, in turn influencing Bombay’s movie industry. Calcutta also has a cutting-edge theatrical movement and many temporary exhibitions of modern art galleries and the lively Academy of Fine Arts, as well as excellent permanent collections of traditional and modern art.  The Academy also displays fine examples of antique Bengali and other Indian textiles, for the sake of which one could say that an Empire was founded.  The solid colour, hand-woven silk sarees of West Bengal, with their rich borders are particularly coveted for marriage ceremonies.
                                         </p>
-                                        <p class="text-justify font-weight-bold">
-                                            <span class="mr-2">H</span>
+                                        <p class="text-justify">
+                                            <span class="mr-2 font-weight-bold">H</span>
                                             The adventurous Bengalis have created at least two indigenous styles of cuisine, one rumoured to have strayed from the kitchens of the Nawabs, called Mughlai.  It is best sampled at the modest restaurants around the Nakhoda Mosque.  The other is the Bengali version of “food of the Sahib”, a delicious combination of two diverse worlds — of indigenous inspiration and that of the British Memsahibs.
                                         </p>
                                     </div>

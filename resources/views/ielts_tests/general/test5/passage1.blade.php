@@ -1,5 +1,5 @@
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 1 – 6</h4>
-<p class="font-15">Type NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.</p>
+<p class="font-15">Type <strong class="font-weight-bold">NO MORE THAN TWO WORDS AND/OR A NUMBER</strong> for each answer.</p>
 
 <!-- Questions 1 - 6 -->
 <div class="d-flex mt-2">
@@ -67,11 +67,14 @@
     <p class="mb-0">xi.	Foliage-Friendly Homes: landscaping for temperature control</p>
 </div>
 
-<div class="d-flex align-items-baseline mt-3">
-    <label class="mr-2">7. Book A</label>
-    <div class="d-flex align-items-center">
-        Book title
-        <select name="q7" class="form-control w-auto ml-2">
+<div class="row mt-3">
+    <div class="col-2"></div>
+    <div class="col-5 font-weight-bold text-right">Book title</div>
+</div>
+<div class="row mt-3 align-items-center">
+    <label class="col-2 mr-2 mb-0">7. Book A</label>
+    <div class="col-5">
+        <select name="q7" class="form-control w-auto ml-auto">
             <option value="">-Select-</option>
             <option value="i">i</option>
             <option value="ii">ii</option>
@@ -87,11 +90,10 @@
         </select>
     </div>
 </div>
-<div class="d-flex align-items-baseline mt-3">
-    <label class="mr-2">8. Book B</label>
-    <div class="d-flex align-items-center">
-        Book title
-        <select name="q8" class="form-control w-auto ml-2">
+<div class="row mt-3 align-items-center">
+    <label class="col-2 mr-2 mb-0">8. Book B</label>
+    <div class="col-5">
+        <select name="q8" class="form-control w-auto ml-auto">
             <option value="">-Select-</option>
             <option value="i">i</option>
             <option value="ii">ii</option>
@@ -107,11 +109,10 @@
         </select>
     </div>
 </div>
-<div class="d-flex align-items-baseline mt-3">
-    <label class="mr-2">9. Book C</label>
-    <div class="d-flex align-items-center">
-        Book title
-        <select name="q9" class="form-control w-auto ml-2">
+<div class="row mt-3 align-items-center">
+    <label class="col-2 mr-2 mb-0">9. Book C</label>
+    <div class="col-5">
+        <select name="q9" class="form-control w-auto ml-auto">
             <option value="">-Select-</option>
             <option value="i">i</option>
             <option value="ii">ii</option>
@@ -127,11 +128,10 @@
         </select>
     </div>
 </div>
-<div class="d-flex align-items-baseline mt-3">
-    <label class="mr-2">10. Book D</label>
-    <div class="d-flex align-items-center">
-        Book title
-        <select name="q10" class="form-control w-auto ml-2">
+<div class="row mt-3 align-items-center">
+    <label class="col-2 mr-2 mb-0">10. Book D</label>
+    <div class="col-5">
+        <select name="q10" class="form-control w-auto ml-auto">
             <option value="">-Select-</option>
             <option value="i">i</option>
             <option value="ii">ii</option>
@@ -147,11 +147,10 @@
         </select>
     </div>
 </div>
-<div class="d-flex align-items-baseline mt-3">
-    <label class="mr-2">11. Book E</label>
-    <div class="d-flex align-items-center">
-        Book title
-        <select name="q11" class="form-control w-auto ml-2">
+<div class="row mt-3 align-items-center">
+    <label class="col-2 mr-2 mb-0">11. Book E</label>
+    <div class="col-5">
+        <select name="q11" class="form-control w-auto ml-auto">
             <option value="">-Select-</option>
             <option value="i">i</option>
             <option value="ii">ii</option>
@@ -167,11 +166,10 @@
         </select>
     </div>
 </div>
-<div class="d-flex align-items-baseline mt-3">
-    <label class="mr-2">12. Book F</label>
-    <div class="d-flex align-items-center">
-        Book title
-        <select name="q12" class="form-control w-auto ml-2">
+<div class="row mt-3 align-items-center">
+    <label class="col-2 mr-2 mb-0">12. Book F</label>
+    <div class="col-5">
+        <select name="q12" class="form-control w-auto ml-auto">
             <option value="">-Select-</option>
             <option value="i">i</option>
             <option value="ii">ii</option>
@@ -187,11 +185,10 @@
         </select>
     </div>
 </div>
-<div class="d-flex align-items-baseline mt-3">
-    <label class="mr-2">13. Book G</label>
-    <div class="d-flex align-items-center">
-        Book title
-        <select name="q13" class="form-control w-auto ml-2">
+<div class="row mt-3 align-items-center">
+    <label class="col-2 mr-2 mb-0">13. Book G</label>
+    <div class="col-5">
+        <select name="q13" class="form-control w-auto ml-auto">
             <option value="">-Select-</option>
             <option value="i">i</option>
             <option value="ii">ii</option>
@@ -207,11 +204,10 @@
         </select>
     </div>
 </div>
-<div class="d-flex align-items-baseline mt-3">
-    <label class="mr-2">14. Book H</label>
-    <div class="d-flex align-items-center">
-        Book title
-        <select name="q14" class="form-control w-auto ml-2">
+<div class="row mt-3 align-items-center">
+    <label class="col-2 mr-2 mb-0">14. Book H</label>
+    <div class="col-5">
+        <select name="q14" class="form-control w-auto ml-auto">
             <option value="">-Select-</option>
             <option value="i">i</option>
             <option value="ii">ii</option>

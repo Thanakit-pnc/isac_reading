@@ -97,7 +97,7 @@
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 33 – 37</h4>
 <p class="mb-0">Classify the following statements as referring to</p>
 <p>For Questions 33 – 37, select a letter, A, B, C, or D.</p>
-<p>NB You may use some letters more than once.</p>
+<p><strong class="font-weight-bold">NB</strong> You may use some letters more than once.</p>
 
 <div class="d-flex flex-column">
     <strong class="font-weight-bold">A.	Ear piercing</strong>

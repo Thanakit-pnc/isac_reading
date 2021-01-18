@@ -100,7 +100,7 @@
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 20 – 24</h4>
 <p class="mb-0">Classify the following statements according to the person who said this.</p>
 <p>For Questions 20 – 24, select a letter, A, B, or C. </p>
-<p>NB You can use any letter more than once.</p>
+<p><strong class="font-weight-bold">NB</strong> You can use any letter more than once.</p>
 
 <div class="d-flex flex-column">
     <strong class="font-weight-bold">A.	Professor DeFoliart</strong>

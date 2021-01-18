@@ -1,7 +1,7 @@
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 1 – 6</h4>
 <p class="mb-0">Look at the three package holidays, A - C. </p>
 <p>For which packages are the following statements true?</p>
-<p>For Questions 1-6, select the correct letter, A, B or C.</p>
+<p>For Questions 1 - 6, Select the correct letter, A, B or C.</p>
 
 <!-- Questions 1 - 6 -->
 
@@ -71,7 +71,7 @@
 <!-- Questions 7 - 14 -->
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 7 - 14</h4>
 <p class="mb-0">Which of the following is covered by the insurance policy?</p>
-<p>For Questions 7 to 14, select a letter, A, B or C.</p>
+<p>For Questions 7 - 14, select a letter, A, B or C.</p>
 
 <div class="row">
     <div class="col-auto border border-dark p-2 m-auto">

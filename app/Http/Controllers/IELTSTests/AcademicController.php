@@ -12,11 +12,11 @@ class AcademicController extends Controller
         $type = 'Academic';
         
         $practices = [
-            '1' => "Academic Test 01",
-            '2' => "Academic Test 02",
-            '3' => "Academic Test 03",
-            '4' => "Academic Test 04",
-            '5' => "Academic Test 05",
+            '1' => "Academic Test 1",
+            '2' => "Academic Test 2",
+            '3' => "Academic Test 3",
+            '4' => "Academic Test 4",
+            '5' => "Academic Test 5",
         ];
 
         $no_highlight = 'no';
@@ -33,7 +33,7 @@ class AcademicController extends Controller
             $timer = 0;
         }
 
-        return view('ielts_tests.academic.test01.index', compact('timer'));
+        return view('ielts_tests.academic.test1.index', compact('timer'));
     }
 
     public function ac_test_01(Request $request) {
@@ -123,7 +123,7 @@ class AcademicController extends Controller
             $timer = 0;
         }
 
-        return view('ielts_tests.academic.test02.index', compact('timer'));
+        return view('ielts_tests.academic.test2.index', compact('timer'));
     }
 
     public function ac_test_02(Request $request) {
@@ -213,7 +213,7 @@ class AcademicController extends Controller
             $timer = 0;
         }
 
-        return view('ielts_tests.academic.test03.index', compact('timer'));
+        return view('ielts_tests.academic.test3.index', compact('timer'));
     }
 
     public function ac_test_03(Request $request) {
@@ -307,7 +307,7 @@ class AcademicController extends Controller
             $timer = 0;
         }
 
-        return view('ielts_tests.academic.test04.index', compact('timer'));
+        return view('ielts_tests.academic.test4.index', compact('timer'));
     }
 
     public function ac_test_04(Request $request) {
@@ -401,7 +401,7 @@ class AcademicController extends Controller
             $timer = 0;
         }
 
-        return view('ielts_tests.academic.test05.index', compact('timer'));
+        return view('ielts_tests.academic.test5.index', compact('timer'));
     }
 
     public function ac_test_05(Request $request) {

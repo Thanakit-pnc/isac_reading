@@ -1,6 +1,6 @@
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 1 – 6</h4>
 <p>Where would you go to do the following?.</p>
-<p>Select the letters a - f next to Questions 1-6.</p>
+<p>Select the letters a-f next to Questions 1-6.</p>
 
 <!-- Questions 1 - 6 -->
 <div class="d-block border border-dark p-2 mx-auto" style="max-width: 50%;">
@@ -16,7 +16,7 @@
 
 <div class="d-flex align-items-baseline mt-3">
     <span>Buy an automobile magazine.</span>
-    <label class="ml-auto">1</label>
+    <label class="ml-auto">1.</label>
     <select name="q1" class="form-control w-auto mx-2">
         <option value="">-Select-</option>
         <option value="a">a</option>
@@ -29,7 +29,7 @@
 </div>
 <div class="d-flex align-items-baseline mt-3">
     <span>Order a cake for your daughter’s birthday party.</span>
-    <label class="ml-auto">2</label>
+    <label class="ml-auto">2.</label>
     <select name="q2" class="form-control w-auto mx-2">
         <option value="">-Select-</option>
         <option value="a">a</option>
@@ -42,7 +42,7 @@
 </div>
 <div class="d-flex align-items-baseline mt-3">
     <span>Get your ears pierced.</span>
-    <label class="ml-auto">3</label>
+    <label class="ml-auto">3.</label>
     <select name="q3" class="form-control w-auto mx-2">
         <option value="">-Select-</option>
         <option value="a">a</option>
@@ -55,7 +55,7 @@
 </div>
 <div class="d-flex align-items-baseline mt-3">
     <span>Buy a handbag for your mother.</span>
-    <label class="ml-auto">4</label>
+    <label class="ml-auto">4.</label>
     <select name="q4" class="form-control w-auto mx-2">
         <option value="">-Select-</option>
         <option value="a">a</option>
@@ -68,7 +68,7 @@
 </div>
 <div class="d-flex align-items-baseline mt-3">
     <span>Enquire about renting a flat out of town.</span>
-    <label class="ml-auto">5</label>
+    <label class="ml-auto">5.</label>
     <select name="q5" class="form-control w-auto mx-2">
         <option value="">-Select-</option>
         <option value="a">a</option>
@@ -81,7 +81,7 @@
 </div>
 <div class="d-flex align-items-baseline mt-3">
     <span>Get your broken mobile phone fixed.</span>
-    <label class="ml-auto">6</label>
+    <label class="ml-auto">6.</label>
     <select name="q6" class="form-control w-auto mx-2">
         <option value="">-Select-</option>
         <option value="a">a</option>
@@ -128,28 +128,20 @@
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 12 - 14</h4>
 <p>Decide if the following sentences are:</p>
 
-<div class="row">
-    <div class="col-auto col-xl-3">
-        <strong class="font-weight-bold">TRUE</strong>
+<div class="row justify-content-center">
+    <div class="col-md-auto">
+        <div class="d-flex flex-column">
+            <strong class="font-weight-bold">TRUE</strong>
+            <strong class="font-weight-bold">FALSE</strong>
+            <strong class="font-weight-bold">NOT GIVEN</strong>
+        </div>
     </div>
-    <div class="col-auto col-xl-auto">
-        <p class="mb-0">If the statement agrees with the information given</p>
-    </div>
-</div>
-<div class="row">
-    <div class="col-auto col-xl-3">
-        <strong class="font-weight-bold">FALSE</strong>
-    </div>
-    <div class="col-auto col-xl-auto">
-        <p class="mb-0">If the statement contradicts the information given</p>
-    </div>
-</div>
-<div class="row">
-    <div class="col-auto col-xl-3">
-        <strong class="font-weight-bold">NOT GIVEN</strong>
-    </div>
-    <div class="col-auto col-xl-auto">
-        <p class="mb-0">If not enough information is given.</p>
+    <div class="col-md-auto">
+        <div class="d-flex flex-column">
+            <p class="mb-0">If the statement agrees with the information given</p>
+            <p class="mb-0">If the statement contradicts the information given</p>
+            <p class="mb-0">If not enough information is given.</p>
+        </div>
     </div>
 </div>
 

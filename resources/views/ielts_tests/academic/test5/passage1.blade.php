@@ -218,7 +218,7 @@
 
 <div class="d-inline-block mt-3" style="line-height: 2;">
     The Creek was the central feature of the pearling trade on which Dubai’s early fame was built. Nowadays visitors are
-    <label>11.</label> 
+    <label class="font-weight-bold">11.</label> 
     <select name="q11" class="form-control w-auto d-inline-block">
         <option value="">-Select-</option>
         <option value="a">a</option>
@@ -231,7 +231,7 @@
         <option value="h">h</option>
     </select>
     to the traditional market places in search of gold. At the turn of the century, people made their
-    <label>12.</label> 
+    <label class="font-weight-bold">12.</label> 
     <select name="q12" class="form-control w-auto d-inline-block">
         <option value="">-Select-</option>
         <option value="a">a</option>
@@ -244,7 +244,7 @@
         <option value="h">h</option>
     </select>
     through the skillful trading of gold from Dubai to India, Pakistan and Sri Lanka, and even today, many of the souk’s customers are from that region. In the market stalls, three 
-    <label>13.</label> 
+    <label class="font-weight-bold">13.</label> 
     <select name="q13" class="form-control w-auto d-inline-block">
         <option value="">-Select-</option>
         <option value="a">a</option>
@@ -257,7 +257,7 @@
         <option value="h">h</option>
     </select>
     of jewellery are marketed. The first is aimed at Asians, who tend to buy real gold.  The second caters to the Europeans looking for a
-    <label>14.</label> 
+    <label class="font-weight-bold">14.</label> 
     <select name="q14" class="form-control w-auto d-inline-block">
         <option value="">-Select-</option>
         <option value="a">a</option>

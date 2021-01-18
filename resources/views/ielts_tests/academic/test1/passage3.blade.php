@@ -188,7 +188,7 @@
 
 <div class="d-inline-block mt-3" style="line-height: 1.8; word-spacing: 2px;">
 Plankton feeders do not move very swiftly. The food they eat is so nourishing that they sometimes grow to
-<label>36.</label>
+<label class="font-weight-bold">36.</label>
 <select name="q36" class="form-control d-inline-block w-auto">
     <option value="">-Select-</option>
     <option value="a">a</option>
@@ -203,7 +203,7 @@ Plankton feeders do not move very swiftly. The food they eat is so nourishing th
     <option value="j">j</option>
 </select>
 proportions. The manta-ray, for example, grows to a width of 6 metres. It has a pair of flipper-like wings on both sides of its head which draw the water into its vast rectangular mouth. The water leaves its throat through
-<label>37.</label>
+<label class="font-weight-bold">37.</label>
 <select name="q37" class="form-control d-inline-block w-auto">
     <option value="">-Select-</option>
     <option value="a">a</option>
@@ -218,7 +218,7 @@ proportions. The manta-ray, for example, grows to a width of 6 metres. It has a 
     <option value="j">j</option>
 </select>
 on either side of its head. These are lined with combs which catch the plankton. A
-<label>38.</label>
+<label class="font-weight-bold">38.</label>
 <select name="q38" class="form-control d-inline-block w-auto">
     <option value="">-Select-</option>
     <option value="a">a</option>
@@ -233,7 +233,7 @@ on either side of its head. These are lined with combs which catch the plankton.
     <option value="j">j</option>
 </select>
 of the ray, the basking shark, catches its food in much the same way. It grows even bigger than the manta, to a length of 12 metres and a weight of 4 tonnes, and it can
-<label>39.</label>
+<label class="font-weight-bold">39.</label>
 <select name="q39" class="form-control d-inline-block w-auto">
     <option value="">-Select-</option>
     <option value="a">a</option>
@@ -248,7 +248,7 @@ of the ray, the basking shark, catches its food in much the same way. It grows e
     <option value="j">j</option>
 </select>
 through 1000 tonnes of water in an hour. Its top speed is around 5 kilometres an hour, so slow that for a long time people thought it was merely
-<label>40.</label>
+<label class="font-weight-bold">40.</label>
 <select name="q40" class="form-control d-inline-block w-auto">
     <option value="">-Select-</option>
     <option value="a">a</option>

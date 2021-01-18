@@ -31,7 +31,7 @@
 </div>
 <div class="d-flex align-items-baseline mt-3">
     <label>16.</label>
-    <label class="mx-2">According to the passage teamwork leads to greater productivity.	</label>
+    <label class="mx-2">According to the passage, teamwork leads to greater productivity.	</label>
     <select name="q16" class="form-control w-auto ml-auto">
         <option value="">-Select-</option>
         <option value="TRUE">TRUE</option>

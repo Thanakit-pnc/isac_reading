@@ -115,19 +115,19 @@ Route::middleware(['auth:student'])->group(function () {
 
         // Academic
         Route::get('/academic', 'AcademicController@academic');
-        Route::get('academic-test-01/{mode}', 'AcademicController@academic_test_01');
+        Route::get('academic-test-1/{mode}', 'AcademicController@academic_test_01');
         Route::post('ac_test_01', 'AcademicController@ac_test_01')->name('store.ac-test-01');
 
-        Route::get('academic-test-02/{mode}', 'AcademicController@academic_test_02');
+        Route::get('academic-test-2/{mode}', 'AcademicController@academic_test_02');
         Route::post('ac_test_02', 'AcademicController@ac_test_02')->name('store.ac-test-02');
 
-        Route::get('academic-test-03/{mode}', 'AcademicController@academic_test_03');
+        Route::get('academic-test-3/{mode}', 'AcademicController@academic_test_03');
         Route::post('ac_test_03', 'AcademicController@ac_test_03')->name('store.ac-test-03');
 
-        Route::get('academic-test-04/{mode}', 'AcademicController@academic_test_04');
+        Route::get('academic-test-4/{mode}', 'AcademicController@academic_test_04');
         Route::post('ac_test_04', 'AcademicController@ac_test_04')->name('store.ac-test-04');
 
-        Route::get('academic-test-05/{mode}', 'AcademicController@academic_test_05');
+        Route::get('academic-test-5/{mode}', 'AcademicController@academic_test_05');
         Route::post('ac_test_05', 'AcademicController@ac_test_05')->name('store.ac-test-05');
 
         // General Training
