@@ -25,7 +25,7 @@
 <form id="form-exam" method="post">
     <div class="row mt-1">
         <div class="col-md-6">
-            <h3>General Training Test 04</h3>
+            <h3>General Training Test 4</h3>
         </div>
         <div class="col-md-6">
             @isset($timer)
@@ -246,7 +246,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="card-box height">
-                                        @include('ielts_tests.general.test04.passage1')
+                                        @include('ielts_tests.general.test4.passage1')
                                     </div>
                                 </div>
                             </div>
@@ -343,7 +343,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="card-box height">
-                                        @include('ielts_tests.general.test04.passage2')
+                                        @include('ielts_tests.general.test4.passage2')
                                     </div>
                                 </div>
                             </div>
@@ -386,7 +386,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="card-box height">
-                                        @include('ielts_tests.general.test04.passage3')
+                                        @include('ielts_tests.general.test4.passage3')
                                     </div>
                                 </div>
                             </div>

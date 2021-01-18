@@ -1,6 +1,6 @@
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 1 – 6</h4>
-<p>Choose accommodation suitable for the following people.</p>
-<p>Select the correct letter, a – f, next to Questions 1-6.</p>
+<p class="mb-0">Choose accommodation suitable for the following people.</p>
+<p>Select the correct letter, a – f, next to Questions 1 - 6.</p>
 
 <!-- Questions 1 - 6 -->
 <div class="d-block border border-dark p-2 mx-auto" style="max-width: 50%;">
@@ -15,7 +15,7 @@
 </div>
 
 <div class="d-flex align-items-baseline mt-3">
-    <label>1</label>
+    <label>1.</label>
     <select name="q1" class="form-control w-auto mx-2">
         <option value="">-Select-</option>
         <option value="a">a</option>
@@ -28,7 +28,7 @@
     A married couple on honeymoon looking for privacy.
 </div>
 <div class="d-flex align-items-baseline mt-3">
-    <label>2</label>
+    <label>2.</label>
     <select name="q2" class="form-control w-auto mx-2">
         <option value="">-Select-</option>
         <option value="a">a</option>
@@ -41,7 +41,7 @@
     A family with six children who like watching television.
 </div>
 <div class="d-flex align-items-baseline mt-3">
-    <label>3</label>
+    <label>3.</label>
     <select name="q3" class="form-control w-auto mx-2">
         <option value="">-Select-</option>
         <option value="a">a</option>
@@ -54,7 +54,7 @@
     A couple of back-packers with their own tent.
 </div>
 <div class="d-flex align-items-baseline mt-3">
-    <label>4</label>
+    <label>4.</label>
     <select name="q4" class="form-control w-auto mx-2">
         <option value="">-Select-</option>
         <option value="a">a</option>
@@ -67,7 +67,7 @@
     Someone who enjoys observing wild animals.
 </div>
 <div class="d-flex align-items-baseline mt-3">
-    <label>5</label>
+    <label>5.</label>
     <select name="q5" class="form-control w-auto mx-2">
         <option value="">-Select-</option>
         <option value="a">a</option>
@@ -80,7 +80,7 @@
     People who want to cook their own meals.
 </div>
 <div class="d-flex align-items-baseline mt-3">
-    <label>6</label>
+    <label>6.</label>
     <select name="q6" class="form-control w-auto mx-2">
         <option value="">-Select-</option>
         <option value="a">a</option>

@@ -1,13 +1,18 @@
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 15 - 20</h4>
 <p class="mb-0">Match the jobs with the statements below.</p>
-<p>For Questions 15 to 20, select a job number, 1 to 6.</p>
+<p>For Questions 15 - 20, select a job number, 1 to 6.</p>
+
+<div class="row mb-2">
+    <div class="col-12 text-right font-weight-bold">
+        Job Number
+    </div>
+</div>
 
 <div class="row mb-2">
     <div class="col align-self-center">
-        <p class="mb-0 d-flex"><span class="font-weight-bold mr-1">15</span> This job does not require qualifications.</p>
+        <p class="mb-0 d-flex"><span class="mr-1">15.</span> This job does not require qualifications.</p>
     </div>
     <div class="col-auto ml-auto">
-        <p class="mb-0 mx-2 d-inline-block">Job number </p>
         <select name="q15" class="form-control w-auto d-inline-block">
             <option value="">-Select-</option>
             <option value="1">1</option>
@@ -22,10 +27,9 @@
 
 <div class="row mb-2">
     <div class="col align-self-center">
-        <p class="mb-0 d-flex"><span class="font-weight-bold mr-1">16</span> If you work extra hours you get paid for them.</p>
+        <p class="mb-0 d-flex"><span class="mr-1">16.</span> If you work extra hours you get paid for them.</p>
     </div>
     <div class="col-auto ml-auto">
-        <p class="mb-0 mx-2 d-inline-block">Job number </p>
         <select name="q16" class="form-control w-auto d-inline-block">
             <option value="">-Select-</option>
             <option value="1">1</option>
@@ -40,10 +44,9 @@
 
 <div class="row mb-2">
     <div class="col align-self-center">
-        <p class="mb-0 d-flex"><span class="font-weight-bold mr-1">17</span> In this job you don’t work Monday and Tuesday.</p>
+        <p class="mb-0 d-flex"><span class="mr-1">17.</span> In this job you don’t work Monday and Tuesday.</p>
     </div>
     <div class="col-auto ml-auto">
-        <p class="mb-0 mx-2 d-inline-block">Job number </p>
         <select name="q17" class="form-control w-auto d-inline-block">
             <option value="">-Select-</option>
             <option value="1">1</option>
@@ -58,10 +61,9 @@
 
 <div class="row mb-2">
     <div class="col align-self-center">
-        <p class="mb-0 d-flex"><span class="font-weight-bold mr-1">18</span> You can decide the hours you work in this job.</p>
+        <p class="mb-0 d-flex"><span class="mr-1">18.</span> You can decide the hours you work in this job.</p>
     </div>
     <div class="col-auto ml-auto">
-        <p class="mb-0 mx-2 d-inline-block">Job number </p>
         <select name="q18" class="form-control w-auto d-inline-block">
             <option value="">-Select-</option>
             <option value="1">1</option>
@@ -76,10 +78,9 @@
 
 <div class="row mb-2">
     <div class="col align-self-center">
-        <p class="mb-0 d-flex"><span class="font-weight-bold mr-1">19</span> This job has the highest basic salary.</p>
+        <p class="mb-0 d-flex"><span class="mr-1">19.</span> This job has the highest basic salary.</p>
     </div>
     <div class="col-auto ml-auto">
-        <p class="mb-0 mx-2 d-inline-block">Job number </p>
         <select name="q19" class="form-control w-auto d-inline-block">
             <option value="">-Select-</option>
             <option value="1">1</option>
@@ -94,10 +95,9 @@
 
 <div class="row">
     <div class="col align-self-center">
-        <p class="mb-0 d-flex"><span class="font-weight-bold mr-1">20</span> You get a company car with this job.</p>
+        <p class="mb-0 d-flex"><span class="mr-1">20.</span> You get a company car with this job.</p>
     </div>
     <div class="col-auto ml-auto">
-        <p class="mb-0 mx-2 d-inline-block">Job number </p>
         <select name="q20" class="form-control w-auto d-inline-block">
             <option value="">-Select-</option>
             <option value="1">1</option>
@@ -115,7 +115,7 @@
 <!-- Questions 21 - 24 -->
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 21 – 24</h4>
 <p class="mb-0">Do the following statements agree with the information given in the text?</p>
-<p>For Questions 21-24, select</p>
+<p>For Questions 21 - 24, select</p>
 
 <div class="row justify-content-center">
     <div class="col-md-auto">

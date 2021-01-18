@@ -132,19 +132,19 @@ Route::middleware(['auth:student'])->group(function () {
 
         // General Training
         Route::get('/general-training', 'GeneralController@general');
-        Route::get('general-training-test-01/{mode}', 'GeneralController@general_test_01');
+        Route::get('general-training-test-1/{mode}', 'GeneralController@general_test_01');
         Route::post('gt_test_01', 'GeneralController@gt_test_01')->name('store.gt-test-01');
 
-        Route::get('general-training-test-02/{mode}', 'GeneralController@general_test_02');
+        Route::get('general-training-test-2/{mode}', 'GeneralController@general_test_02');
         Route::post('gt_test_02', 'GeneralController@gt_test_02')->name('store.gt-test-02');
 
-        Route::get('general-training-test-03/{mode}', 'GeneralController@general_test_03');
+        Route::get('general-training-test-3/{mode}', 'GeneralController@general_test_03');
         Route::post('gt_test_03', 'GeneralController@gt_test_03')->name('store.gt-test-03');
 
-        Route::get('general-training-test-04/{mode}', 'GeneralController@general_test_04');
+        Route::get('general-training-test-4/{mode}', 'GeneralController@general_test_04');
         Route::post('gt_test_04', 'GeneralController@gt_test_04')->name('store.gt-test-04');
 
-        Route::get('general-training-test-05/{mode}', 'GeneralController@general_test_05');
+        Route::get('general-training-test-5/{mode}', 'GeneralController@general_test_05');
         Route::post('gt_test_05', 'GeneralController@gt_test_05')->name('store.gt-test-05');
     });
     

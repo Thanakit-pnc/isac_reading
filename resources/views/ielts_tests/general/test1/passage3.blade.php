@@ -5,7 +5,7 @@
 <div class="mt-1 d-flex">
     <label class="mr-1">28.</label>
     <div>
-        <label>Which of the following statements about the use of English is NOT TRUE?</label>
+        <label>Which of the following statements about the use of English is <strong class="font-weight-bold">NOT TRUE</strong>?</label>
         <div class="custom-control custom-radio">
             <input type="radio" id="q28-1" name="q28" class="custom-control-input" value="a">
             <label class="custom-control-label d-flex" for="q28-1"><span class="mr-1">a.</span> More than a third of the world's population currently speak English as a first language.</label>
@@ -93,7 +93,7 @@
 <div class="mt-1 d-flex">
     <label class="mr-1">32.</label>
     <div>
-        <label>According to David Crystal</label>
+        <label>According to David Crystal,</label>
         <div class="custom-control custom-radio">
             <input type="radio" id="q32-1" name="q32" class="custom-control-input" value="a">
             <label class="custom-control-label d-flex" for="q32-1"><span class="mr-1">a.</span> There are good linguistic reasons why English has become the lingua franca.</label>
@@ -119,14 +119,14 @@
 <h4 class="mb-1"><i class="fab fa-cloudsmith"></i> Questions 33 – 37</h4>
 <p class="mb-0">Which paragraph, <span class="font-weight-bold">A-G</span>, contains the following piece of information?</p>
 <p class="mb-0">Match the information below with the paragraphs.</p>
-<p>For Questions 33-37, select one letter.</p>
+<p>For Questions 33 - 37, select one letter.</p>
 
 <div class="row mb-2">
     <div class="col align-self-center d-flex">
         • <span class="ml-1">Three reasons which make learning English difficult.</span>
     </div>
     <div class="col-auto ml-auto">
-        <span class="font-weight-bold">33</span>
+        <span>33.</span>
         <select name="q33" class="form-control w-auto d-inline-block">
             <option value="">-Select-</option>
             <option value="A">A</option>
@@ -145,7 +145,7 @@
         • <span class="ml-1">Reasons for the emergence of an international language.</span>
     </div>
     <div class="col-auto ml-auto">
-        <span class="font-weight-bold">34</span>
+        <span>34.</span>
         <select name="q34" class="form-control w-auto d-inline-block">
             <option value="">-Select-</option>
             <option value="A">A</option>
@@ -164,7 +164,7 @@
         • <span class="ml-1">The number of English speaking people in the world</span>	
     </div>
     <div class="col-auto ml-auto">
-        <span class="font-weight-bold">35</span>
+        <span>35.</span>
         <select name="q35" class="form-control w-auto d-inline-block">
             <option value="">-Select-</option>
             <option value="A">A</option>
@@ -183,7 +183,7 @@
         • <span class="ml-1">Future developments</span>	
     </div>
     <div class="col-auto ml-auto">
-        <span class="font-weight-bold">36</span>
+        <span>36.</span>
         <select name="q36" class="form-control w-auto d-inline-block">
             <option value="">-Select-</option>
             <option value="A">A</option>
@@ -202,7 +202,7 @@
         • <span class="ml-1">The unique nature of English as a global language	</span>
     </div>
     <div class="col-auto ml-auto">
-        <span class="font-weight-bold">37</span>
+        <span>37.</span>
         <select name="q37" class="form-control w-auto d-inline-block">
             <option value="">-Select-</option>
             <option value="A">A</option>

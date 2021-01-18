@@ -12,11 +12,11 @@ class GeneralController extends Controller
         $type = 'General Training';
 
         $practices = [
-            '1' => "General Training Test 01",
-            '2' => "General Training Test 02",
-            '3' => "General Training Test 03",
-            '4' => "General Training Test 04",
-            '5' => "General Training Test 05",
+            '1' => "General Training Test 1",
+            '2' => "General Training Test 2",
+            '3' => "General Training Test 3",
+            '4' => "General Training Test 4",
+            '5' => "General Training Test 5",
         ];
 
         $no_highlight = 'no';
@@ -33,7 +33,7 @@ class GeneralController extends Controller
             $timer = 0;
         }
 
-        return view('ielts_tests.general.test01.index', compact('timer'));
+        return view('ielts_tests.general.test1.index', compact('timer'));
     }
 
     public function gt_test_01(Request $request) {
@@ -136,7 +136,7 @@ class GeneralController extends Controller
             $timer = 0;
         }
 
-        return view('ielts_tests.general.test02.index', compact('timer'));
+        return view('ielts_tests.general.test2.index', compact('timer'));
     }
 
     public function gt_test_02(Request $request) {
@@ -243,7 +243,7 @@ class GeneralController extends Controller
             $timer = 0;
         }
 
-        return view('ielts_tests.general.test03.index', compact('timer'));
+        return view('ielts_tests.general.test3.index', compact('timer'));
     }
 
     public function gt_test_03(Request $request) {
@@ -347,7 +347,7 @@ class GeneralController extends Controller
             $timer = 0;
         }
 
-        return view('ielts_tests.general.test04.index', compact('timer'));
+        return view('ielts_tests.general.test4.index', compact('timer'));
     }
 
     public function gt_test_04(Request $request) {
@@ -451,7 +451,7 @@ class GeneralController extends Controller
             $timer = 0;
         }
 
-        return view('ielts_tests.general.test05.index', compact('timer'));
+        return view('ielts_tests.general.test5.index', compact('timer'));
     }
 
     public function gt_test_05(Request $request) {

@@ -21,7 +21,7 @@
 <form id="form-exam" method="post">
     <div class="row mt-1">
         <div class="col-md-6">
-            <h3>General Training Test 01</h3>
+            <h3>General Training Test 1</h3>
         </div>
         <div class="col-md-6">
             @isset($timer)
@@ -268,7 +268,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="card-box height">
-                                        @include('ielts_tests.general.test01.passage1')
+                                        @include('ielts_tests.general.test1.passage1')
                                     </div>
                                 </div>
                             </div>
@@ -499,7 +499,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="card-box height">
-                                        @include('ielts_tests.general.test01.passage2')
+                                        @include('ielts_tests.general.test1.passage2')
                                     </div>
                                 </div>
                             </div>
@@ -547,7 +547,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="card-box height">
-                                        @include('ielts_tests.general.test01.passage3')
+                                        @include('ielts_tests.general.test1.passage3')
                                     </div>
                                 </div>
                             </div>
@@ -603,7 +603,7 @@
 <script src="{{ asset('public/assets/js/pages/form-wizard.init.js') }}"></script>
 <script src="{{ asset('public/assets/js/wizard.js') }}"></script>
 <script>
-    // $('.nav-item a[href="#section2"]').tab('show')
+    $('.nav-item a[href="#section3"]').tab('show')
     
     $('#finish').on('click', function() {
         Swal({
