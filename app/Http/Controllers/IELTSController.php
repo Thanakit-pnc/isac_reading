@@ -84,7 +84,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 
@@ -147,7 +147,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 
@@ -210,7 +210,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 
@@ -274,7 +274,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 
@@ -338,7 +338,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 
@@ -402,7 +402,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 
@@ -466,7 +466,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 
@@ -529,7 +529,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 
@@ -592,7 +592,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 
@@ -655,7 +655,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 
@@ -718,7 +718,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 
@@ -782,7 +782,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 
@@ -845,7 +845,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 
@@ -908,7 +908,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 
@@ -971,7 +971,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 
@@ -1035,7 +1035,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 
@@ -1099,7 +1099,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 
@@ -1163,7 +1163,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 
@@ -1226,7 +1226,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 
@@ -1301,7 +1301,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 
@@ -1365,7 +1365,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 
@@ -1428,7 +1428,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 
@@ -1492,7 +1492,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 
@@ -1556,7 +1556,7 @@ class IELTSController extends Controller
                 } else {
                     $status = 0;
                 }
-                $results['total'] = "Your score : ".$score.'/'.$count;
+                $results['total'] = "Your scores : ".$score.'/'.$count;
                 $results['exam'][$key] = ['status' => $status, 'rightAnswer' => $answer];
             } 
 

@@ -62,16 +62,16 @@
             <div class="card-box font-16 text-dark overflow-custom">
                 <h4 class="mt-0 mb-1">Questions 1 - 5</h4>
                 <p class="mb-0">Do the following statements agree with the information given in the passage?</p>
-                <p class="font-weight-bold">For Questions 1-5 select</p>
-                <div class="row">
-                    <div class="col-md-3">
+                <p>For Questions 1-5, select</p>
+                <div class="row justify-content-center">
+                    <div class="col-md-auto">
                         <div class="d-flex flex-column">
                             <strong class="font-weight-bold">TRUE</strong>
                             <strong class="font-weight-bold">FALSE</strong>
                             <strong class="font-weight-bold">NOT GIVEN</strong>
                         </div>
                     </div>
-                    <div class="col-md-9">
+                    <div class="col-md-auto">
                         <div class="d-flex flex-column">
                             <p class="mb-0">if the statement agrees with the information</p>
                             <p class="mb-0">if the statement contradicts the information</p>
@@ -133,8 +133,8 @@
 
                 <h4 class="mt-0 mb-1">Questions 6 - 10</h4>
                 <p class="mb-0">Classify the following statements as referring to the different years.</p>
-                <p class="mb-0">For Questions 6 – 10 select a letter, A, B, C, or D.</p>
-                <p>NB You may use each letter more than once.</p>
+                <p class="mb-0">For Questions 6-10, select a letter A, B, C, or D.</p>
+                <p><span class="font-weight-bold">NB</span> You may use each letter more than once.</p>
                 <div class="row">
                     <div class="col-md-12">
                         <div class="d-flex flex-column">
@@ -146,9 +146,9 @@
                     </div>
 
                     <div class="col-md-12">
-                        <div class="form-group">
+                        <div class="form-group mb-0">
                             <label for="q6" class="col-form-label">6. A dam was built to prevent the sea from shrinking further.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q6" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -158,9 +158,9 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="form-group">
+                        <div class="form-group mb-0">
                             <label for="q7" class="col-form-label">7. The Aral Sea was the fourth largest lake in the world.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q7" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -170,9 +170,9 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="form-group">
+                        <div class="form-group mb-0">
                             <label for="q8" class="col-form-label">8. The Aral Sea was the eighth largest lake in the world.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q8" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -182,9 +182,9 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="form-group">
+                        <div class="form-group mb-0">
                             <label for="q9" class="col-form-label">9. The Aral Sea split into two bodies of water.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q9" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -196,7 +196,7 @@
                         </div>
                         <div class="form-group">
                             <label for="q10" class="col-form-label">10. The sea level fell by almost one metre per year.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center mb-0">
                                 <select name="q10" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -213,7 +213,7 @@
 
                 <h4 class="mt-0 mb-1">Questions 11 - 13</h4>
                 <p class="mb-0">Choose the correct answer from the given options.</p>
-                <p>For Questions 11 - 13, select a, b, c, or d</p>
+                <p>For Questions 11-13, select a, b, c, or d</p>
                 
                 <div class="form-group">
                     <label for="col-form-label" class="d-flex"><span class="mr-1">11.</span> Why did so much of the water which was meant for irrigation go to waste?</label>
@@ -296,7 +296,7 @@
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
             <div class="modal-header py-1 bg-primary">
-                <h4 class="modal-title text-white" id="myCenterModalLabel">Score result</h4>
+                <h4 class="modal-title text-white" id="myCenterModalLabel">Scores result</h4>
                 <button type="button" class="close text-white" data-dismiss="modal" aria-hidden="true">×</button>
             </div>
             <div class="modal-body">

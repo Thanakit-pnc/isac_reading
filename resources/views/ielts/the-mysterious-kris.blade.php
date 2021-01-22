@@ -73,8 +73,7 @@
         <div class="col-md-6">
             <div class="card-box font-16 text-dark overflow-custom">
                 <h4 class="mt-0 mb-1">Questions 1 - 5</h4>
-                <p class="mb-0">Choose the best answer for each question from the given options.</p>
-                <p>For Questions 1 – 5 select the letter a, b, c, or d</p>
+                <p>Choose the best answer for each question from the given options.</p>
                 <div class="row">
                     <div class="col-md-12">
                         <div class="form-group">
@@ -82,19 +81,19 @@
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q1-1" name="q1" class="custom-control-input" value="A">
-                                    <label class="custom-control-label" for="q1-1">a. a royal insignia worn only at Court</label>
+                                    <label class="custom-control-label" for="q1-1">a. a royal insignia worn only at Court.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q1-2" name="q1" class="custom-control-input" value="B">
-                                    <label class="custom-control-label" for="q1-2">b. a religious symbol</label>
+                                    <label class="custom-control-label" for="q1-2">b. a religious symbol.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q1-3" name="q1" class="custom-control-input" value="C">
-                                    <label class="custom-control-label" for="q1-3">c. a reminder of Hang Tuah and other famous warriors</label>
+                                    <label class="custom-control-label" for="q1-3">c. a reminder of Hang Tuah and other famous warriors.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q1-4" name="q1" class="custom-control-input" value="D">
-                                    <label class="custom-control-label" for="q1-4">d. an indicator of a person's position in society</label>
+                                    <label class="custom-control-label" for="q1-4">d. an indicator of a person's position in society.</label>
                                 </div>
                             </div>
                         </div>
@@ -145,19 +144,19 @@
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q4-1" name="q4" class="custom-control-input" value="A">
-                                    <label class="custom-control-label" for="q4-1">a. From the type of elephant’s trunk shown</label>
+                                    <label class="custom-control-label" for="q4-1">a. From the type of elephant’s trunk shown.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q4-2" name="q4" class="custom-control-input" value="B">
-                                    <label class="custom-control-label" for="q4-2">b. From the type of snake’s tongue</label>
+                                    <label class="custom-control-label" for="q4-2">b. From the type of snake’s tongue.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q4-3" name="q4" class="custom-control-input" value="C">
-                                    <label class="custom-control-label" for="q4-3">c. From the decoration on the blade</label>
+                                    <label class="custom-control-label" for="q4-3">c. From the decoration on the blade.</label>
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q4-4" name="q4" class="custom-control-input" value="D">
-                                    <label class="custom-control-label" for="q4-4">d. From the decoration on the hilt</label>
+                                    <label class="custom-control-label" for="q4-4">d. From the decoration on the hilt.</label>
                                 </div>
                             </div>
                         </div>
@@ -188,108 +187,118 @@
                 <div class="bg-dark my-2 border border-dark"></div>
 
                 <h4 class="mt-0 mb-1">Questions 6 - 10</h4>
-                <p>Identify the paragraphs which contain the following information. For Questions 6 to 10 write the letters A – G</p>
+                <p>Identify the paragraphs which contain the following information. <br> For Questions 6-10, select the letters A–G</p>
 
-                <div class="row">
-                    <div class="col-md-12">
-                        <table class="table table-bordered table-sm text-dark">
-                            <thead>
-                                <tr>
-                                    <th></th>
-                                    <th></th>
-                                    <th class="font-weight-bold text-center">Paragraph</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td class="align-middle">6</td>
-                                    <td class="align-middle">Attempts to keep the skill of kris-making alive.</td>
-                                    <td class="position-relative">
-                                        <select class="form-control" name="q6">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">7</td>
-                                    <td class="align-middle">Materials used for making a kris.</td>
-                                    <td class="position-relative"> 
-                                        <select class="form-control w-100" name="q7">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">8</td>
-                                    <td class="align-middle">The kris as the first choice of famous fighters.</td>
-                                    <td class="position-relative">
-                                        <select class="form-control w-100" name="q8">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">9</td>
-                                    <td class="align-middle">Designs seen on the blade.</td>
-                                    <td class="position-relative">
-                                        <select class="form-control w-100" name="q9">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">10</td>
-                                    <td class="align-middle">Some secret powers believed to be offered by the kris.</td>
-                                    <td class="position-relative">
-                                        <select class="form-control w-100" name="q10">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
+
+                <div class="row justify-content-between align-items-center mb-2">
+                    <div class="col-4 offset-8 mb-2 text-center font-weight-bold">
+                        Paragraph
+                    </div>
+                    <div class="col-8">
+                        6. Attempts to keep the skill of kris-making alive.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q6">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        7. Materials used for making a kris.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q7">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        8. The kris as the first choice of famous fighters.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q8">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        9. Designs seen on the blade.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q9">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        10. Some secret powers believed to be offered by the kris.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q10">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                            </select>
+                        </div>
                     </div>
                 </div>
 
                 <div class="bg-dark my-2 border border-dark"></div>
 
                 <h4 class="mt-0 mb-1">Questions 11 - 14</h4>
-                <p>Complete the following passage using words from the box. For Questions 11 – 14, type the letters a – h :</p>
+                <p>Complete the following passage using words from the box. <br>
+                    For Questions 11-14, select the letters a-h.
+                </p>
                 
                 <div class="row">
                     <div class="col-md-12">
@@ -306,7 +315,7 @@
                             </div>
                         </div>
 
-                        <div class="mt-3 line-height">
+                        <div class="mt-3" style="line-height: 2.3rem;">
                         The procedure of making the kris is much the same today as it was in the past, the only difference being the different <span class="font-weight-bold">11</span> 
                         <div class="d-inline-block position-relative">
                             <select name="q11" class="form-control">
@@ -351,7 +360,7 @@
                         </div>
                         .  The handle and cover are usually made from hard, fine-grained wood that both looks good and lasts a long time. In <span class="font-weight-bold">14</span>
                         <div class="d-inline-block position-relative">
-                            <select name="q14" class="form-control w-auto">
+                            <select name="q14" class="form-control">
                                 <option value="">Select Answer</option>
                                 <option value="A">a</option>
                                 <option value="B">b</option>
@@ -438,12 +447,12 @@
 
             if(data.exam[quiz].status == 1) {
 
-                $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 30px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
+                $(`<span class="text-success font-weight-bold" style="position: absolute; top: 50%; right: 15px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
                 select.addClass('border border-success');
 
             } else {
 
-                $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 30px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
+                $(`<span class="text-success font-weight-bold" style="position: absolute; top: 50%; right: 15px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
                 select.addClass('border border-danger');
 
             }

@@ -124,7 +124,7 @@
 <p class="mb-0">Identify the paragraphs which contain the following information.</p>
 <p>For Questions 6 to 10, select the letters A – G.</p>
 
-<div class="text-right">Paragraph</div>
+<div class="text-right position-relative" style="right: 12px;">Paragraph</div>
 
 <div class="d-flex justify-content-between align-items-center mt-2">
     <label>6. Attempts to keep the skill of kris-making alive.</label>

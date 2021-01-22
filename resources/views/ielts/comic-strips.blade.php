@@ -83,7 +83,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">1.</span> What do we know about the hotel mentioned in the first paragraph?</label>
+                            <label for="col-form-label"><span class="mr-1">1.</span> What do we know about the hotel mentioned in the first paragraph?</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q1-1" name="q1" class="custom-control-input" value="A">
@@ -104,7 +104,7 @@
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">2.</span> The first function of comic strip was</label>
+                            <label for="col-form-label"><span class="mr-1">2.</span> The first function of comic strip was</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q2-1" name="q2" class="custom-control-input" value="A">
@@ -125,7 +125,7 @@
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">3.</span> The ‘Yellow Kid’ of 1895 was different from modern comic strips because</label>
+                            <label for="col-form-label"><span class="mr-1">3.</span> The ‘Yellow Kid’ of 1895 was different from modern comic strips because</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q3-1" name="q3" class="custom-control-input" value="A">
@@ -146,7 +146,7 @@
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">4.</span> Which of the following can you NOT see in the Belgian Centre for Comic Strips?</label>
+                            <label for="col-form-label"><span class="mr-1">4.</span> Which of the following can you <span class="font-weight-bold">NOT</span> see in the Belgian Centre for Comic Strips?</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q4-1" name="q4" class="custom-control-input" value="A">
@@ -167,7 +167,7 @@
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">5.</span> Which of the following did NOT take place in Belgium to celebrate the centenary of Brussels?</label>
+                            <label for="col-form-label"><span class="mr-1">5.</span> Which of the following did <span class="font-weight-bold">NOT</span> take place in Belgium to celebrate the centenary of Brussels?</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q5-1" name="q5" class="custom-control-input" value="A">
@@ -194,7 +194,7 @@
 
                 <h4 class="mt-0 mb-1">Questions 6 - 10</h4>
                 <p class="mb-0">Identify the paragraphs which contain the following information.</p>
-                <p>For Questions 6 to 10 select the letters A – H.</p>
+                <p>For Questions 6-10, select the letters A–H.</p>
 
                 <div class="row">
                     <div class="col-md-12">
@@ -311,7 +311,7 @@
 
                 <h4 class="mt-0 mb-1">Questions 11 - 14</h4>
                 <p class="mb-0">Complete the following passage using words from the box. </p>
-                <p>For Questions 11 – 14, select the letters a – h.</p>
+                <p>For Questions 11–14, select the letters a–h.</p>
                 
                 <div class="row">
                     <div class="col-md-12">

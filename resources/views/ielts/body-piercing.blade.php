@@ -56,16 +56,16 @@
             <div class="card-box font-16 text-dark overflow-custom">
                 <h4 class="mt-0 mb-1">Questions 1 - 5</h4>
                 <p class="mb-0">Do the following statements agree with the information given in the passage?</p>
-                <p class="font-weight-bold">For Questions 1-5 select</p>
-                <div class="row">
-                    <div class="col-md-3">
+                <p>For Questions 1-5, select</p>
+                <div class="row justify-content-center">
+                    <div class="col-md-auto">
                         <div class="d-flex flex-column">
                             <strong class="font-weight-bold">TRUE</strong>
                             <strong class="font-weight-bold">FALSE</strong>
                             <strong class="font-weight-bold">NOT GIVEN</strong>
                         </div>
                     </div>
-                    <div class="col-md-9">
+                    <div class="col-md-auto">
                         <div class="d-flex flex-column">
                             <p class="mb-0">if the statement agrees with the information</p>
                             <p class="mb-0">if the statement contradicts the information</p>
@@ -127,10 +127,10 @@
 
                 <h4 class="mt-0 mb-1">Questions 6 - 10</h4>
                 <p class="mb-0">Classify the following statements as referring to the different body piercing.</p>
-                <p class="mb-0">For Questions 6 – 10 select a letter, A, B, C, or D.</p>
-                <p>NB You may use each letter more than once.</p>
+                <p class="mb-0">For Questions 6–10, select a letter A, B, C, or D.</p>
+                <p class="mb-0"><span class="font-weight-bold">NB</span> You may use each letter more than once.</p>
                 <div class="row">
-                    <div class="col-md-12">
+                    <div class="col-md-12 my-2">
                         <div class="d-flex flex-column">
                             <strong class="font-weight-bold">A. Ear piercing</strong>
                             <strong class="font-weight-bold">B. Nose piercing</strong>
@@ -140,9 +140,9 @@
                     </div>
 
                     <div class="col-md-12">
-                        <div class="form-group">
+                        <div class="form-group mb-0">
                             <label for="q6" class="col-form-label">6. This form of body piercing goes back a long way in history.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q6" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -152,9 +152,9 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="form-group">
+                        <div class="form-group mb-0">
                             <label for="q7" class="col-form-label">7. This was sometimes done on the eve of a bride’s wedding.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q7" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -164,9 +164,9 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="form-group">
+                        <div class="form-group mb-0">
                             <label for="q8" class="col-form-label">8. This kind of decoration can alter the shape of the face.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q8" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -176,9 +176,9 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="form-group">
+                        <div class="form-group mb-0">
                             <label for="q9" class="col-form-label">9. This form of decoration was common in medieval European men.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q9" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -188,9 +188,9 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="form-group">
+                        <div class="form-group mb-0">
                             <label for="q10" class="col-form-label">10. The decoration was removed at regular intervals and replaced by a larger piece.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q10" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -206,7 +206,7 @@
                 <div class="bg-dark my-2 border border-dark"></div>
 
                 <h4 class="mt-0 mb-1">Questions 11 - 13</h4>
-                <p>Choose the correct letter, a, b, c, or d</p>
+                <p>Choose the correct letter a, b, c, or d</p>
                 
                 <div class="form-group">
                     <label for="col-form-label" class="d-flex"><span class="mr-1">11.</span> Why are some forms of body piercing controversial?</label>
@@ -289,7 +289,7 @@
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
             <div class="modal-header py-1 bg-primary">
-                <h4 class="modal-title text-white" id="myCenterModalLabel">Score result</h4>
+                <h4 class="modal-title text-white" id="myCenterModalLabel">Scores result</h4>
                 <button type="button" class="close text-white" data-dismiss="modal" aria-hidden="true">×</button>
             </div>
             <div class="modal-body">

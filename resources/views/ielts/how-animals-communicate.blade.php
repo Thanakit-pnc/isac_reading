@@ -53,16 +53,16 @@
             <div class="card-box font-16 text-dark overflow-custom">
                 <h4 class="mt-0 mb-1">Questions 1 - 5</h4>
                 <p class="mb-0">Do the following statements agree with the information given in the passage?</p>
-                <p class="font-weight-bold">For Questions 1-5 select</p>
-                <div class="row">
-                    <div class="col-md-3">
+                <p>For Questions 1-5, select</p>
+                <div class="row justify-content-center">
+                    <div class="col-md-auto">
                         <div class="d-flex flex-column">
                             <strong class="font-weight-bold">TRUE</strong>
                             <strong class="font-weight-bold">FALSE</strong>
                             <strong class="font-weight-bold">NOT GIVEN</strong>
                         </div>
                     </div>
-                    <div class="col-md-9">
+                    <div class="col-md-auto">
                         <div class="d-flex flex-column">
                             <p class="mb-0">if the statement agrees with the information</p>
                             <p class="mb-0">if the statement contradicts the information</p>
@@ -124,9 +124,9 @@
 
                 <h4 class="mt-0 mb-1">Questions 6 - 10</h4>
                 <p class="mb-0">Classify the following statements as referring to the senses.</p>
-                <p>For Questions 6 – 10 select a letter, A, B, C, or D</p>
+                <p class=mb-0>For Questions 6–10, select a letter A, B, C, or D</p>
                 <div class="row">
-                    <div class="col-md-12">
+                    <div class="col-md-12 my-2">
                         <div class="d-flex flex-column">
                             <strong class="font-weight-bold">A. Smell</strong>
                             <strong class="font-weight-bold">B. Sound</strong>
@@ -136,9 +136,9 @@
                     </div>
 
                     <div class="col-md-12">
-                        <div class="form-group">
+                        <div class="form-group mb-0">
                             <label for="q6" class="col-form-label">6. Dogs show that they are angry.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q6" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -148,9 +148,9 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="form-group">
+                        <div class="form-group mb-0">
                             <label for="q7" class="col-form-label">7. This form of whale communication depends on where they come from.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q7" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -160,9 +160,9 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="form-group">
+                        <div class="form-group mb-0">
                             <label for="q8" class="col-form-label">8. Bees gain safe entry into their hive.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q8" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -172,9 +172,9 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="form-group">
+                        <div class="form-group mb-0">
                             <label for="q9" class="col-form-label">9. Iguanas stay safe by using other animals’ warnings.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q9" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -184,9 +184,9 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="form-group">
+                        <div class="form-group mb-0">
                             <label for="q10" class="col-form-label">10. Elephants show they are friends with other elephants.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q10" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -205,7 +205,7 @@
                 <p>Choose the correct letter a, b, c, or d.</p>
                 
                 <div class="form-group">
-                    <label for="col-form-label" class="d-flex"><span class="mr-1">11.</span> <span>Which of the following messages is <b><i><u>NOT</u></i></b> usually communicated by the sense of smell?</span></label>
+                    <label for="col-form-label" class="d-flex"><span class="mr-1">11.</span> <span>Which of the following messages is <i class="font-weight-bold"><u>NOT</u></i> usually communicated by the sense of smell?</span></label>
                     <div>
                         <div class="custom-control custom-radio">
                             <input type="radio" id="q11-1" name="q11" class="custom-control-input" value="A">
@@ -285,7 +285,7 @@
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
             <div class="modal-header py-1 bg-primary">
-                <h4 class="modal-title text-white" id="myCenterModalLabel">Score result</h4>
+                <h4 class="modal-title text-white" id="myCenterModalLabel">Scores result</h4>
                 <button type="button" class="close text-white" data-dismiss="modal" aria-hidden="true">×</button>
             </div>
             <div class="modal-body">
