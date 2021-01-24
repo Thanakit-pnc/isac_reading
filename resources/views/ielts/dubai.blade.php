@@ -194,106 +194,113 @@
 
                 <h4 class="mt-0 mb-1">Questions 6 - 10</h4>
                 <p class="mb-0">Identify the paragraphs which contain the following information.</p>
-                <p>For Questions 6 to 10 select the letters A – H.</p>
+                <p>For Questions 6-10, select the letters A–H.</p>
 
-                <div class="row">
-                    <div class="col-md-12">
-                        <table class="table table-bordered table-sm text-dark">
-                            <thead>
-                                <tr>
-                                    <th></th>
-                                    <th></th>
-                                    <th class="font-weight-bold text-center">Paragraph</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td class="align-middle">6</td>
-                                    <td class="align-middle">The preferred metal for Bedouin jewellery.</td>
-                                    <td class="position-relative">
-                                        <select class="form-control" name="q6">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                            <option value="H">H</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">7</td>
-                                    <td class="align-middle">An impression of the Dubai sky-line when arriving by boat.</td>
-                                    <td class="position-relative"> 
-                                        <select class="form-control w-100" name="q7">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                            <option value="H">H</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">8</td>
-                                    <td class="align-middle">A comparison of occupations between city and countryside folk.</td>
-                                    <td class="position-relative">
-                                        <select class="form-control w-100" name="q8">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                            <option value="H">H</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">9</td>
-                                    <td class="align-middle">Why houses in Dubai have a slightly orange appearance.</td>
-                                    <td class="position-relative">
-                                        <select class="form-control w-100" name="q9">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                            <option value="H">H</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">10</td>
-                                    <td class="align-middle">Different rooms for welcoming men and women into the home.</td>
-                                    <td class="position-relative">
-                                        <select class="form-control w-100" name="q10">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                            <option value="H">H</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
+                <div class="row justify-content-between align-items-center mb-2">
+                    <div class="col-4 offset-8 mb-2 text-center font-weight-bold">
+                        Paragraph
+                    </div>
+                    <div class="col-8">
+                        6. The preferred metal for Bedouin jewellery.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q6">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        7. An impression of the Dubai sky-line when arriving by boat.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q7">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        8. A comparison of occupations between city and countryside folk.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q8">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        9. Why houses in Dubai have a slightly orange appearance.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q9">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        10. Different rooms for welcoming men and women into the home.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q10">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                            </select>
+                        </div>
                     </div>
                 </div>
 
@@ -394,7 +401,7 @@
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
             <div class="modal-header py-1 bg-primary">
-                <h4 class="modal-title text-white" id="myCenterModalLabel">Score result</h4>
+                <h4 class="modal-title text-white" id="myCenterModalLabel">Scores result</h4>
                 <button type="button" class="close text-white" data-dismiss="modal" aria-hidden="true">×</button>
             </div>
             <div class="modal-body">
@@ -450,12 +457,12 @@
 
             if(data.exam[quiz].status == 1) {
 
-                $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 30px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
+                $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 20px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
                 select.addClass('border border-success');
 
             } else {
 
-                $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 30px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
+                $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 20px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
                 select.addClass('border border-danger');
 
             }

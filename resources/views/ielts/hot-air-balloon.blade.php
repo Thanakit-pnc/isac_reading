@@ -200,111 +200,118 @@
 
                 <h4 class="mt-0 mb-1">Questions 6 - 10</h4>
                 <p class="mb-0">Identify the paragraphs which contain the following information.</p>
-                <p>For Questions 6 to 10 select the letters A – I.</p>
+                <p>For Questions 6-10, select the letters A–I.</p>
 
-                <div class="row">
-                    <div class="col-md-12">
-                        <table class="table table-bordered table-sm text-dark">
-                            <thead>
-                                <tr>
-                                    <th></th>
-                                    <th></th>
-                                    <th class="font-weight-bold text-center">Paragraph</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td class="align-middle">6</td>
-                                    <td class="align-middle">To contrast a flight in an aeroplane.</td>
-                                    <td class="position-relative">
-                                        <select class="form-control" name="q6">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                            <option value="H">H</option>
-                                            <option value="I">I</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">7</td>
-                                    <td class="align-middle">Examples of animals they saw.</td>
-                                    <td class="position-relative"> 
-                                        <select class="form-control w-100" name="q7">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                            <option value="H">H</option>
-                                            <option value="I">I</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">8</td>
-                                    <td class="align-middle">The emotions of the passengers as they left the ground.</td>
-                                    <td class="position-relative">
-                                        <select class="form-control w-100" name="q8">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                            <option value="H">H</option>
-                                            <option value="I">I</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">9</td>
-                                    <td class="align-middle">A bumpy landing.</td>
-                                    <td class="position-relative">
-                                        <select class="form-control w-100" name="q9">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                            <option value="H">H</option>
-                                            <option value="I">I</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">10</td>
-                                    <td class="align-middle">People making preparations for the flight.</td>
-                                    <td class="position-relative">
-                                        <select class="form-control w-100" name="q10">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                            <option value="H">H</option>
-                                            <option value="I">I</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
+                <div class="row justify-content-between align-items-center mb-2">
+                    <div class="col-4 offset-8 mb-2 text-center font-weight-bold">
+                        Paragraph
+                    </div>
+                    <div class="col-8">
+                        6. To contrast a flight in an aeroplane.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q6">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                                <option value="I">I</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        7. Examples of animals they saw.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q7">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                                <option value="I">I</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        8. The emotions of the passengers as they left the ground.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q8">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                                <option value="I">I</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        9. A bumpy landing.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q9">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                                <option value="I">I</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        10. People making preparations for the flight.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q10">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                                <option value="I">I</option>
+                            </select>
+                        </div>
                     </div>
                 </div>
 
@@ -330,7 +337,7 @@
                         </div>
 
                         <div class="mt-3 line-height">
-                        Eventually all things come to an end.  In front of us we saw the flat area where we would make our <span class="font-weight-bold">11</span> 
+                        Eventually all things come to an end.  In front of us we saw the flat area where we would make our <span class="font-weight-bold">11.</span> 
                         <div class="d-inline-block position-relative">
                             <select name="q11" class="form-control">
                                 <option value="">Select Answer</option>
@@ -344,7 +351,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        . With the balloon hovering just one metre above the ground, the pilot instructed us to get  <span class="font-weight-bold">12</span>
+                        . With the balloon hovering just one metre above the ground, the pilot instructed us to get  <span class="font-weight-bold">12.</span>
                         <div class="d-inline-block position-relative">
                             <select name="q12" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -358,7 +365,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        for the landing.  The wind had <span class="font-weight-bold">13</span>
+                        for the landing.  The wind had <span class="font-weight-bold">13.</span>
                         <div class="d-inline-block position-relative">
                             <select name="q13" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -372,7 +379,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        since early morning and we were now travelling at a fast running pace.  Just before we landed, the pilot <span class="font-weight-bold">14</span>
+                        since early morning and we were now travelling at a fast running pace.  Just before we landed, the pilot <span class="font-weight-bold">14.</span>
                         <div class="d-inline-block position-relative">
                             <select name="q14" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -405,7 +412,7 @@
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
             <div class="modal-header py-1 bg-primary">
-                <h4 class="modal-title text-white" id="myCenterModalLabel">Score result</h4>
+                <h4 class="modal-title text-white" id="myCenterModalLabel">Scores result</h4>
                 <button type="button" class="close text-white" data-dismiss="modal" aria-hidden="true">×</button>
             </div>
             <div class="modal-body">
@@ -461,12 +468,12 @@
 
             if(data.exam[quiz].status == 1) {
 
-                $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 30px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
+                $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 20px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
                 select.addClass('border border-success');
 
             } else {
 
-                $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 30px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
+                $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 20px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
                 select.addClass('border border-danger');
 
             }

@@ -59,7 +59,7 @@
                 <div class="d-flex">
                     <span class="font-weight-bold mr-2">F</span>
                     <p>
-                    Meanwhile, as The Centre’s fame spread, the Deputy Mayor was planning an even more ambitious programme — to bring the comic strip out into the streets of the city by entrusting some of its best masters with the task of transforming grey walls into colourful frescoes.  Thus in 1991 the first of Brussels’ comic strip murals was introduced to the general public. Twelve more previously characterless Brussels neighbourhoods have since been similarly embellished and plans to create a couple of new murals every year are sure to brighten the city even more. Along a ‘Comic Strip Route’ established by the Brussels Tourist Board, wanderers can meet some of Belgium’s best loved comic strip characters. Comic strips also enliven three of Brussels’ underground stations.  In the Stockel underground, two 135 metre long friezes portraying 140 characters of Herge’s comic strips blaze across the walls.
+                    Meanwhile, as The Centre’s fame spread, the Deputy Mayor was planning an even more ambitious programme — to bring the comic strip out into the streets of the city by entrusting some of its best masters with the task of transforming grey walls into colourful frescoes.  Thus, in 1991 the first of Brussels’ comic strip murals was introduced to the general public. Twelve more previously characterless Brussels neighbourhoods have since been similarly embellished and plans to create a couple of new murals every year are sure to brighten the city even more. Along a ‘Comic Strip Route’ established by the Brussels Tourist Board, wanderers can meet some of Belgium’s best loved comic strip characters. Comic strips also enliven three of Brussels’ underground stations.  In the Stockel underground, two 135 metre long friezes portraying 140 characters of Herge’s comic strips blaze across the walls.
                     </p>
                 </div>
                 <div class="d-flex">
@@ -196,114 +196,111 @@
                 <p class="mb-0">Identify the paragraphs which contain the following information.</p>
                 <p>For Questions 6-10, select the letters A–H.</p>
 
-                <div class="row">
-                    <div class="col-md-12">
-                        <table class="table table-bordered table-sm text-dark">
-                            <thead>
-                                <tr>
-                                    <th></th>
-                                    <th></th>
-                                    <th class="font-weight-bold text-center">Paragraph</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td class="align-middle">6</td>
-                                    <td class="align-middle">Where to purchase a school bag with a picture of Tintin’s pet dog.</td>
-                                    <td>
-                                        <div class="position-relative">
-                                            <select class="form-control" name="q6">
-                                                <option value="">Select Answer</option>
-                                                <option value="A">A</option>
-                                                <option value="B">B</option>
-                                                <option value="C">C</option>
-                                                <option value="D">D</option>
-                                                <option value="E">E</option>
-                                                <option value="F">F</option>
-                                                <option value="G">G</option>
-                                                <option value="H">H</option>
-                                            </select>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">7</td>
-                                    <td class="align-middle">The development of comic strips as part of the school curriculum.</td>
-                                    <td> 
-                                        <div class="position-relative">
-                                            <select class="form-control w-100" name="q7">
-                                                <option value="">Select Answer</option>
-                                                <option value="A">A</option>
-                                                <option value="B">B</option>
-                                                <option value="C">C</option>
-                                                <option value="D">D</option>
-                                                <option value="E">E</option>
-                                                <option value="F">F</option>
-                                                <option value="G">G</option>
-                                                <option value="H">H</option>
-                                            </select>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">8</td>
-                                    <td class="align-middle">An unusual place to stay.</td>
-                                    <td>
-                                        <div class="position-relative">
-                                            <select class="form-control w-100" name="q8">
-                                                <option value="">Select Answer</option>
-                                                <option value="A">A</option>
-                                                <option value="B">B</option>
-                                                <option value="C">C</option>
-                                                <option value="D">D</option>
-                                                <option value="E">E</option>
-                                                <option value="F">F</option>
-                                                <option value="G">G</option>
-                                                <option value="H">H</option>
-                                            </select>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">9</td>
-                                    <td class="align-middle">Large paintings on city walls.</td>
-                                    <td>
-                                        <div class="position-relative">
-                                            <select class="form-control w-100" name="q9">
-                                                <option value="">Select Answer</option>
-                                                <option value="A">A</option>
-                                                <option value="B">B</option>
-                                                <option value="C">C</option>
-                                                <option value="D">D</option>
-                                                <option value="E">E</option>
-                                                <option value="F">F</option>
-                                                <option value="G">G</option>
-                                                <option value="H">H</option>
-                                            </select>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">10</td>
-                                    <td class="align-middle">Another name for the comic strip.</td>
-                                    <td>
-                                        <div class="position-relative">
-                                            <select class="form-control w-100" name="q10">
-                                                <option value="">Select Answer</option>
-                                                <option value="A">A</option>
-                                                <option value="B">B</option>
-                                                <option value="C">C</option>
-                                                <option value="D">D</option>
-                                                <option value="E">E</option>
-                                                <option value="F">F</option>
-                                                <option value="G">G</option>
-                                                <option value="H">H</option>
-                                            </select>
-                                        </div>
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
+                <div class="row justify-content-between align-items-center mb-2">
+                    <div class="col-4 offset-8 mb-2 text-center font-weight-bold">
+                        Paragraph
+                    </div>
+                    <div class="col-8">
+                        6. Where to purchase a school bag with a picture of Tintin’s pet dog.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q6">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        7. The development of comic strips as part of the school curriculum.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q7">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        8. An unusual place to stay.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q8">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        9. Large paintings on city walls.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q9">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        10. Another name for the comic strip.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q10">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                            </select>
+                        </div>
                     </div>
                 </div>
 
@@ -329,7 +326,7 @@
                         </div>
 
                         <div class="mt-3" style="line-height: 3rem;">
-                        Along a ‘Comic Strip Route’ established by the Brussels Tourist Board, wanderers can meet some of Belgium’s most  <span class="font-weight-bold">11</span> 
+                        Along a ‘Comic Strip Route’ established by the Brussels Tourist Board, wanderers can meet some of Belgium’s most  <span class="font-weight-bold">11.</span> 
                         <div class="d-inline-block position-relative">
                             <select name="q11" class="form-control">
                                 <option value="">Select Answer</option>
@@ -343,7 +340,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        comic strip characters.  <span class="font-weight-bold">12</span>
+                        comic strip characters.  <span class="font-weight-bold">12.</span>
                         <div class="d-inline-block position-relative">
                             <select name="q12" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -357,7 +354,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        strips also enliven three of Brussels’ underground stations.  In the Stockel underground, two 135 metre long friezes  <span class="font-weight-bold">13</span>
+                        strips also enliven three of Brussels’ underground stations.  In the Stockel underground, two 135 metre long friezes  <span class="font-weight-bold">13.</span>
                         <div class="d-inline-block position-relative">
                             <select name="q13" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -371,7 +368,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        140 characters of Herge’s comic strips <span class="font-weight-bold">14</span>
+                        140 characters of Herge’s comic strips <span class="font-weight-bold">14.</span>
                         <div class="d-inline-block position-relative">
                             <select name="q14" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -404,7 +401,7 @@
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
             <div class="modal-header py-1 bg-primary">
-                <h4 class="modal-title text-white" id="myCenterModalLabel">Score result</h4>
+                <h4 class="modal-title text-white" id="myCenterModalLabel">Scores result</h4>
                 <button type="button" class="close text-white" data-dismiss="modal" aria-hidden="true">×</button>
             </div>
             <div class="modal-body">

@@ -206,117 +206,124 @@
 
                 <h4 class="mt-0 mb-1">Questions 6 - 10</h4>
                 <p class="mb-0">Identify the paragraphs which contain the following information.</p>
-                <p class="mb-0">For Questions 6 to 10 select the letters A – J.</p>
-                <p>N.B. You may use any letter more than once.</p>
+                <p class="mb-0">For Questions 6-10, select the letters A–J.</p>
+                <p><span class="font-weight-bold">NB</span> You may use any letter more than once.</p>
 
-                <div class="row">
-                    <div class="col-md-12">
-                        <table class="table table-bordered table-sm text-dark">
-                            <thead>
-                                <tr>
-                                    <th></th>
-                                    <th></th>
-                                    <th class="font-weight-bold text-center">Paragraph</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td class="align-middle">6</td>
-                                    <td class="align-middle">A description of a dark and damp part of the forest.</td>
-                                    <td class="position-relative">
-                                        <select class="form-control" name="q6">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                            <option value="H">H</option>
-                                            <option value="I">I</option>
-                                            <option value="J">J</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">7</td>
-                                    <td class="align-middle">Attempts by the park staff to discourage tourists from climbing Mulu.</td>
-                                    <td class="position-relative"> 
-                                        <select class="form-control w-100" name="q7">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                            <option value="H">H</option>
-                                            <option value="I">I</option>
-                                            <option value="J">J</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">8</td>
-                                    <td class="align-middle">The view from the summit.</td>
-                                    <td class="position-relative">
-                                        <select class="form-control w-100" name="q8">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                            <option value="H">H</option>
-                                            <option value="I">I</option>
-                                            <option value="J">J</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">9</td>
-                                    <td class="align-middle">Some geographical features of the park</td>
-                                    <td class="position-relative">
-                                        <select class="form-control w-100" name="q9">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                            <option value="H">H</option>
-                                            <option value="I">I</option>
-                                            <option value="J">J</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">10</td>
-                                    <td class="align-middle">An example of a wild animal found in the park.</td>
-                                    <td class="position-relative">
-                                        <select class="form-control w-100" name="q10">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                            <option value="H">H</option>
-                                            <option value="I">I</option>
-                                            <option value="J">J</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
+                <div class="row justify-content-between align-items-center mb-2">
+                    <div class="col-4 offset-8 mb-2 text-center font-weight-bold">
+                        Paragraph
+                    </div>
+                    <div class="col-8">
+                        6. A description of a dark and damp part of the forest.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q6">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                                <option value="I">I</option>
+                                <option value="J">J</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        7. Attempts by the park staff to discourage tourists from climbing Mulu.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q7">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                                <option value="I">I</option>
+                                <option value="J">J</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        8. The view from the summit.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q8">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                                <option value="I">I</option>
+                                <option value="J">J</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        9. Some geographical features of the park.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q9">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                                <option value="I">I</option>
+                                <option value="J">J</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        10. An example of a wild animal found in the park.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q10">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                                <option value="I">I</option>
+                                <option value="J">J</option>
+                            </select>
+                        </div>
                     </div>
                 </div>
 
@@ -324,7 +331,7 @@
 
                 <h4 class="mt-0 mb-1">Questions 11 - 14</h4>
                 <p class="mb-0">Complete the following passage using words from the box. </p>
-                <p>For Questions 11 – 14, select the letters a – h.</p>
+                <p>For Questions 11–14, select the letters a–h.</p>
                 
                 <div class="row">
                     <div class="col-md-12">
@@ -342,7 +349,7 @@
                         </div>
 
                         <div class="mt-3 line-height">
-                        Shackleton assumed the explorer’s privilege of naming the summit.  He called it Oxford Peak after his university, but the name never stuck.  However, the route he and his  <span class="font-weight-bold">11</span> 
+                        Shackleton assumed the explorer’s privilege of naming the summit.  He called it Oxford Peak after his university, but the name never stuck.  However, the route he and his  <span class="font-weight-bold">11.</span> 
                         <div class="d-inline-block position-relative">
                             <select name="q11" class="form-control">
                                 <option value="">Select Answer</option>
@@ -356,7 +363,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        followed is basically the same as the one tourists follow today.  But there are certain differences.  Whereas Shackleton’s party had to navigate and cut a path, today’s climber follows a  <span class="font-weight-bold">12</span>
+                        followed is basically the same as the one tourists follow today.  But there are certain differences.  Whereas Shackleton’s party had to navigate and cut a path, today’s climber follows a  <span class="font-weight-bold">12.</span>
                         <div class="d-inline-block position-relative">
                             <select name="q12" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -370,7 +377,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        trail.  And whereas Shackleton’s party had to climb near vertical pitches, fixed ropes have been installed for safety and convenience.  There is even some basic  <span class="font-weight-bold">13</span>
+                        trail.  And whereas Shackleton’s party had to climb near vertical pitches, fixed ropes have been installed for safety and convenience.  There is even some basic  <span class="font-weight-bold">13.</span>
                         <div class="d-inline-block position-relative">
                             <select name="q13" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -384,7 +391,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        left behind by the Royal Geographical Society’s expedition of the late 1970’s.  But the 48 km trail to the top and back is still a <span class="font-weight-bold">14</span>
+                        left behind by the Royal Geographical Society’s expedition of the late 1970’s.  But the 48 km trail to the top and back is still a <span class="font-weight-bold">14.</span>
                         <div class="d-inline-block position-relative">
                             <select name="q14" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -417,7 +424,7 @@
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
             <div class="modal-header py-1 bg-primary">
-                <h4 class="modal-title text-white" id="myCenterModalLabel">Score result</h4>
+                <h4 class="modal-title text-white" id="myCenterModalLabel">Scores result</h4>
                 <button type="button" class="close text-white" data-dismiss="modal" aria-hidden="true">×</button>
             </div>
             <div class="modal-body">
@@ -473,12 +480,12 @@
 
             if(data.exam[quiz].status == 1) {
 
-                $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 30px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
+                $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 20px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
                 select.addClass('border border-success');
 
             } else {
 
-                $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 30px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
+                $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 20px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
                 select.addClass('border border-danger');
 
             }

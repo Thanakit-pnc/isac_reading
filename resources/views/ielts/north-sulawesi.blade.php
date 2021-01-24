@@ -104,7 +104,7 @@
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="col-form-label" ><span class="mr-1">2.</span> What common characteristics do Bali and Sulawesi <u>NOT</u> share?</label>
+                            <label for="col-form-label" ><span class="mr-1">2.</span> What common characteristics do Bali and Sulawesi <span class="font-weight-bold">NOT</span> share?</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q2-1" name="q2" class="custom-control-input" value="A">
@@ -173,135 +173,134 @@
 
                 <h4 class="mt-0 mb-1">Questions 5 - 10</h4>
                 <p class="mb-0">Identify the paragraphs which contain the following information.</p>
-                <p>For Questions 5 to 10 write the letters A – H.</p>
+                <p>For Questions 5-10, select the letters A–H.</p>
 
-                <div class="row">
-                    <div class="col-md-12">
-                        <table class="table table-bordered table-sm text-dark">
-                            <thead>
-                                <tr>
-                                    <th></th>
-                                    <th></th>
-                                    <th class="font-weight-bold text-center">Paragraph</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td class="align-middle">5</td>
-                                    <td class="align-middle">Characteristics of traditional homes on Sulawesi.</td>
-                                    <td>
-                                        <div class="position-relative">
-                                            <select class="form-control" name="q5">
-                                                <option value="">Select Answer</option>
-                                                <option value="A">A</option>
-                                                <option value="B">B</option>
-                                                <option value="C">C</option>
-                                                <option value="D">D</option>
-                                                <option value="E">E</option>
-                                                <option value="F">F</option>
-                                                <option value="G">G</option>
-                                                <option value="H">H</option>
-                                            </select>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">6</td>
-                                    <td class="align-middle">A comparison between two Indonesian islands.</td>
-                                    <td> 
-                                        <div class="position-relative">
-                                            <select class="form-control w-100" name="q6">
-                                                <option value="">Select Answer</option>
-                                                <option value="A">A</option>
-                                                <option value="B">B</option>
-                                                <option value="C">C</option>
-                                                <option value="D">D</option>
-                                                <option value="E">E</option>
-                                                <option value="F">F</option>
-                                                <option value="G">G</option>
-                                                <option value="H">H</option>
-                                            </select>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">7</td>
-                                    <td class="align-middle">A description of a popular evening pastime in Manado.</td>
-                                    <td>
-                                        <div class="position-relative">
-                                            <select class="form-control w-100" name="q7">
-                                                <option value="">Select Answer</option>
-                                                <option value="A">A</option>
-                                                <option value="B">B</option>
-                                                <option value="C">C</option>
-                                                <option value="D">D</option>
-                                                <option value="E">E</option>
-                                                <option value="F">F</option>
-                                                <option value="G">G</option>
-                                                <option value="H">H</option>
-                                            </select>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">8</td>
-                                    <td class="align-middle">An example of how European settlers have influenced current traditions.</td>
-                                    <td>
-                                        <div class="position-relative">
-                                            <select class="form-control w-100" name="q8">
-                                                <option value="">Select Answer</option>
-                                                <option value="A">A</option>
-                                                <option value="B">B</option>
-                                                <option value="C">C</option>
-                                                <option value="D">D</option>
-                                                <option value="E">E</option>
-                                                <option value="F">F</option>
-                                                <option value="G">G</option>
-                                                <option value="H">H</option>
-                                            </select>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">9</td>
-                                    <td class="align-middle">An example of an endangered species living there.</td>
-                                    <td>
-                                        <div class="position-relative">
-                                            <select class="form-control w-100" name="q9">
-                                                <option value="">Select Answer</option>
-                                                <option value="A">A</option>
-                                                <option value="B">B</option>
-                                                <option value="C">C</option>
-                                                <option value="D">D</option>
-                                                <option value="E">E</option>
-                                                <option value="F">F</option>
-                                                <option value="G">G</option>
-                                                <option value="H">H</option>
-                                            </select>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">10</td>
-                                    <td class="align-middle">A list of creatures visiting the waters around Manado.</td>
-                                    <td>
-                                        <div class="position-relative">
-                                            <select class="form-control w-auto" name="q10">
-                                                <option value="">Select Answer</option>
-                                                <option value="A">A</option>
-                                                <option value="B">B</option>
-                                                <option value="C">C</option>
-                                                <option value="D">D</option>
-                                                <option value="E">E</option>
-                                                <option value="F">F</option>
-                                                <option value="G">G</option>
-                                                <option value="H">H</option>
-                                            </select>
-                                        </div>
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
+                <div class="row justify-content-between align-items-center mb-2">
+                    <div class="col-4 offset-8 mb-2 text-center font-weight-bold">
+                        Paragraph
+                    </div>
+                    <div class="col-8">
+                        5. Characteristics of traditional homes on Sulawesi.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q5">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        6. A comparison between two Indonesian islands.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q6">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        7. A description of a popular evening pastime in Manado.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q7">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        8. An example of how European settlers have influenced current traditions.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q8">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        9. An example of an endangered species living there.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q9">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        10. A list of creatures visiting the waters around Manado.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q10">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                            </select>
+                        </div>
                     </div>
                 </div>
 
@@ -309,7 +308,7 @@
 
                 <h4 class="mt-0 mb-1">Questions 11 - 14</h4>
                 <p class="mb-0">Complete the following passage using words from the box. </p>
-                <p>For Questions 11 – 14, select the letters a – h.</p>
+                <p>For Questions 11–14, select the letters a–h.</p>
                 
                 <div class="row">
                     <div class="col-md-12">
@@ -326,8 +325,8 @@
                             </div>
                         </div>
 
-                        <div class="mt-3 line-height">
-                        The origins of the Minahasa remain a mystery. However, just outside the  <span class="font-weight-bold">11</span> 
+                        <div class="mt-3" style="line-height: 2rem;">
+                        The origins of the Minahasa remain a mystery. However, just outside the  <span class="font-weight-bold">11.</span> 
                         <div class="d-inline-block position-relative">
                             <select name="q11" class="form-control">
                                 <option value="">Select Answer</option>
@@ -341,7 +340,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        capital of Manado, iron-age remains of their ancient culture are in evidence; unfortunately, they tend to create more questions than they answer.  They come in the form of thick, elaborately carved stone tombs, known locally as warugas.  The <span class="font-weight-bold">12</span>
+                        capital of Manado, iron-age remains of their ancient culture are in evidence; unfortunately, they tend to create more questions than they answer.  They come in the form of thick, elaborately carved stone tombs, known locally as warugas.  The <span class="font-weight-bold">12.</span>
                         <div class="d-inline-block position-relative">
                             <select name="q12" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -355,7 +354,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        were buried in a sitting position along with their most prized possessions, jewellery, and even examples of antique <span class="font-weight-bold">13</span>
+                        were buried in a sitting position along with their most prized possessions, jewellery, and even examples of antique <span class="font-weight-bold">13.</span>
                         <div class="d-inline-block position-relative">
                             <select name="q13" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -369,7 +368,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        crafts.  They were often buried next to their homes and worshipped by the rest of the family.  Because of the valuables added to the tombs, however, most have since been  <span class="font-weight-bold">14</span>
+                        crafts.  They were often buried next to their homes and worshipped by the rest of the family.  Because of the valuables added to the tombs, however, most have since been  <span class="font-weight-bold">14.</span>
                         <div class="d-inline-block position-relative">
                             <select name="q14" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -402,7 +401,7 @@
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
             <div class="modal-header py-1 bg-primary">
-                <h4 class="modal-title text-white" id="myCenterModalLabel">Score result</h4>
+                <h4 class="modal-title text-white" id="myCenterModalLabel">Scores result</h4>
                 <button type="button" class="close text-white" data-dismiss="modal" aria-hidden="true">×</button>
             </div>
             <div class="modal-body">
@@ -458,12 +457,12 @@
 
             if(data.exam[quiz].status == 1) {
 
-                $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 15px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
+                $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 20px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
                 select.addClass('border border-success');
 
             } else {
 
-                $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 15px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
+                $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 20px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
                 select.addClass('border border-danger');
 
             }

@@ -39,7 +39,7 @@
                 At the University of Tokyo, professor Hashimoto and his colleague Noguchi showed a small brown vial of puffer poison, known as tetrodoxin. A pinch of the white powder - about the amount found in one prime-sized tiger fugu - is enough to kill more than 30 people. The estimated lethal dose for an adult, a mere one to two milligrams, could be put on a pinhead. Puffer toxin blocks sodium channels in nerve tissues, ultimately paralyzing muscles. Respiratory arrest is the cause of death. There is no proven antidote, perhaps because the toxin has a molecular structure unlike anything previously known to organic chemistry. Because of its potency - it is 1250 times deadlier than cyanide - the toxin is an important tool in modern neurological research. In diluted form it is also used as a painkiller for victims of neuralgia, arthritis and rheumatism.
                 </p>
                 <p>
-                The best season for fugu dishes is during the winter.  Therefore, there is a large difference in prices over the seasons.  Fugu is one of the most expensive foods in Japan.  A single fish can bring $50 to $140.  Cut up and served in a restaurant, it can bring $200.  Yet fugu has become increasingly popular.  At the small Haedomari Market in Shimonoseki, Japan's ‘fugu city’, where 80 percent of Japan's fugu catch is sold,  auctioneers start taking bids for the fish as early as one in the morning. Even at that hour the fishermen have already transferred hundreds of live fish caught as far away as Korea.  From Shimonoseki, they will be tracked or flown throughout the country. Fugu are sold while they are alive; therefore, transportation for fugu is exclusively arranged.  The fugu's mouth are stitched shut because fugu tend to fight with each other in a small space.
+                The best season for fugu dishes is during the winter.  Therefore, there is a large difference in prices over the seasons.  Fugu is one of the most expensive foods in Japan.  A single fish can bring $50 to $140.  Cut up and served in a restaurant, it can bring $200.  Yet fugu has become increasingly popular.  At the small Haedomari Market in Shimonoseki, Japan's ‘fugu city’, where 80 percent of Japan's fugu catch is sold,  auctioneers start taking bids for the fish as early as one in the morning. Even at that hour, the fishermen have already transferred hundreds of live fish caught as far away as Korea.  From Shimonoseki, they will be tracked or flown throughout the country. Fugu are sold while they are alive; therefore, transportation for fugu is exclusively arranged.  The fugu's mouth are stitched shut because fugu tend to fight with each other in a small space.
                 </p>
                 <p>
                 Despite the danger, demand for puffer dishes is increasing so fast that Japanese fishing grounds are being depleted. Today, Japanese are culturing the fish on aquafarms and there is evidence of success in the artificial cultivation of fugu.  Fishers catch fugu in spring, usually with a hook and net, because it is the spawning season. Then, they cultivate these fish in a cage in the sea. They raise fish until the price goes up and start selling fugu in the fish market in late autumn. Farmed fugu, not feeding on plankton, is not lethal. They feed fugu on fresh fish until they grow up. There is also full-scale farming using artificial insemination. Apart from the supply of fugu fish itself, there is also a shortage of specialized chefs who can prepare the delicacy. A recent decision to relax the strict regulations on certification, so that the training period is reduced, has met with some consumer concern. 
@@ -53,16 +53,16 @@
             <div class="card-box font-16 text-dark overflow-custom">
                 <h4 class="mt-0 mb-1">Questions 1 - 5</h4>
                 <p class="mb-0">Do the following statements agree with the information given in the passage?</p>
-                <p class="font-weight-bold">For Questions 1-5 select</p>
-                <div class="row">
-                    <div class="col-md-3">
+                <p>For Questions 1-5, select</p>
+                <div class="row justify-content-center">
+                    <div class="col-md-auto">
                         <div class="d-flex flex-column">
                             <strong class="font-weight-bold">TRUE</strong>
                             <strong class="font-weight-bold">FALSE</strong>
                             <strong class="font-weight-bold">NOT GIVEN</strong>
                         </div>
                     </div>
-                    <div class="col-md-9">
+                    <div class="col-md-auto">
                         <div class="d-flex flex-column">
                             <p class="mb-0">if the statement agrees with the information</p>
                             <p class="mb-0">if the statement contradicts the information</p>
@@ -124,10 +124,10 @@
 
                 <h4 class="mt-0 mb-1">Questions 6 - 10</h4>
                 <p class="mb-0">Classify the following statements as referring to the senses.</p>
-                <p class="mb-0">For Questions 6 – 10 select a letter, A, B, C, or D.</p>
+                <p class="mb-0">For Questions 6–10, select a letter A, B, C, or D.</p>
 
                 <div class="row">
-                    <div class="col-md-12">
+                    <div class="col-md-12 my-2">
                         <div class="d-flex flex-column">
                             <strong class="font-weight-bold">A. Fugu caught at sea</strong>
                             <strong class="font-weight-bold">B. Fugu from aquafarms</strong>
@@ -136,9 +136,9 @@
                     </div>
 
                     <div class="col-md-12">
-                        <div class="form-group">
+                        <div class="form-group mb-0">
                             <label for="q6" class="col-form-label">6. Its skin is used to make lanterns to hang outside restaurants.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q6" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -147,9 +147,9 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="form-group">
+                        <div class="form-group mb-0">
                             <label for="q7" class="col-form-label">7. They feed on fresh fish.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q7" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -158,9 +158,9 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="form-group">
+                        <div class="form-group mb-0">
                             <label for="q8" class="col-form-label">8. They spend some of their lives in a cage in the ocean.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q8" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -169,9 +169,9 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="form-group">
+                        <div class="form-group mb-0">
                             <label for="q9" class="col-form-label">9. The fish are transported live.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q9" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -180,9 +180,9 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="form-group">
+                        <div class="form-group mb-1">
                             <label for="q10" class="col-form-label">10. It is used in medical research.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q10" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -280,7 +280,7 @@
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
             <div class="modal-header py-1 bg-primary">
-                <h4 class="modal-title text-white" id="myCenterModalLabel">Score result</h4>
+                <h4 class="modal-title text-white" id="myCenterModalLabel">Scores result</h4>
                 <button type="button" class="close text-white" data-dismiss="modal" aria-hidden="true">×</button>
             </div>
             <div class="modal-body">

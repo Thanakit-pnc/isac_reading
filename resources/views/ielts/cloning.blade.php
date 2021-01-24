@@ -76,7 +76,7 @@
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">2.</span> WWhat was the immediate reaction of the Press when the findings became known?</label>
+                            <label for="col-form-label" class="d-flex"><span class="mr-1">2.</span> What was the immediate reaction of the Press when the findings became known?</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q2-1" name="q2" class="custom-control-input" value="A">
@@ -166,17 +166,17 @@
 
                 <h4 class="mt-0 mb-1">Questions 6 - 11</h4>
                 <p class="mb-0">Do the following statements agree with the information given in the passage?</p>
-                <p>For Questions 6 - 11 select</p>
+                <p>For Questions 6-11, select</p>
 
-                <div class="row">
-                    <div class="col-md-3">
+                <div class="row justify-content-center">
+                    <div class="col-md-auto">
                         <div class="d-flex flex-column">
                             <strong class="font-weight-bold">TRUE</strong>
                             <strong class="font-weight-bold">FALSE</strong>
                             <strong class="font-weight-bold">NOT GIVEN</strong>
                         </div>
                     </div>
-                    <div class="col-md-9">
+                    <div class="col-md-auto">
                         <div class="d-flex flex-column">
                             <p class="mb-0">if the statement agrees with the information</p>
                             <p class="mb-0">if the statement contradicts the information</p>
@@ -254,13 +254,13 @@
                         <div class="d-flex mb-2">
                             <span class="mr-2">12. </span>
                             <p class="mb-0 d-inline-block">
-                                Couples who cannot conceive naturally resort to medical assistance using the <input type="text" class="form-control form-control-sm w-auto d-inline-block" name="q12"> fertilization process.
+                                Couples who cannot conceive naturally resort to medical assistance using the <input type="text" class="form-control w-auto d-inline-block" name="q12"> fertilization process.
                             </p>
                         </div>
                         <div class="d-flex">
                             <span class="mr-2">13. </span>
                             <p class="mb-0 d-inline-block">
-                            In this process, the woman’s eggs and the man’s sperm is mixed together in a  <input type="text" class="form-control form-control-sm w-auto d-inline-block" name="q13"> and for this reason the resulting off-spring are sometimes referred to as ‘test-tube’ babies. 
+                            In this process, the woman’s eggs and the man’s sperm is mixed together in a  <input type="text" class="form-control w-auto d-inline-block" name="q13"> and for this reason the resulting off-spring are sometimes referred to as ‘test-tube’ babies. 
                             </p>
                         </div>
                     </div>
@@ -280,7 +280,7 @@
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
             <div class="modal-header py-1 bg-primary">
-                <h4 class="modal-title text-white" id="myCenterModalLabel">Score result</h4>
+                <h4 class="modal-title text-white" id="myCenterModalLabel">Scores result</h4>
                 <button type="button" class="close text-white" data-dismiss="modal" aria-hidden="true">×</button>
             </div>
             <div class="modal-body">

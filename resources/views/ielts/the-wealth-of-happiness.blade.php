@@ -59,16 +59,16 @@
             <div class="card-box font-16 text-dark overflow-custom">
                 <h4 class="mt-0 mb-1">Questions 1 - 5</h4>
                 <p class="mb-0">Do the following statements agree with the information given in the passage?</p>
-                <p class="font-weight-bold">For Questions 1-5 select</p>
-                <div class="row">
-                    <div class="col-md-3">
+                <p>For Questions 1-5, select</p>
+                <div class="row justify-content-center">
+                    <div class="col-md-auto">
                         <div class="d-flex flex-column">
                             <strong class="font-weight-bold">TRUE</strong>
                             <strong class="font-weight-bold">FALSE</strong>
                             <strong class="font-weight-bold">NOT GIVEN</strong>
                         </div>
                     </div>
-                    <div class="col-md-9">
+                    <div class="col-md-auto">
                         <div class="d-flex flex-column">
                             <p class="mb-0">if the statement agrees with the information</p>
                             <p class="mb-0">if the statement contradicts the information</p>
@@ -247,8 +247,8 @@
                 <div class="bg-dark my-2 border border-dark"></div>
 
                 <h4 class="mt-0 mb-1">Questions 11 - 13</h4>
-                <p class="mt-0">Complete the statements.</p>
-                <p>For Questions 11-13, write NO MORE THAN ONE WORD for each answer.</p>
+                <p class="mt-0 mb-0">Complete the statements.</p>
+                <p>For Questions 11-13, write <span class="font-weight-bold">NO MORE THAN ONE WORD</span> for each answer.</p>
                 
                 <div class="d-flex align-items-baseline">
                     <span class="mr-2">11.</span>
@@ -285,7 +285,7 @@
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
             <div class="modal-header py-1 bg-primary">
-                <h4 class="modal-title text-white" id="myCenterModalLabel">Score result</h4>
+                <h4 class="modal-title text-white" id="myCenterModalLabel">Scores result</h4>
                 <button type="button" class="close text-white" data-dismiss="modal" aria-hidden="true">×</button>
             </div>
             <div class="modal-body">

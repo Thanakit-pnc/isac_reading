@@ -27,49 +27,49 @@
         <div class="col-md-6">
             <div class="card-box font-16 text-dark overflow-custom sandbox">
                 <div class="d-flex">
-                    <span class="font-weight-bold mr-2">A.</span>
+                    <span class="font-weight-bold mr-2">A</span>
                     <p>
                     This man-made island, which is three kilometres from the capital and located in an area called Kota Batu, rises above the waterline, surrounded by mangrove trees and teeming with wildlife. Its appearance gives no clue to its historical significance.  Terindak Island is a visible remnant of a lost city — the old capital of the Brunei sultanate during its “golden age” in the 15th and 16th centuries.  Kota Batu was the commercial and political centre of an empire that comprised northern Borneo and the southern Philippines.  A busy port with strong maritime trading links to the rest of Southeast Asia and China, it was a place of wealth and power. Probably built as a combination of fortress, custom house and harbour-master’s office, Terindak Island had stout retaining walls of nibong palm trunks and was connected to the mainland by a bridge or causeway.  Its dock or anchorage was an adjacent tidal flat.
                     </p>
                 </div>
                 <div class="d-flex">
-                    <span class="font-weight-bold mr-2">B.</span>
+                    <span class="font-weight-bold mr-2">B</span>
                     <p>
                     The earliest references to Brunei are found in 6th century Chinese sources.  Archaeologists have carbon-dated woodwork preserved in the clay soil to the 12th century when international trade was well established.  An inspector of Chinese maritime trade, writing in 1225, listed Brunei as one of the main destinations for ships from Fukien province.  These links endured for a long time.  In 1371 Brunei’s first Islamic ruler sent an envoy to China, and the second sultan, Abdul Majid Hassan, was buried at Nanking in 1408.  The Chinese came to trade for camphor, a medicinal substance derived from the tree of the same name and a highly valued commodity abundant in Brunei.
                     </p>
                 </div>
                 <div class="d-flex">
-                    <span class="font-weight-bold mr-2">C.</span>
+                    <span class="font-weight-bold mr-2">C</span>
                     <p>
                     Kota Batu became pre-eminent by the 14th century.  A good site for a city and port, it was sheltered from monsoon winds by surrounding hills and the wide river gave sailing vessels room to manoeuvre.  It was fairly secure thanks to an artificial sand bar at the river mouth which prevented large ships from entering.  Presumably, the ocean-going junks of the Chinese anchored in the bay and sent their trade goods to Terindak harbour in smaller craft.  Chinese masons built a defensive stone wall around the city for the fourth sultan, Sharif Ali, around 1430.  This is the origin of the name, since Kota Batu means stone fortress in Malay.  Fortifications were also built on Chermin Island at the mouth of the river.
                     </p>
                 </div>
                 <div class="d-flex">
-                    <span class="font-weight-bold mr-2">D.</span>
+                    <span class="font-weight-bold mr-2">D</span>
                     <p>
                     Three generations later, the pattern of commerce in Asia began to change irrevocably with the arrival of Europeans determined to seize control of the lucrative spice trade.  At first, this ran to Brunei’s favour.  The great port of Malacca, a key bastion of the western approaches to the Malay archipelago, fell to the Portuguese in 1511 and many of its Muslim traders and nobility moved east to Brunei, which took on Malacca’s mantle as the premier trading centre in the region.
                     </p>
                 </div>
                 <div class="d-flex">
-                    <span class="font-weight-bold mr-2">E.</span>
+                    <span class="font-weight-bold mr-2">E</span>
                     <p>
                     When Antonio Pigafetta arrived in Brunei with Magellan’s Spanish fleet in 1521, he recorded his famous description of Kota Batu, a city of 25,000 houses, mostly built on stilts over water in the time-honoured fashion still visible today.  Though most historians believe his figure was exaggerated, no one doubts the evidence of a prosperous, well-ordered city — possibly the finest in the archipelago at that time.  The Spaniards were clearly impressed by Brunei’s wealth and wary of its military power.  Pigafetta’s account dwells on the number of armed men in the royal bodyguard, the city’s strong fortifications and the number of boats in the sultan’s flotilla.  It was the arrival of the latter in Brunei Bay which panicked the Spaniards and caused them to flee, cutting loose a precious anchor to speed their departure.
                     </p>
                 </div>
                 <div class="d-flex">
-                    <span class="font-weight-bold mr-2">F.</span>
+                    <span class="font-weight-bold mr-2">F</span>
                     <p>
                     Nevertheless, by 1600, Kota Batu had become a city in decline as people moved up river.  The catalyst was probably the Spanish attack of 1578.  At the time, Spain was trying to exert control over the southern Philippines, which were under nominal Bruneian sovereignty.  The inevitable clash came when the Spanish sailed to Brunei, defeated the sultan’s fleet and occupied Kota Batu.  They withdrew soon afterwards when sickness and attrition had depleted their ranks — but not before sacking the city and burning the mosque reputed to be one of the most splendid in Asia.
                     </p>
                 </div>
                 <div class="d-flex">
-                    <span class="font-weight-bold mr-2">G.</span>
+                    <span class="font-weight-bold mr-2">G</span>
                     <p>
                     Dutch mariners who arrived in 1600 related that those who fled up river during the Spanish assault never returned.  They found a city of 300 houses and provided the first record of people living further inland, a population drift to what must have seemed a safer haven.  By the late 17th century, the capital was firmly established further north and upstream — roughly where Bandar Seri Begawan is today.
                     </p>
                 </div>
                 <div class="d-flex">
-                    <span class="font-weight-bold mr-2">H.</span>
+                    <span class="font-weight-bold mr-2">H</span>
                     <p>
                     Kota Batu’s stone wall has gone, but archaeologists continue the painstaking work of uncovering and investigating the buried remnants of the old city.  Now the name of a suburb of the present-day capital, Bandar Seri Begawan, Kota Batu refers to both a Malay village near Terindak island and to the whole of the northern bank of the Brunei River. Two of the sultans who reigned over Kota Batu in its golden age are buried there and their tombs overlook the river near the Brunei Museum.  Like Terindak Island, they are reminders of Brunei’s lost city - the heart of a golden age and the capital of an empire which drew trade from the four corners of Asia.
                     </p>
@@ -192,120 +192,124 @@
 
                 <div class="bg-dark my-2 border border-dark"></div>
 
-                <h4 class="mt-0 mb-1">Questions 6 - 10</h4>
-                <p class="mt-0 mb-1">Identify the paragraphs which contain the following information.</p>
-                <p class="mt-0 mb-1">For Questions 6 to 10 select the letters A – H.</p>
-                <p>N.B. You may use any letter more than once.</p>
+                <h4 class="mt-0 mb-0">Questions 6 - 10</h4>
+                <p class="mt-0 mb-0">Identify the paragraphs which contain the following information.</p>
+                <p class="mt-0 mb-0">For Questions 6-10, select the letters A–H.</p>
+                <p><span class="font-weight-bold">NB</span> You may use any letter more than once.</p>
 
-                <div class="row">
-                    <div class="col-md-12">
-                        <table class="table table-bordered table-sm text-dark">
-                            <thead>
-                                <tr>
-                                    <th></th>
-                                    <th></th>
-                                    <th class="font-weight-bold text-center">Paragraph</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td class="align-middle">6</td>
-                                    <td class="align-middle">Details of where two of Brunei’s rulers are buried.</td>
-                                    <td class="position-relative">
-                                        <select class="form-control" name="q6">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                            <option value="H">H</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">7</td>
-                                    <td class="align-middle">The reason why Kota Batu decreased in importance.</td>
-                                    <td class="position-relative"> 
-                                        <select class="form-control w-100" name="q7">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                            <option value="H">H</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">8</td>
-                                    <td class="align-middle">Historical accounts of the origins of Brunei.</td>
-                                    <td class="position-relative">
-                                        <select class="form-control w-100" name="q8">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                            <option value="H">H</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">9</td>
-                                    <td class="align-middle">First impressions of a European visitor.</td>
-                                    <td class="position-relative">
-                                        <select class="form-control w-100" name="q9">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                            <option value="H">H</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="align-middle">10</td>
-                                    <td class="align-middle">Geographical reasons why Kota Batu grew in importance.</td>
-                                    <td class="position-relative">
-                                        <select class="form-control w-100" name="q10">
-                                            <option value="">Select Answer</option>
-                                            <option value="A">A</option>
-                                            <option value="B">B</option>
-                                            <option value="C">C</option>
-                                            <option value="D">D</option>
-                                            <option value="E">E</option>
-                                            <option value="F">F</option>
-                                            <option value="G">G</option>
-                                            <option value="H">H</option>
-                                            <option value="I">I</option>
-                                            <option value="J">J</option>
-                                            <option value="K">K</option>
-                                        </select>
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
+                <div class="row justify-content-between align-items-center mb-2">
+                    <div class="col-4 offset-8 mb-2 text-center font-weight-bold">
+                        Paragraph
+                    </div>
+                    <div class="col-8">
+                        6. Details of where two of Brunei’s rulers are buried.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q6">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        7. The reason why Kota Batu decreased in importance.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q7">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        8. Historical accounts of the origins of Brunei.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q8">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        9. First impressions of a European visitor.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q9">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center align-items-center mb-2">
+                    <div class="col-8">
+                        10. Geographical reasons why Kota Batu grew in importance.
+                    </div>
+                    <div class="col-4">
+                        <div class="position-relative">
+                            <select class="form-control" name="q10">
+                                <option value="">Select Answer</option>
+                                <option value="A">A</option>
+                                <option value="B">B</option>
+                                <option value="C">C</option>
+                                <option value="D">D</option>
+                                <option value="E">E</option>
+                                <option value="F">F</option>
+                                <option value="G">G</option>
+                                <option value="H">H</option>
+                            </select>
+                        </div>
                     </div>
                 </div>
 
                 <div class="bg-dark my-2 border border-dark"></div>
 
-                <h4 class="mt-0 mb-1">Questions 11 - 14</h4>
-                <p class="mt-0 mb-1">Complete the following sentences.</p>
-                <p>Select NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.</p>
+                <h4 class="mt-0 mb-0">Questions 11 - 14</h4>
+                <p class="mt-0 mb-0">Complete the following sentences.</p>
+                <p>Select <span class="font-weight-bold">NO MORE THAN THREE WORDS AND/OR A NUMBER</span> for each answer.</p>
                 
                 <div class="row">
                     <div class="col-md-12">
@@ -323,7 +327,7 @@
                         </div>
 
                         <div class="mt-3 line-height">
-                        In 1578, Spain was trying to exert control over the southern Philippines, which were under Bruneian  <span class="font-weight-bold">11</span> 
+                        In 1578, Spain was trying to exert control over the southern Philippines, which were under Bruneian  <span class="font-weight-bold">11.</span> 
                         <div class="d-inline-block position-relative">
                             <select name="q11" class="form-control">
                                 <option value="">Select Answer</option>
@@ -337,7 +341,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        . When the Spanish sailed to Brunei, they defeated the royal flotilla and took control of Kota Batu.  They later withdrew after large numbers of their soldiers were stricken with  <span class="font-weight-bold">12</span>
+                        . When the Spanish sailed to Brunei, they defeated the royal flotilla and took control of Kota Batu.  They later withdrew after large numbers of their soldiers were stricken with  <span class="font-weight-bold">12.</span>
                         <div class="d-inline-block position-relative">
                             <select name="q12" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -351,7 +355,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        but not before destroying the city and burning the splendid mosque. When Dutch  <span class="font-weight-bold">13</span>
+                        but not before destroying the city and burning the splendid mosque. When Dutch  <span class="font-weight-bold">13.</span>
                         <div class="d-inline-block position-relative">
                             <select name="q13" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -365,7 +369,7 @@
                                 <option value="H">h</option>
                             </select>
                         </div>
-                        arrived in 1600, they related that those who had escaped during the Spanish invasion never returned.  Inland, they found a city of 300 houses providing the first record of people living away from the <span class="font-weight-bold">14</span>
+                        arrived in 1600, they related that those who had escaped during the Spanish invasion never returned.  Inland, they found a city of 300 houses providing the first record of people living away from the <span class="font-weight-bold">14.</span>
                         <div class="d-inline-block position-relative">
                             <select name="q14" class="form-control w-auto">
                                 <option value="">Select Answer</option>
@@ -397,7 +401,7 @@
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
             <div class="modal-header py-1 bg-primary">
-                <h4 class="modal-title text-white" id="myCenterModalLabel">Score result</h4>
+                <h4 class="modal-title text-white" id="myCenterModalLabel">Scores result</h4>
                 <button type="button" class="close text-white" data-dismiss="modal" aria-hidden="true">×</button>
             </div>
             <div class="modal-body">
@@ -453,12 +457,12 @@
 
             if(data.exam[quiz].status == 1) {
 
-                $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 30px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
+                $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 20px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
                 select.addClass('border border-success');
 
             } else {
 
-                $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 30px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
+                $(`<span class="ml-2 text-success font-weight-bold" style="position: absolute; top: 50%; right: 20px; transform: translateY(-50%);">${data.exam[quiz].rightAnswer}</span>`).insertAfter(select);
                 select.addClass('border border-danger');
 
             }

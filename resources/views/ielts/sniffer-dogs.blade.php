@@ -67,10 +67,10 @@
             
                 <h4 class="mt-0 mb-1">Questions 1 - 5</h4>
                 <p class="mb-0">Classify the following statements as referring to the studies</p>
-                <p>Select a letter, A, B, or C.</p>
+                <p class="mb-0">Select a letter, A, B, or C.</p>
 
                 <div class="row">
-                    <div class="col-md-12">
+                    <div class="col-md-12 my-2">
                         <div class="d-flex flex-column">
                             <strong class="font-weight-bold">A. The first study</strong>
                             <strong class="font-weight-bold">B. The second study</strong>
@@ -79,9 +79,9 @@
                     </div>
 
                     <div class="col-md-12">
-                        <div class="form-group">
+                        <div class="form-group mb-0">
                             <label for="q1" class="col-form-label">1. Dogs can identify the presence of cancer through the patient’s breath.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q1" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -90,9 +90,9 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="form-group">
+                        <div class="form-group mb-0">
                             <label for="q2" class="col-form-label">2. Research involved both healthy people and people suffering from cancer. </label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q2" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -101,9 +101,9 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="form-group">
+                        <div class="form-group mb-0">
                             <label for="q3" class="col-form-label">3. Both breath tests and stool tests were used.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q3" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -112,9 +112,9 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="form-group">
+                        <div class="form-group mb-0">
                             <label for="q4" class="col-form-label">4. The dogs correctly identified the presence of cancer with 70% accuracy.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q4" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -123,9 +123,9 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="form-group">
+                        <div class="form-group mb-1">
                             <label for="q5" class="col-form-label">5. Specially trained dogs were used.</label>
-                            <div class="d-flex align-items-center mb-2">
+                            <div class="d-flex align-items-center">
                                 <select name="q5" class="form-control w-auto ml-2">
                                     <option value="">Select Answer</option>
                                     <option value="A">A</option>
@@ -141,16 +141,16 @@
 
                 <h4 class="mt-0 mb-1">Questions 6 – 10</h4>
                 <p class="mb-0">Do the following statements agree with the information given in the passage?</p>
-                <p class="font-weight-bold">For Questions 6 - 10 select</p>
-                <div class="row">
-                    <div class="col-md-3">
+                <p>For Questions 6-10, select</p>
+                <div class="row justify-content-center">
+                    <div class="col-md-auto">
                         <div class="d-flex flex-column">
                             <strong class="font-weight-bold">TRUE</strong>
                             <strong class="font-weight-bold">FALSE</strong>
                             <strong class="font-weight-bold">NOT GIVEN</strong>
                         </div>
                     </div>
-                    <div class="col-md-9">
+                    <div class="col-md-auto">
                         <div class="d-flex flex-column">
                             <p class="mb-0">if the statement agrees with the information</p>
                             <p class="mb-0">if the statement contradicts the information</p>
@@ -294,7 +294,7 @@
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
             <div class="modal-header py-1 bg-primary">
-                <h4 class="modal-title text-white" id="myCenterModalLabel">Score result</h4>
+                <h4 class="modal-title text-white" id="myCenterModalLabel">Scores result</h4>
                 <button type="button" class="close text-white" data-dismiss="modal" aria-hidden="true">×</button>
             </div>
             <div class="modal-body">
