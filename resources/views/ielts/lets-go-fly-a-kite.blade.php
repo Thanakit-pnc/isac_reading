@@ -129,7 +129,7 @@
                 <p>Choose the correct letter a, b, c, or d.</p>
 
                 <div class="form-group">
-                    <label for="col-form-label"><span class="mr-1">6.</span> For which of the following purposes were kites <i class="font-weight-bold">NOT</i> used in Ancient and Medieval China?</label>
+                    <label for="col-form-label"><span class="mr-1">6.</span> For which of the following purposes were kites <b class="font-weight-bold">NOT</b> used in Ancient and Medieval China?</label>
                     <div>
                         <div class="custom-control custom-radio">
                             <input type="radio" id="q6-1" name="q6" class="custom-control-input" value="A">

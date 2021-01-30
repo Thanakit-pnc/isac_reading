@@ -120,7 +120,7 @@
                                 </div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q2-4" name="q2" class="custom-control-input" value="D">
-                                    <label class="custom-control-label" for="q2-4">d.They both enjoy a strong cultural heritage.</label>
+                                    <label class="custom-control-label" for="q2-4">d. They both enjoy a strong cultural heritage.</label>
                                 </div>
                             </div>
                         </div>

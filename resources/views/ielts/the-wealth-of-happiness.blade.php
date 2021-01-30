@@ -188,7 +188,7 @@
                         </div>
                         <div class="custom-control custom-radio">
                             <input type="radio" id="q8-3" name="q8" class="custom-control-input" value="C">
-                            <label class="custom-control-label" for="q8-3">c. Because they worry about their money all the time and this makes them unhappy</label>
+                            <label class="custom-control-label" for="q8-3">c. Because they worry about their money all the time and this makes them unhappy.</label>
                         </div>
                         <div class="custom-control custom-radio">
                             <input type="radio" id="q8-4" name="q8" class="custom-control-input" value="D">

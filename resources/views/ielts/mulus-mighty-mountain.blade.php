@@ -137,7 +137,7 @@
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">3.</span> What do we know about Spencer St John’s first attempt to reach the summit?.</label>
+                            <label for="col-form-label" class="d-flex"><span class="mr-1">3.</span> What do we know about Spencer St John’s first attempt to reach the summit?</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q3-1" name="q3" class="custom-control-input" value="A">

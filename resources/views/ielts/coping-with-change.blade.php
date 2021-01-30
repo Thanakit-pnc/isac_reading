@@ -85,7 +85,7 @@
 
                 <h4 class="mt-0 mb-1">Questions 1 - 7</h4>
                 <p class="mb-0">Match the summaries with the paragraphs.</p>
-                <p>Select the correct letter B–H.</p>
+                <p>For Questions 1-7, Select the correct letter B–H.</p>
 
                 <div class="row justify-content-between align-items-center mb-2">
                     <div class="col-4 offset-8 mb-2 text-center font-weight-bold">

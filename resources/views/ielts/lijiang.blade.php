@@ -125,7 +125,7 @@
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">3.</span> The author describes one part of Lijiang as a ‘fairytale village’ because...</label>
+                            <label for="col-form-label" class="d-flex"><span class="mr-1">3.</span> The author describes one part of Lijiang as a ‘fairytale village’ because</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q3-1" name="q3" class="custom-control-input" value="A">

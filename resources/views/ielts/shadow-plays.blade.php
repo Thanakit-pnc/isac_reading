@@ -53,7 +53,7 @@
             <div class="card-box font-16 text-dark overflow-custom">
                 <h4 class="mt-0 mb-1">Questions 1 - 5</h4>
                 <p class="mb-0">Do the following statements agree with the information given in the passage?</p>
-                <p>For Questions 1-5 select</p>
+                <p>For Questions 1-5, select</p>
                 <div class="row justify-content-center">
                     <div class="col-md-auto">
                         <div class="d-flex flex-column">
@@ -148,7 +148,7 @@
                 </div>
 
                 <div class="form-group">
-                    <label for="col-form-label"><span class="mr-1">7.</span> Why is the role of the <span class="font-weight-bold">dalang</span>?</label>
+                    <label for="col-form-label"><span class="mr-1">7.</span> Why is the role of the dalang?</label>
                     <div>
                         <div class="custom-control custom-radio">
                             <input type="radio" id="q7-1" name="q7" class="custom-control-input" value="A">
@@ -170,7 +170,7 @@
                 </div>
 
                 <div class="form-group">
-                    <label for="col-form-label"><span class="mr-1">8.</span> What do we know about the <span class="font-weight-bold">Punkawan</span>?</label>
+                    <label for="col-form-label"><span class="mr-1">8.</span> What do we know about the Punkawan?</label>
                     <div>
                         <div class="custom-control custom-radio">
                             <input type="radio" id="q8-1" name="q8" class="custom-control-input" value="A">
