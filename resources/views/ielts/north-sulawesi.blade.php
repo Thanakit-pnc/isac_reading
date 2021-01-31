@@ -83,7 +83,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="form-group">
-                            <label for="col-form-label" class="d-flex"><span class="mr-1">1.</span> What do all the people of Sulawesi all have in common?</label>
+                            <label for="col-form-label" class="d-flex"><span class="mr-1">1.</span> What do all the people of Sulawesi have in common?</label>
                             <div>
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="q1-1" name="q1" class="custom-control-input" value="A">

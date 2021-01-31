@@ -192,7 +192,7 @@
                 </div>
 
                 <div class="form-group">
-                    <label for="col-form-label" class="d-flex"><span class="mr-1">9.</span> In the creation of figures suitable for a wayang kulit performance</label>
+                    <label for="col-form-label" class="d-flex"><span class="mr-1">9.</span> In the creation of figures suitable for a wayang kuilt performance,</label>
                     <div>
                         <div class="custom-control custom-radio">
                             <input type="radio" id="q9-1" name="q9" class="custom-control-input" value="A">
