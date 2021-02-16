@@ -2,12 +2,14 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
-use Illuminate\Foundation\Auth\AuthenticatesUsers;
-use Illuminate\Contracts\Auth\Authenticatable;
 use Auth;
-use App\Student;
+use App\Log;
 use Validator;
+use App\Student;
+use Jenssegers\Agent\Agent;
+use Illuminate\Http\Request;
+use Illuminate\Contracts\Auth\Authenticatable;
+use Illuminate\Foundation\Auth\AuthenticatesUsers;
 
 class LoginCustomController extends Controller
 {
@@ -26,6 +28,9 @@ class LoginCustomController extends Controller
 
     public function login(Request $request) {
 
+        $agent = new Agent();
+        $browser = $agent->platform().'/'.$agent->browser().' '.$agent->version($agent->browser());
+
         $validator = Validator::make($request->all(), [
             'username' => 'required',
             'password' => 'required'
@@ -43,6 +48,11 @@ class LoginCustomController extends Controller
 
         if($student) {
             Auth::guard('student')->login($student);
+
+            Log::create([
+                'std_id' => Auth::guard('student')->user()->std_id,
+                'browser' => $browser
+            ]);
 
             return redirect('/home');
         } else {
