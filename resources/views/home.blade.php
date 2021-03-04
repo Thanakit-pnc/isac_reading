@@ -29,9 +29,9 @@
 
         <div id="general-level" style="display: none;">
             <div class="d-flex flex-column">
-                <a href="{{ url('GE/L1') }}" class="btn btn-primary mb-2">Level 1</a>
-                <a href="{{ url('GE/L2') }}" class="btn btn-primary mb-2">Level 2</a>
-                <a href="{{ url('GE/L3') }}" class="btn btn-primary">Level 3</a>
+                <a href="{{ url('GE/L1') }}" class="btn btn-primary mb-2">Level 1 ( IELTS 4-4.5 )</a>
+                <a href="{{ url('GE/L2') }}" class="btn btn-primary mb-2">Level 2 ( IELTS 4.5-5 )</a>
+                <a href="{{ url('GE/L3') }}" class="btn btn-primary">Level 3 ( IELTS 5-6 )</a>
             </div>
         </div>
     </div>
