@@ -11,6 +11,9 @@
 |
 */
 
+Route::get('access/{token}/{id}', 'Auth\AccessController@store');
+Route::get('logout-ipack', 'Auth\AccessController@logout_ipack')->name('logout_ipack');
+
 Route::get('/', function() {
     if(Auth::guard('student')->check()) {
         return redirect('/home');
@@ -27,7 +30,7 @@ Route::get('coming-soon', function() {
     return view('coming-soon');
 });
 
-Route::middleware(['auth:student'])->group(function () {
+Route::group(['middleware' => 'auth:student,ipack'], function() {
     Route::get('/home', 'HomeController@index');
     Route::prefix('GE')->group(function () {
        Route::get('{level?}', 'GeneralController@chooseLevel');
@@ -147,6 +150,8 @@ Route::middleware(['auth:student'])->group(function () {
         Route::get('general-training-test-5/{mode}', 'GeneralController@general_test_05');
         Route::post('gt_test_05', 'GeneralController@gt_test_05')->name('store.gt-test-05');
     });
-    
 });
+
+    
+    
 

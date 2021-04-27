@@ -5,11 +5,12 @@ namespace App;
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 
-class Student extends Authenticatable
+class Ipack extends Authenticatable
 {
     use Notifiable;
 
-    protected $guard = 'student';
+    protected $connection = 'ipack';
+    protected $guard = 'ipack';
     protected $table = 'student';
     protected $primaryKey = "std_id";
     protected $rememberTokenName = false;

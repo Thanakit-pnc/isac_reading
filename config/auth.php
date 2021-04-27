@@ -50,6 +50,11 @@ return [
             'driver' => 'session',
             'provider' => 'student',
         ],
+
+        'ipack' => [
+            'driver' => 'session',
+            'provider' => 'ipack',
+        ],
     ],
 
     /*
@@ -78,6 +83,11 @@ return [
         'student' => [
             'driver' => 'eloquent',
             'model' => App\Student::class,
+        ],
+
+        'ipack' => [
+            'driver' => 'eloquent',
+            'model' => App\Ipack::class
         ],
 
         // 'users' => [

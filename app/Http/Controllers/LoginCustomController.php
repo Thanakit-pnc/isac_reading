@@ -19,7 +19,8 @@ class LoginCustomController extends Controller
 
     public function __construct()
     {
-        $this->middleware('student', ['except' => 'logout']);
+        $this->middleware('guest:student', ['except' => 'logout']);
+        $this->middleware('guest:ipack', ['except' => 'logout']);
     }
 
     public function showLoginForm() {
@@ -62,9 +63,10 @@ class LoginCustomController extends Controller
     }
 
     public function logout(Request $request) {
-        Auth::logout();
-        $request->session()->flush();
+
+        Auth::guard('student')->logout();
         return redirect('/login');
+        
     }
 
 }

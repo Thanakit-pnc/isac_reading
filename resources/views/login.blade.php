@@ -27,7 +27,6 @@
                                     <h3 class="d-flex justify-content-center align-items-center"><i class="mdi mdi-book-open-page-variant mdi-48px text-primary mr-2"></i> iSAC Reading</h3>
                                     <p class="text-muted mt-3">Enter your username and password to access iSAC Reading.</p>
                                 </div>
-
                                 @if(session()->has('status'))
                                 <div class="alert alert-danger alert-dismissible bg-danger text-white border-0 fade show" role="alert">
                                     <button type="button" class="close" data-dismiss="alert" aria-label="Close">

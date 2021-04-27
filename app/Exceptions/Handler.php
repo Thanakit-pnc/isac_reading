@@ -60,6 +60,15 @@ class Handler extends ExceptionHandler
             return response()->json(['error' => 'Unauthenticated.'], 401);
         }
 
-        return redirect()->guest(route('login'));
+        $guard = array_get($exception->guards(), 0);
+
+        switch ($guard) {
+            case 'ipack':
+                return "<script>window.close();</script>";
+                break;
+            default:
+                return redirect()->guest(route('login'));
+                break;
+        }
     }
 }
