@@ -12,7 +12,6 @@
 */
 
 Route::get('access/{token}/{id}', 'Auth\AccessController@store');
-Route::get('logout-ipack', 'Auth\AccessController@logout_ipack')->name('logout_ipack');
 
 Route::get('/', function() {
     if(Auth::guard('student')->check()) {

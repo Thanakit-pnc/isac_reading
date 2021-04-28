@@ -29,9 +29,4 @@ class AccessController extends Controller
         }
 
     }
-
-    public function logout_ipack() {
-        Auth::guard('ipack')->logout();
-        echo '<script>window.close();</script>';
-    }
 }
